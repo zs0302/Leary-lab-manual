@@ -2,7 +2,7 @@
 
 
 
-Leary-Ortho Biostats Lab Manual
+#**Leary-Ortho Biostats Lab Manual**
 
 
 
@@ -22,7 +22,7 @@ Leary-Ortho Biostats Lab Manual
 
 Table of contents
 
-[Introduction](#introduction)
+Introduction
 Lab members expectations and responsibilities
 Code of conduct
 Lab resources
