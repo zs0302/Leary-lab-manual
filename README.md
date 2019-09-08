@@ -757,23 +757,23 @@ Definitions:
 Policy: Staff are required to follow the hospital-wide dress code outlined here, as well as departmental standards for correct uniform/scrubs or business attire. The standards of this policy, as well as departmental standards, are to be complied with by staff during their regular scheduled work times, as well as during any returns to the hospital (“call”, extra work hours).
 Procedure: STANDARDS
 1.	General Appearance
-•	Staff appearance should convey an image of competence and seriousness of purpose that inspires confidence in our patients, visitors and fellow staff members.
-•	Personal hygiene should be maintained and body free of unpleasant odor.
-•	Fingernails should be kept clean and trimmed. Artificial nails are prohibited fir anyone providing direct patient care.
-•	Mustaches/beards and sideburns should be neatly trimmed.
-•	Hair shall be cleaned, neatly combed, and if longer than should length, worn in such a way as to not interfere with required job duties.
-•	The use of jewelry should not be excessive and should not unreasonably draw attention to the wearer. Jewelry that would pose a safety issue to the wearer or others is not permitted.
-•	All tattoos shall be free of emblems, slogans, or symbols that depict alcohol, illicit substances or paraphernalia, gang-related, intolerant beliefs, nudity, sex, obscene language, gambling, or antisocial comments/graphics, or must be covered on duty.
+*	Staff appearance should convey an image of competence and seriousness of purpose that inspires confidence in our patients, visitors and fellow staff members.
+*	Personal hygiene should be maintained and body free of unpleasant odor.
+*	Fingernails should be kept clean and trimmed. Artificial nails are prohibited fir anyone providing direct patient care.
+*	Mustaches/beards and sideburns should be neatly trimmed.
+*	Hair shall be cleaned, neatly combed, and if longer than should length, worn in such a way as to not interfere with required job duties.
+*	The use of jewelry should not be excessive and should not unreasonably draw attention to the wearer. Jewelry that would pose a safety issue to the wearer or others is not permitted.
+*	All tattoos shall be free of emblems, slogans, or symbols that depict alcohol, illicit substances or paraphernalia, gang-related, intolerant beliefs, nudity, sex, obscene language, gambling, or antisocial comments/graphics, or must be covered on duty.
 2.	Clothing
-•	Clothing should be clean and in good repair. Clothing should be without holes or frayed areas and appropriate for the specific activity in which employees are engaged. Radical departure from the normal business attire is not permitted.
-•	Clothing should be of appropriate size style so that it covers all necessary areas of the body. Undergarments should not be visible. 
-•	All clothing shall be free of emblems, slogans, or symbols that depict alcohol, illicit substances or paraphernalia, gang-related, intolerant beliefs, nudity, sex, obscene language, gambling, or antisocial comments/graphics.
-•	Shoes should be appropriate to the work being performed and should be non-noise producing in patient areas.
-•	All uniform requirements must be followed per department standards.
+*	Clothing should be clean and in good repair. Clothing should be without holes or frayed areas and appropriate for the specific activity in which employees are engaged. Radical departure from the normal business attire is not permitted.
+*	Clothing should be of appropriate size style so that it covers all necessary areas of the body. Undergarments should not be visible. 
+*	All clothing shall be free of emblems, slogans, or symbols that depict alcohol, illicit substances or paraphernalia, gang-related, intolerant beliefs, nudity, sex, obscene language, gambling, or antisocial comments/graphics.
+*	Shoes should be appropriate to the work being performed and should be non-noise producing in patient areas.
+*	All uniform requirements must be followed per department standards.
 3.	I.D. Badges
-•	Appear appropriately attired with ID badge worn at eye level, just below the shoulder with the name clearly displayed.
-•	I.D. badges are the property of University of Missouri Health Care and are not to be defaced or abused. No items are to be affixed or attached to the badge either temporarily or permanently.
-•	No lettering, drawing, or wording other than what was issued on the badge is permitted. For more detailed information, refer to Policy HR-5017, Photo Identification Badges.
+*	Appear appropriately attired with ID badge worn at eye level, just below the shoulder with the name clearly displayed.
+*	I.D. badges are the property of University of Missouri Health Care and are not to be defaced or abused. No items are to be affixed or attached to the badge either temporarily or permanently.
+*	No lettering, drawing, or wording other than what was issued on the badge is permitted. For more detailed information, refer to Policy HR-5017, Photo Identification Badges.
 
 Department managers may establish departmental standards as appropriate and monitor the need for periodic updates. Departmental standards should be in keeping with the purpose of the general dress code policy of the University of Missouri Health Care and be no less restrictive.
 
