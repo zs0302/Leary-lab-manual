@@ -742,10 +742,10 @@ The weekly lab meeting will take place on Missouri Orthopaedic Institute in room
 If the location or time changes, Ms. Kyeong and Dr. Leary will email you in advance.
 
 
-#Appendix
+# Appendix
 
 
-##MOI dress code
+## MOI dress code
 
 Dress Code Policy
 Category: Workplace
@@ -779,13 +779,13 @@ Department managers may establish departmental standards as appropriate and moni
 
 Conflicts with the Hospital dress code or departmental standards arising from staff who request special accommodation, should be referred to Human Resources.
 
-##Direction and Maps of MOI
+## Direction and Maps of MOI
 Please enter MOI through the North entrance next to the parking garage. Since you will need a badge to get in through the East entrance, don’t enter through the East main entrance.
 North entrance directions: follow the red line on the “MOI 4th floor-original wing” map. You will enter on the first floor and go to the right to the Gold Elevators next to the stairs. Take this to the 4th floor and walk straight through the doors ahead of you. There should be one or two people sitting behind the reception desk. They should be able to direct you if you tell them you are looking for room 4204. Otherwise follow the red line on the map down the long hallway. The red line on the map terminates at a door. You will walk through this door and the red line picks up on the “MOI 4th floor-expansion” map. The room is straight ahead on the right past the wall of windows.
 The maps of MOI 4th floor are shown below.
  
  
-##Training
+## Training
 
 *Training for IRB Approval:
 Go to [website](http://ecompliance.missouri.edu/login) to set up an eIRB account. Sign in and complete it. After setting up your eIRB account, you will enter the Institutional Review Board Compliance Module in eIRB and under “Prerequisites” you will choose “Take IRB Training” as shown in the figure below. 
@@ -808,7 +808,7 @@ NIS/HCUP training is located here: [website](https://www.hcup-us.ahrq.gov/tech_a
 
 
 
-##BOX Folder Setup
+## BOX Folder Setup
 
 Each member will have a BOX folder named by your name. This folder contains all the materials of your projects. 
 
@@ -818,14 +818,14 @@ The projects will have the following folders in each project folder for consiste
 •	Output – put all calculated tables, figures, and other output here. You must save your R workspace here. 
 •	Reports – put all report drafts here as well as any other reporting documents or data. 
 
-##File Formatting
+## File Formatting
 
 •	All Word Files must be changed to the English language and all reports must be spell-checked (in English!). 
 •	All tables and figures must have a title.
 •	All figures must have labels for both the y-axis and the x-axis. These labels should also be formatted for presentation. 
 
 
-##REDCap Instruction
+## REDCap Instruction
 
 We use REDCap to track hours and record what you have done weekly.
 https://medicine.missouri.edu/research/investigator-resources/show-me-portal/show-me-portal-resources
@@ -875,13 +875,13 @@ The process is: Weekly Time Summary<< Add/Edit records<< Create a new report whi
 *View report, and take a screenshot to email to Ms. Kyeong and Dr. Leary
 
 
-##Basic Data Management
+## Basic Data Management
 
 All data must be checked for validity, reasonability, and formatting. Sometimes missing data are denoted by “.”, “_”, “NA”, “NaN”, “-99” or “9999”. Or sometimes values are incorrect, for example, if you have a negative weight or weigh 9999lbs. If you do not check, these can be included in calculated means and other analyses. These may need to be re-coded – this is fine as long as this is documented in the report. 
 
 All statistical assumptions must be met prior to analysis. If assumptions are not met, investigate other approaches (e.g. non-parametric) or by combining categories for small cell counts. 
 
-##Time Tracking Procedures
+## Time Tracking Procedures
 
 Time tracking is required for each member since it can help us to manage your work and make a long-term plan for both of you and our projects. Also, time tracking helps us to assign you work effectively. REDCap is used to track your work hours every week. Through REDCap system, you need to submit some specific information:
 •	The record ID
