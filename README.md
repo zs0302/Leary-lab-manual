@@ -1,25 +1,3 @@
-
-
-
-
-**Leary-Ortho Biostats Lab Manual**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Table of contents
 
 *Introduction
