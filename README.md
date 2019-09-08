@@ -753,8 +753,11 @@ Policy ID: HR-5005-UMHC
 Title: Dress Code
 Purpose: To establish standards of dress which are appropriate in carrying out patient care and other related work assignments throughout University of Missouri Health Care (MUHC).
 Scope:
+
 Definitions:
+
 Policy: Staff are required to follow the hospital-wide dress code outlined here, as well as departmental standards for correct uniform/scrubs or business attire. The standards of this policy, as well as departmental standards, are to be complied with by staff during their regular scheduled work times, as well as during any returns to the hospital (“call”, extra work hours).
+
 Procedure: STANDARDS
 1.	General Appearance
 *	Staff appearance should convey an image of competence and seriousness of purpose that inspires confidence in our patients, visitors and fellow staff members.
