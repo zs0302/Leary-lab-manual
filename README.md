@@ -39,7 +39,7 @@ All of the [above](#everyone), plus you can expect her to:
 - Care about you as a person and not just a scientist
 
 ## Postdocs
-All of the above, plus you will be expected to:
+All of the [above](#everyone), plus you will be expected to:
 - Develop your own independent line of research
 - Mentor undergraduate and graduate students on their research projects, when asked or when appropriate
 - Apply for external funding.
@@ -48,7 +48,7 @@ All of the above, plus you will be expected to:
 - Remind the PI that different scientific opinions can co-exist in the same lab!
 
 ## Graduate students (PhD)
-All of the above, plus you will be expected to:
+All of the [above](#everyone), plus you will be expected to:
 - Develop a line of dissertation research. Ideally, your dissertation research will consist of at least 3 experiments that can be packaged into one thesis document.
 - Apply for external funding. If nothing else, this is an extremely valuable experience.
 - Do some soul-searching as to what type of career you want to pursue, e.g., academic jobs that are research-focused or teaching-focused, non-academic jobs like data science or science writing. We can brainstorm ways of making sure you are getting the training that you need.
@@ -56,7 +56,7 @@ All of the above, plus you will be expected to:
 - Stay up-to-date (and keep up-to-date) on any deadlines that you need to meet to fulfill departmental requirements. This is your responsibility not the PI’s.
 
 ## Lab managers
-All of the above, plus you will be expected to:
+All of the [above](#everyone), plus you will be expected to:
 - Maintain the lab IRB protocols and paperwork (e.g., archiving consent forms).
 - Oversee the hiring, scheduling, and training of undergraduate and master graduate level research assistants.
 - Maintain the lab website.
@@ -66,14 +66,14 @@ All of the above, plus you will be expected to:
 - Work on your own research project.
 
 ## Other full-time staff
-All of the above, plus you will be expected to:
+All of the [above](#everyone), plus you will be expected to:
 - Work on your own research project.
 - Assist other lab members with data collection or analysis (typically you will be assigned to particular projects).
 - Help to maintain an atmosphere of professionalism within the lab.
 - Provide extra support to the lab manager and PI.
 
 ## Undergraduate students
-All of the above, plus you will be expected to:
+All of the [above](#everyone), plus you will be expected to:
 - Assist other lab members with data collection or analysis (typically you will be assigned to particular projects).
 - Work with the lab manager and/or your research mentor to determine your weekly schedule. If you are not able to come in during your normal scheduled time, you must let the lab manager or research mentor know.
 - Provide extra support to the lab manager (this may include filing paperwork). If you are in lab and do not have a task to do, you should ask the lab manager or your supervisor whether there is anything you can help out with.
@@ -81,11 +81,9 @@ All of the above, plus you will be expected to:
 
 # Code of conduct
 ## General
-Many topics were covered already in the Lab member expectations & responsibilities section.
+Many topics were covered already in the [Lab member expectations & responsibilities section](#Lab member expectations and responsibilities).
 
-**In addition:**
-
-Confidentiality Policy
+## Confidentiality Policy
 We expect all the lab members to exercise reasonable care in the disclosure, use and management of restricted information about patients, patient care, personnel, students and the fiscal affairs of University of Missouri Health. 
 
 Protected Health Information (PHI)
@@ -95,27 +93,27 @@ MU Health operates under the requirements of the Health Insurance Portability an
 
 We do not access, obtain, disclose or discuss PHI without written authorization from patients or their legal representatives, unless necessary for treatment, payment or health care operations, or required by law. We also follow the “Minimum Necessary Rule” which means employees, faculty and staff have the right to access only the patient information necessary to perform our respective jobs. If you have questions regarding access to PHI, please contact the System Privacy Officer at (573) 882-3293. 
 
-Data Security
+## Data Security
 We must exercise reasonable care in the disclosure, transmission, access, use and management of confidential information about patients, patient care, personnel, students and proprietary business affairs of University of Missouri Health. 
 As stated in the University of Missouri Acceptable Use Policy, electronic information on MU Health networks or equipment, including, but not limited to, electronic mail and personal information, is subject to examination when: 
-•	It is necessary to maintain or improve the functioning of our computing resources. 
-•	There is suspicion of misconduct under MU Health policies or suspicion of violation of federal or state law. 
-•	It is necessary to comply with or verify compliance with federal or state law. 
+*	It is necessary to maintain or improve the functioning of our computing resources. 
+*	There is suspicion of misconduct under MU Health policies or suspicion of violation of federal or state law. 
+*	It is necessary to comply with or verify compliance with federal or state law. 
 
 Protecting confidential information is a priority within our health care system: 
-•	Do NOT access patient information unless you need the information to do your job. Inappropriate access to patient information will lead to disciplinary action. 
-•	You are to access only the minimum information necessary to accomplish your assigned job duties. This includes all information in paper and electronic form. 
-•	Only discuss patient information with authorized personnel and in a private location where unauthorized persons cannot overhear even if you are not using patient names. 
-•	Do NOT give information about patients or staff to anyone over the phone.
-•	Shred or place confidential information in receptacles specifically used for confidential waste disposal. Never put confidential waste in recycle bins or the regular trash. 
-•	The Access and Confidentiality Agreement must be read and signed by all instructors and all lab members. 
+*	Do NOT access patient information unless you need the information to do your job. Inappropriate access to patient information will lead to disciplinary action. 
+*	You are to access only the minimum information necessary to accomplish your assigned job duties. This includes all information in paper and electronic form. 
+*	Only discuss patient information with authorized personnel and in a private location where unauthorized persons cannot overhear even if you are not using patient names. 
+*	Do NOT give information about patients or staff to anyone over the phone.
+*	Shred or place confidential information in receptacles specifically used for confidential waste disposal. Never put confidential waste in recycle bins or the regular trash. 
+*	The Access and Confidentiality Agreement must be read and signed by all instructors and all lab members. 
 Some more information about MU health confidentiality can be found here.
 
 
-Lab Notebook Policy
+## Lab Notebook Policy
 Upon your involvement in research at the Department of Orthopaedic Surgery, you will be provided a notebook to aid in your work. Research or lab notebooks are an essential part of doing scientific research. The purpose of this notebook is to have an organized location for you to record and store notes and protocols about the research projects you are involved in through the department. This will help you to keep track of your work and allow you and others to review the steps taken during your analyses.
 
-Expectations
+### Expectations
 This notebook:
 •	should be labeled with your name and contact information,
 •	should be brought to every meeting with Dr. Leary/Ms Kyeong,
@@ -124,13 +122,15 @@ This notebook:
 •	should be organized and detailed enough for someone else to read and understand what you did,
 •	should not contain notes for other courses or projects outside of the Department of Orthopaedic Surgery.
 
-Security
+### Security
 All notebook holders should consider the sensitivity of the information that might be contained within the notebook in order to minimize dissemination of unauthorized information. Due to the sensitive nature of the data that you will be working with, the Department of Orthopaedic Surgery retains the right to confiscate this notebook anytime during or after your involvement with any affiliated research projects. 
 
 
-Schedule Notification
+## Schedule Notification
 For all lab members, your particular work of last week and work schedule for the following week will be discussed and assigned on weekly meeting. 
 The lab meeting is obligatory for each member. If you will be absent for some particular reason for the lab meeting, earlier notification needs to be made to Dr. Leary and Ms. Kyeong. For students, the schoolwork is priority, however you need to communicate with your supervisors when your schoolwork conflicts with Lab work and it is necessary to reduce work hours. Any event for personal reason needs to be notified in advance to avoid dispensable planning and scheduling. 
+
+**In addition:**
 
 All members of the lab, along with visitors, are expected to agree with the following code of conduct. We will enforce this code as needed. We expect cooperation from all members to help ensuring a safe environment for everybody. Please also see the University of Missouri NONDISCRIMINATION POLICY.
 
