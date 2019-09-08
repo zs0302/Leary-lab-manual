@@ -81,7 +81,7 @@ All of the [above](#everyone), plus you will be expected to:
 
 # Code of conduct
 ## General
-Many topics were covered already in the [Lab member expectations & responsibilities section](# Lab-member-expectations-and-responsibilities).
+Many topics were covered already in the [Lab member expectations & responsibilities section](#Lab-member-expectations-and-responsibilities).
 
 ## Confidentiality Policy
 We expect all the lab members to exercise reasonable care in the disclosure, use and management of restricted information about patients, patient care, personnel, students and the fiscal affairs of University of Missouri Health. 
