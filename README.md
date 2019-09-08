@@ -24,7 +24,7 @@ This work is licensed under a CC Attribution 4.0 license. We expect that more in
 - Show up to your meetings, classes, and exams – just show up for your commitments, and work the hours you need to work to get stuff done.
 - Lock the doors if no one else is around, even if you're stepping out for a minute.
 - Keep your area tidy. Eating at your desk is fine, but clean up food waste, crumbs, spills. Put equipment back where you found it. Keep common areas uncluttered.
-- MOI has a specific dress code, you can check the details at [MOI dress code](#MOI-dress-code). 
+- MOI has a specific dress code, you can check the details at [MOI dress code](##MOI-dress-code). 
 - Two trainings (HCUP and IRB) are necessity to be conducted before working. Find detail [here](#Training).
 
 - Be on time. Be on time for your meetings: respect that others have packed days and everyone’s time is valuable.
