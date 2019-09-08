@@ -791,25 +791,19 @@ The maps of MOI 4th floor are shown below.
  
 ## Training
 
-* Training for IRB Approval:
+1. Training for IRB Approval:
+
 Go to [website](http://ecompliance.missouri.edu/login) to set up an eIRB account. Sign in and complete it. After setting up your eIRB account, you will enter the Institutional Review Board Compliance Module in eIRB and under “Prerequisites” you will choose “Take IRB Training” as shown in the figure below. 
-
- 
-
- 
 
 Then you will sign into the CITI Program and follow the enclosed IRB course instructions (Make sure you are affiliated with the University of Missouri- Columbia).
 
 Once you have completed the IRB training, you will need to add the GCP training and follow the GCP instructions next to “IRB course instructions”. The page of IRB course instructions and GCP instructions are shown in the figure below.
 
- 
-
 When you complete it, you need to email the certificate to Vicki/Director. 
 
+2. Training for NIS/HCUP:
 
-* Training for NIS/HCUP:
 NIS/HCUP training is located here: [website](https://www.hcup-us.ahrq.gov/tech_assist/dua.jsp). There are two versions of HCUP training courses, one is a current version, alternative is a text version. You can choose one of them. Stats volunteers will need to fill out and sign data use agreement. Training certificates and data use agreements should be sent or given to Dr. Leary or Ms. Kyeong.
-
 
 
 ## BOX Folder Setup
@@ -831,8 +825,7 @@ The projects will have the following folders in each project folder for consiste
 
 ## REDCap Instruction
 
-We use REDCap to track hours and record what you have done weekly.
-https://medicine.missouri.edu/research/investigator-resources/show-me-portal/show-me-portal-resources
+We use REDCap to track hours and record what you have done weekly.Go to [here](https://medicine.missouri.edu/research/investigator-resources/show-me-portal/show-me-portal-resources)
 
 The process is: Weekly Time Summary<< Add/Edit records<< Create a new report which contains all the records on the past week.
 
@@ -895,6 +888,7 @@ Time tracking is required for each member since it can help us to manage your wo
 *	Number of hours you worked for each project
 *	Type of your work
 *	Details of your work
+
 The time sheet you reported should be from Sunday to Saturday of last week. When finishing with time tracking, please email the screenshot of your time sheet to Ms. Kyeong and Dr. Leary.
 Then please make sure all the work you did have been uploaded to your BOX folder in order, and the time tracking procedures should be done by the end of Sunday.
 
