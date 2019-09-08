@@ -791,7 +791,7 @@ The maps of MOI 4th floor are shown below.
  
 ## Training
 
-*Training for IRB Approval:
+* Training for IRB Approval:
 Go to [website](http://ecompliance.missouri.edu/login) to set up an eIRB account. Sign in and complete it. After setting up your eIRB account, you will enter the Institutional Review Board Compliance Module in eIRB and under “Prerequisites” you will choose “Take IRB Training” as shown in the figure below. 
 
  
@@ -807,7 +807,7 @@ Once you have completed the IRB training, you will need to add the GCP training 
 When you complete it, you need to email the certificate to Vicki/Director. 
 
 
-*Training for NIS/HCUP:
+* Training for NIS/HCUP:
 NIS/HCUP training is located here: [website](https://www.hcup-us.ahrq.gov/tech_assist/dua.jsp). There are two versions of HCUP training courses, one is a current version, alternative is a text version. You can choose one of them. Stats volunteers will need to fill out and sign data use agreement. Training certificates and data use agreements should be sent or given to Dr. Leary or Ms. Kyeong.
 
 
@@ -817,16 +817,16 @@ NIS/HCUP training is located here: [website](https://www.hcup-us.ahrq.gov/tech_a
 Each member will have a BOX folder named by your name. This folder contains all the materials of your projects. 
 
 The projects will have the following folders in each project folder for consistency. You must save each file with the date in the filename using the following format, “yyyymmdd”. For example, if I were saving a report for an ACL project on Aug 10, 2017 it would be saved as “Report_ACLproject_20170810.docx”. It is extremely important that the R code file matches the R workspace file – this is why putting dates in the file names are so important. Never delete old files – they should all have different names (because of the date at the end) and be placed in an “OLD” subfolder, within each project folder 
-•	Data – put all Data here, initial data, formatted data, data dictionaries etc. 
-•	Programs – put all R code here or any other code. You must save your R code each time you revise it. You must annotate all of your R code. It may be years until you need to re-visit a project (or I may need to later on). Annotate your code! 
-•	Output – put all calculated tables, figures, and other output here. You must save your R workspace here. 
-•	Reports – put all report drafts here as well as any other reporting documents or data. 
+*	Data – put all Data here, initial data, formatted data, data dictionaries etc. 
+*	Programs – put all R code here or any other code. You must save your R code each time you revise it. You must annotate all of your R code. It may be years until you need to re-visit a project (or I may need to later on). Annotate your code! 
+*	Output – put all calculated tables, figures, and other output here. You must save your R workspace here. 
+*	Reports – put all report drafts here as well as any other reporting documents or data. 
 
 ## File Formatting
 
-•	All Word Files must be changed to the English language and all reports must be spell-checked (in English!). 
-•	All tables and figures must have a title.
-•	All figures must have labels for both the y-axis and the x-axis. These labels should also be formatted for presentation. 
+*	All Word Files must be changed to the English language and all reports must be spell-checked (in English!). 
+*	All tables and figures must have a title.
+*	All figures must have labels for both the y-axis and the x-axis. These labels should also be formatted for presentation. 
 
 
 ## REDCap Instruction
@@ -888,15 +888,15 @@ All statistical assumptions must be met prior to analysis. If assumptions are no
 ## Time Tracking Procedures
 
 Time tracking is required for each member since it can help us to manage your work and make a long-term plan for both of you and our projects. Also, time tracking helps us to assign you work effectively. REDCap is used to track your work hours every week. Through REDCap system, you need to submit some specific information:
-•	The record ID
-•	Data worked
-•	Your name
-•	The project you worked
-•	Number of hours you worked for each project
-•	Type of your work
-•	Details of your work
+*	The record ID
+*	Data worked
+*	Your name
+*	The project you worked
+*	Number of hours you worked for each project
+*	Type of your work
+*	Details of your work
 The time sheet you reported should be from Sunday to Saturday of last week. When finishing with time tracking, please email the screenshot of your time sheet to Ms. Kyeong and Dr. Leary.
-Then please make all the work you did have been uploaded to your BOX folder in order, and the time tracking procedures should be done by the end of Sunday.
+Then please make sure all the work you did have been uploaded to your BOX folder in order, and the time tracking procedures should be done by the end of Sunday.
 
 
 
