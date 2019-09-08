@@ -783,11 +783,6 @@ Department managers may establish departmental standards as appropriate and moni
 
 Conflicts with the Hospital dress code or departmental standards arising from staff who request special accommodation, should be referred to Human Resources.
 
-## Direction and Maps of MOI
-Please enter MOI through the North entrance next to the parking garage. Since you will need a badge to get in through the East entrance, don’t enter through the East main entrance.
-North entrance directions: follow the red line on the “MOI 4th floor-original wing” map. You will enter on the first floor and go to the right to the Gold Elevators next to the stairs. Take this to the 4th floor and walk straight through the doors ahead of you. There should be one or two people sitting behind the reception desk. They should be able to direct you if you tell them you are looking for room 4204. Otherwise follow the red line on the map down the long hallway. The red line on the map terminates at a door. You will walk through this door and the red line picks up on the “MOI 4th floor-expansion” map. The room is straight ahead on the right past the wall of windows.
-The maps of MOI 4th floor are shown below.
- 
  
 ## Training
 
@@ -825,51 +820,25 @@ The projects will have the following folders in each project folder for consiste
 
 ## REDCap Instruction
 
-We use REDCap to track hours and record what you have done weekly.Go to [here](https://medicine.missouri.edu/research/investigator-resources/show-me-portal/show-me-portal-resources)
+We use REDCap to track hours and record what you have done weekly. Go to [here](https://medicine.missouri.edu/research/investigator-resources/show-me-portal/show-me-portal-resources)
 
 The process is: Weekly Time Summary<< Add/Edit records<< Create a new report which contains all the records on the past week.
 
-*Starting with a project “Weekly Time Summary”
+1. Starting with a project “Weekly Time Summary”.
 
+2. Add/Edit records. You can add as many records as you need for the past week.
 
-	* Add/Edit records
-	Add a new record and fill all the areas which must be provided. Then save the record. You can add        several records that you worked for the past week.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* Create a new report
+3. Create a new report.
  
+4. Fill all the [areas](#Time-Tracking-Procedures)
 
-*Then, fill out all the areas:
-*Name the report: (your name and the dates for the week). For example, Linlin Zhang: Oct 21- Oct 27.
-*When editing record, fill some useful areas, for example, 7 useful areas are shown as below:
+5. Name the report: (your name and the dates for the week). For example, Linlin Zhang: Oct 21- Oct 27.
 
+6. Use advanced logic, change the date range and name. For example, “[date]>=20180611 and [date]<=20180617 and [name]=12” will filter all the records for the number 12 person on the name list (Linlin Zhang) from 20180611 to 20180617.
 
+7. Save Report.
 
-
-
-
-
-
-
-*Use advanced logic, change the date range and name. For example, “[date]>=20180611 and [date]<=20180617 and [name]=12” will filter all the records for the number 12 person on the name list (Linlin Zhang) from 20180611 to 20180617.
-*Save Report
-*View report, and take a screenshot to email to Ms. Kyeong and Dr. Leary
+8. View report, and take a screenshot to email to Ms. Kyeong and Dr. Leary.
 
 
 ## Basic Data Management
