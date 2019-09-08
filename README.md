@@ -81,7 +81,7 @@ All of the [above](#everyone), plus you will be expected to:
 
 # Code of conduct
 ## General
-Many topics were covered already in the [Lab member expectations & responsibilities section](#Lab member expectations and responsibilities).
+Many topics were covered already in the [Lab member expectations & responsibilities section](# Lab-member-expectations-and-responsibilities).
 
 ## Confidentiality Policy
 We expect all the lab members to exercise reasonable care in the disclosure, use and management of restricted information about patients, patient care, personnel, students and the fiscal affairs of University of Missouri Health. 
@@ -129,6 +129,7 @@ All notebook holders should consider the sensitivity of the information that mig
 ## Schedule Notification
 For all lab members, your particular work of last week and work schedule for the following week will be discussed and assigned on weekly meeting. 
 The lab meeting is obligatory for each member. If you will be absent for some particular reason for the lab meeting, earlier notification needs to be made to Dr. Leary and Ms. Kyeong. For students, the schoolwork is priority, however you need to communicate with your supervisors when your schoolwork conflicts with Lab work and it is necessary to reduce work hours. Any event for personal reason needs to be notified in advance to avoid dispensable planning and scheduling. 
+
 
 **In addition:**
 
