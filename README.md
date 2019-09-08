@@ -752,6 +752,7 @@ Category: Workplace
 Policy ID: HR-5005-UMHC
 Title: Dress Code
 Purpose: To establish standards of dress which are appropriate in carrying out patient care and other related work assignments throughout University of Missouri Health Care (MUHC).
+
 Scope:
 
 Definitions:
