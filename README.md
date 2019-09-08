@@ -2,7 +2,7 @@
 
 
 
-#**Leary-Ortho Biostats Lab Manual**
+**Leary-Ortho Biostats Lab Manual**
 
 
 
@@ -22,22 +22,22 @@
 
 Table of contents
 
-Introduction
-Lab members expectations and responsibilities
-Code of conduct
-Lab resources
-General policies
-Funding
-Undergraduate research
-Appendix
-*MOI dress code
-*Direction and Maps of MOI
-*training
-*BOX Folder Setup
-* File Formatting
-* REDCap Instruction
-*Basic Data Management
-* Time Tracking Procedures
+*Introduction
+*Lab members expectations and responsibilities
+*Code of conduct
+*Lab resources
+*General policies
+*Funding
+*Undergraduate research
+*Appendix
+    *MOI dress code
+    *Direction and Maps of MOI
+    *training
+    *BOX Folder Setup
+    *File Formatting
+    *REDCap Instruction
+    *Basic Data Management 
+    *Time Tracking Procedures
 
 
 
