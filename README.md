@@ -172,6 +172,8 @@ If you encounter any problems in the course of doing research that results in a 
 # Lab Resources
 ## Slack
 ## Lab wiki
+### Question: As an international student, how can I continue to work in this lab using my OPT after graduation from MU?
+* answer:
 ## GitHub
 ## Outlook
 ## Others
