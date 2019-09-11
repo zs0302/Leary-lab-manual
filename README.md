@@ -185,7 +185,7 @@ If you encounter any problems in the course of doing research that results in a 
     
     * Step 5: Now you will receive a lot of forms from the HR, sign them and send them back (You will be asked for a electronic version headshot photo, prepare one in advance).
     
-    * Step 6: You also need to attend a new employee registration. Welcome back to Leary - Biostats Lab!
+    * Step 6: You also need to attend a new employee registration. Welcome back to Leary - Ortho Biostats Lab!
     
 ## GitHub
 ## Outlook
