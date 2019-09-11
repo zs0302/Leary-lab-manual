@@ -173,7 +173,20 @@ If you encounter any problems in the course of doing research that results in a 
 ## Slack
 ## Lab wiki
 * Question: As an international student, how can I continue to work in this lab using my OPT after graduation from MU?
-* answer:
+* Answer: Here is the step by step procedures.
+
+    * Step 1: Appply for OPT. The OPT application timeline and process can be found at [here](https://international.missouri.edu/come-to-mu/students/employment/opt/index.php?utm_source=f).
+    
+    * Step 2: Talk with Dr. Leary about your future plan. (I suggest talking both short plan and career plan. Short plans like how many hours you want to work, when you want to start working, what specific area you hope to work on. Career plans like what you are going yo do after finishing OPT from here, academic or industry).
+    
+    * Step 3: You cannot work until you get the EAD card. Tell Dr. leary as soon as possible when you get this card. Dr. Leary will tell the MOI HR to contact you. (Since the OPT process takes long time and your card delivery date is not guaranteed, I suggest you to apply OPT early and talk about the start working data with Dr. leary in advance.)
+    
+    * Step 4: Do not forget to update your employement information for the International Center website. Login to [mystatus](mystatus.missouri.edu), select OPT REQUEST, complete both OPT employment end date report and OPT employment report. (you need some information from Dr. Leary like employer information and your job title)
+    
+    * Step 5: Now you will receive a lot of forms from the HR, sign them and send them back (You will be asked for a electronic version headshot photo, prepare one in advance).
+    
+    * Step 6: You also need to attend a new employee registration. Welcome back to Leary - Biostats Lab!
+    
 ## GitHub
 ## Outlook
 ## Others
