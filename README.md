@@ -403,4 +403,3 @@ Analysis of NHIS data are similar with NIS data. The example report shown on the
 * Background on Data
 
 The Medical Expenditure Panel Survey (MEPS) is a set of large-scale surveys of families and individuals, their medical providers, and employers across the United States. MEPS is the most complete source of data on the cost and use of health care and health insurance coverage.
-
