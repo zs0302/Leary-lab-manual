@@ -173,9 +173,7 @@ If you encounter any problems in the course of doing research that results in a 
 ## Slack
 ## Lab wiki
 ## GitHub
-## Google Drive
-## Google Calendar
-## Email
+## Outlook
 ## Others
 
 # General policies
