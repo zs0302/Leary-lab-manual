@@ -181,7 +181,7 @@ If you encounter any problems in the course of doing research that results in a 
     
     * Step 3: You cannot work until you get the EAD card. Tell Dr. leary as soon as possible when you get this card. Dr. Leary will tell the MOI HR to contact you. (Since the OPT process takes long time and your card delivery date is not guaranteed, I suggest you to apply OPT early and talk about the start working data with Dr. leary in advance.)
     
-    * Step 4: Do not forget to update your employement information for the International Center website. Login to [mystatus](mystatus.missouri.edu), select OPT REQUEST, complete both OPT employment end date report and OPT employment report. (you need some information from Dr. Leary like employer information and your job title)
+    * Step 4: Do not forget to update your employement information for the International Center website. Login to [mystatus](https://mystatus.missouri.edu/), select OPT REQUEST, complete both OPT employment end date report and OPT employment report. (you need some information from Dr. Leary like employer information and your job title)
     
     * Step 5: Now you will receive a lot of forms from the HR, sign them and send them back (You will be asked for a electronic version headshot photo, prepare one in advance).
     
