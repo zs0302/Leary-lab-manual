@@ -194,7 +194,7 @@ Outlook is primarily an email application, it also includes a calendar, task man
 Tasks can be assigned via Outlook (email), so all members are expected to check emails every day and to response throughout the week as soon as possible.
 
 ## Outlook Calendar
-Outlook Calendar is build within Outlook. It can help to arrange and manage meeting and events. Dr. Leary will send notifications about meeting location and time via Outlook Calendar.
+Outlook Calendar is within Outlook. It can help to arrange and manage meeting and events. Dr. Leary will send notifications about meeting location and time via Outlook Calendar.
 
 ## Box  
 Each member will have a BOX folder named by your name. This folder contains all the materials of your projects. 
