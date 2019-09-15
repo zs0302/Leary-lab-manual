@@ -273,13 +273,13 @@ me to be transparent about where research money comes from and how it's spent. I
 * Other funds: Sometimes the lab receives small amounts of unrestricted funds from the
 university; these can be spent in the same way as start-up.
 
+## NIH funding notes
+ All research funded by the NIH *must* acknowledge the grant number upon publication. This is essential for documenting that we are turning their money into research findings. We must also submit a yearly progress report describing what we have accomplished. Lab members involved in the research will be asked to contribute to the progress report.
+ 
 ## Other funding notes
 All research funded by the NIH and DoD must acknowledge the grant number upon publication. This is essential for documenting that we are turning their money into research findings. We must also submit a yearly progress report describing what we have accomplished. Lab members involved in the research will be asked to contribute to the progress report.
 Research funded by other grants (e.g., RDC-US Census Bureau) must also acknowledge the source of funding and provide a statement which the RDC or whatever other funding source provides.
 
-
-## NIH funding notes
- All research funded by the NIH *must* acknowledge the grant number upon publication. This is essential for documenting that we are turning their money into research findings. We must also submit a yearly progress report describing what we have accomplished. Lab members involved in the research will be asked to contribute to the progress report.
 
 # Undergraduate research 
 Undergraduate research assistants play an important role in our lab, and we have a few opportunities for them to earn money or credit for their contributions. Because these opportunities require a certain degree of commitment from both the student and the lab, we generally reserve them for students who have already spent at least one semester volunteering in lab. If this policy would prevent you from being able to work in lab, please talk to Dr. Leary or the lab manager because we want all students to be able to pursue their research interests. In addition to volunteering in lab, other research opportunities includes data collection.
