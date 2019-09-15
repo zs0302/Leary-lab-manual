@@ -263,6 +263,20 @@ Not only is data-sharing the right thing to do, we are actually required to do s
 # Funding
 
 ## Allocation of expenses
+I will oversee all aspects of the financial management of our funding sources. However, it is important to
+me to be transparent about where research money comes from and how it's spent. I have included some notes below but please do not hesitate to ask if you want to know more details.
+* MOI/TLRO: These funds are flexible in that they can be used for any justifiable purpose.
+* NIH: NIH funds are more restricted than start-up funds and because they expire more quickly, we should use them whenever allowable and save start-up funds for other purposes.
+* DoD: Department of Defense (DoD) funds are restricted to these projects only. 
+* RDC-US Census Bureau: These funds are available for the NHIS and MEPS projects (and associated costs) only.
+* Richard Wallace Faculty Incentive Grant: These funds are for undergraduate research and for the OCA ankle & hip projects only. 
+* Other funds: Sometimes the lab receives small amounts of unrestricted funds from the
+university; these can be spent in the same way as start-up.
+
+## Other funding notes
+All research funded by the NIH and DoD must acknowledge the grant number upon publication. This is essential for documenting that we are turning their money into research findings. We must also submit a yearly progress report describing what we have accomplished. Lab members involved in the research will be asked to contribute to the progress report.
+Research funded by other grants (e.g., RDC-US Census Bureau) must also acknowledge the source of funding and provide a statement which the RDC or whatever other funding source provides.
+
 
 ## NIH funding notes
  All research funded by the NIH *must* acknowledge the grant number upon publication. This is essential for documenting that we are turning their money into research findings. We must also submit a yearly progress report describing what we have accomplished. Lab members involved in the research will be asked to contribute to the progress report.
