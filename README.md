@@ -172,7 +172,6 @@ Lab members must also complete the CITI training and save their certificate. To 
 If you encounter any problems in the course of doing research that results in a negative outcome for the participant (e.g., if a participant becomes ill or upset, if there is an accident with the equipment, if there is a breach of confidentiality, etc), you should immediately seek assistance from Dr. Leary or the lab manager. If Dr. Leary is not around, you must notify Dr. Leary and the lab manager *within 24 hours*, preferably as soon as possible. In some cases, we may need to report this information to the IRB and/or our funding agencies.
 
 # Lab Resources
-## Slack
 ## Lab wiki
 * Question: As an international student, how can I continue to work in this lab using my OPT after graduation from MU?
 * Answer: Here are the step by step procedures (2019 Spring Semester).
@@ -190,6 +189,8 @@ If you encounter any problems in the course of doing research that results in a 
     * Step 6: Last step is to attend a new employee registration. Welcome back to Leary - Ortho Biostats Lab!
     
 ## GitHub
+Github is a hosting serveice. Projects on GitHub can be accessed and manipulated using the standard Git command-line interface and all of the standard Git commands work with it. GitHub also allows registered and non-registered users to browse public repositories on the site. All members must register an account in order to contribute to discussion and manage repository. 
+
 ## Outlook
 Outlook is primarily an email application, it also includes a calendar, task manager, contact manager, note taking, journal, and web browsing.
 
@@ -202,7 +203,7 @@ Outlook Calendar is within Outlook. It can help to arrange and manage meetings a
 Each member will have a BOX folder named by your name. This folder contains all the materials of your projects. 
 
 The projects will have the following folders in each project folder for consistency. You must save each file with the date in the filename using the following format, “yyyymmdd”. For example, if I were saving a report for an ACL project on Aug 10, 2017 it would be saved as “Report_ACLproject_20170810.docx”. It is extremely important that the R code file matches the R workspace file – this is why putting dates in the file names are so important. Never delete old files – they should all have different names (because of the date at the end) and be placed in an “OLD” subfolder, within each project folder 
-*	Data – put all Data here, initial data, formatted data, data dictionaries etc. 
+*	Data – put all Data here, initial data, formatted data, data dictionaries etc. Put all datasets you created in an archive folder so that other members can check the data at anytime.
 *	Programs – put all R code here or any other code. You must save your R code each time you revise it. You must annotate all of your R code. It may be years until you need to re-visit a project (or I may need to later on). Annotate your code! 
 *	Output – put all calculated tables, figures, and other output here. You must save your R workspace here. 
 *	Reports – put all report drafts here as well as any other reporting documents or data. 
