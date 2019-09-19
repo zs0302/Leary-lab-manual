@@ -77,7 +77,7 @@ All of the [above](#everyone), plus you will be expected to:
 - Assist other lab members with data collection or analysis (typically you will be assigned to particular projects).
 - Work with the lab manager and/or your research mentor to determine your weekly schedule. If you are not able to come in during your normal scheduled time, you must let the lab manager or research mentor know.
 - Provide extra support to the lab manager (this may include filing paperwork). If you are in lab and do not have a task to do, you should ask the lab manager or your supervisor whether there is anything you can help out with.
-- For more information about undergraduate research positions, refer to the Undergraduate Research section below.
+- For more information about undergraduate research positions, refer to the [Undergraduate Research](#Undergraduate research ) section below.
 
 # Code of conduct
 ## General
@@ -115,12 +115,12 @@ Upon your involvement in research at the Department of Orthopaedic Surgery, you 
 
 ### Expectations
 This notebook:
-•	should be labeled with your name and contact information,
-•	should be brought to every meeting with Dr. Leary/Ms Kyeong,
-•	should be legible and kept in good condition,
-•	should contain notes from meetings and a detailed account of the statistical analyses you perform,
-•	should be organized and detailed enough for someone else to read and understand what you did,
-•	should not contain notes for other courses or projects outside of the Department of Orthopaedic Surgery.
+*	should be labeled with your name and contact information,
+*	should be brought to every meeting with Dr. Leary/Ms Kyeong,
+*	should be legible and kept in good condition,
+*	should contain notes from meetings and a detailed account of the statistical analyses you perform,
+*	should be organized and detailed enough for someone else to read and understand what you did,
+*	should not contain notes for other courses or projects outside of the Department of Orthopaedic Surgery.
 
 ### Security
 All notebook holders should consider the sensitivity of the information that might be contained within the notebook in order to minimize dissemination of unauthorized information. Due to the sensitive nature of the data that you will be working with, the Department of Orthopaedic Surgery retains the right to confiscate this notebook anytime during or after your involvement with any affiliated research projects. 
@@ -171,7 +171,7 @@ If you encounter any problems in the course of doing research that results in a 
 
 # Lab Resources
 ## GitHub
-Github is a hosting serveice. Projects on GitHub can be accessed and manipulated using the standard Git command-line interface and all of the standard Git commands work with it. GitHub also allows registered and non-registered users to browse public repositories on the site. All members must register an account in order to contribute to discussion and manage repository. Our lab wiki is also on [Github](https://github.com/LearyE/lab-manual). Don't hesitate to ask questions on Github lab wiki and all members are welcome to discuss.
+Github is a hosting serveice. Projects on GitHub can be accessed and manipulated using the standard Git command-line interface and all of the standard Git commands work with it. GitHub also allows registered and non-registered users to browse public repositories on the site. All members must register an account in order to contribute to discussion and manage repository. Our lab wiki is also on [Github](https://github.com/LearyE/Ortho-Biostats). Don't hesitate to ask questions on Github lab wiki and all members are welcome to discuss.
 
 ## Outlook
 Outlook is primarily an email application, it also includes a calendar, task manager, contact manager, note taking, journal, and web browsing.
