@@ -193,7 +193,7 @@ The projects will have the following folders in each project folder for consiste
 *	Reports – put all report drafts here as well as any other reporting documents or data. 
 
 ## Box Sync
-Box Sync is a productivity tool that allows you to mirror data stored on Box to your desktop. You can then navigate and modify content stored on the Box website through your computer’s native file browsing interface, without using a web browser. Content that syncs down to your computer is available for offline access, and if you make changes to the synced files locally, these changes automatically sync back up to your Box account. For installing Box Sync, please check [this](*https://community.box.com/t5/Using-Box-Sync/Installing-Box-Sync/ta-p/85) 
+Box Sync is a productivity tool that allows you to mirror data stored on Box to your desktop. You can then navigate and modify content stored on the Box website through your computer’s native file browsing interface, without using a web browser. Content that syncs down to your computer is available for offline access, and if you make changes to the synced files locally, these changes automatically sync back up to your Box account. For installing Box Sync, please check [this](https://community.box.com/t5/Using-Box-Sync/Installing-Box-Sync/ta-p/85) 
 
 
 
