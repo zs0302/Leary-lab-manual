@@ -172,24 +172,8 @@ Lab members must also complete the CITI training and save their certificate. To 
 If you encounter any problems in the course of doing research that results in a negative outcome for the participant (e.g., if a participant becomes ill or upset, if there is an accident with the equipment, if there is a breach of confidentiality, etc), you should immediately seek assistance from Dr. Leary or the lab manager. If Dr. Leary is not around, you must notify Dr. Leary and the lab manager *within 24 hours*, preferably as soon as possible. In some cases, we may need to report this information to the IRB and/or our funding agencies.
 
 # Lab Resources
-## Lab wiki
-* Question: As an international student, how can I continue to work in this lab using my OPT after graduation from MU?
-* Answer: Here are the step by step procedures (2019 Spring Semester).
-
-    * Step 1: Apply for OPT. The OPT application timeline and process can be found at [here](https://international.missouri.edu/come-to-mu/students/employment/opt/index.php?utm_source=f).
-    
-    * Step 2: Talk with Dr. Leary about your future plan. (I suggest talking both short plan, i.e. working hours, starting date, interest fields and etc, and career plan like what you are going to do after finishing OPT from here, academic or industry)
-    
-    * Step 3: You cannot work until you get the EAD card. Tell Dr. Leary as soon as possible when you get it. Dr. Leary will tell the MOI HR to contact you. (Since the OPT process takes a long time and your card delivery date is not guaranteed, I suggest you to apply OPT early and talk about the starting date with Dr. Leary in advance)
-    
-    * Step 4: Do not forget to update your employment information for OPT status. Login to [mystatus](https://mystatus.missouri.edu/), select OPT REQUEST, complete both OPT employment end date report and OPT employment report. (you need some information from Dr. Leary about employer information and your job title)
-    
-    * Step 5: Now you will receive a lot of forms from the HR, sign them and send them back. (You will be asked for an electronic version headshot photo, prepare one in advance)
-    
-    * Step 6: Last step is to attend a new employee registration. Welcome back to Leary - Ortho Biostats Lab!
-    
 ## GitHub
-Github is a hosting serveice. Projects on GitHub can be accessed and manipulated using the standard Git command-line interface and all of the standard Git commands work with it. GitHub also allows registered and non-registered users to browse public repositories on the site. All members must register an account in order to contribute to discussion and manage repository. 
+Github is a hosting serveice. Projects on GitHub can be accessed and manipulated using the standard Git command-line interface and all of the standard Git commands work with it. GitHub also allows registered and non-registered users to browse public repositories on the site. All members must register an account in order to contribute to discussion and manage repository. Our lab wiki is also on [Github](https://github.com/LearyE/lab-manual). Don't hesitate to ask questions on Github lab wiki and all members are welcome to discuss.
 
 ## Outlook
 Outlook is primarily an email application, it also includes a calendar, task manager, contact manager, note taking, journal, and web browsing.
