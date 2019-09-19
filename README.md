@@ -77,7 +77,7 @@ All of the [above](#everyone), plus you will be expected to:
 - Assist other lab members with data collection or analysis (typically you will be assigned to particular projects).
 - Work with the lab manager and/or your research mentor to determine your weekly schedule. If you are not able to come in during your normal scheduled time, you must let the lab manager or research mentor know.
 - Provide extra support to the lab manager (this may include filing paperwork). If you are in lab and do not have a task to do, you should ask the lab manager or your supervisor whether there is anything you can help out with.
-- For more information about undergraduate research positions, refer to the [Undergraduate Research](#Undergraduate research ) section below.
+- For more information about undergraduate research positions, refer to the [Undergraduate Research](#Undergraduate-research ) section below.
 
 # Code of conduct
 ## General
