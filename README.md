@@ -182,7 +182,7 @@ Tasks can be assigned via Outlook (email) through OneNote, so all members are ex
 Outlook Calendar is within Outlook. It can help to arrange and manage meetings and events. Dr. Leary will send notifications about meeting location and time via Outlook Calendar. PLease keep your Outlook Calendar connected.
 
 ## OneNote
-
+OneNote is a digital notebook for taking notes and managing information. Notes can be shared with other OneNote users over the internet or network. The lab meeting notes will be posted on OneNote. Lab members can also check their tasks and project progress on OneNote.
 
 ## Box and Project Management 
 Each member will have a BOX folder with your name. This folder must contain all the materials of your projects. Do not save any project materials on a computer or in another cloud service.
@@ -238,7 +238,7 @@ Your project folders should typically look something like this:
   - contains a folder for raw data - always keep a copy of the raw (i.e., unprocessed/original) data & keep it separate from the copy that you're using in your pipeline
   - processed data used in following steps – should be labeled clearly
   - this folder also contains a file documenting demographic & other summary info
-  - final, clean data sets used for analysis, containing all created corresponding data dictionary.
+  - final, clean data sets used for analysis, containing all created variables and corresponding data dictionary.
 - `ProjectName/Results`
   - contains folders or files of each type of results, e.g. report, summary
 - `ProjectName/Program`
@@ -246,7 +246,7 @@ Your project folders should typically look something like this:
 - `ProjectName/Output`
   - contains the outputs of program
   
-You are encouraged to use an organization scheme like this one. When you archive the dataset, you will be required to format it like this (or something similarly transparent in its organization), so might as well start that way. 
+You are encouraged to use an organization scheme like the above one. When you archive the dataset, you will be required to format it like the above (or something similarly transparent in its organization), so might as well start that way. 
 
 ### Archiving inactive datasets
 Before you leave the lab, you will be required to document and archive all datasets that you have collected or analyzed. The dataset will be reviewed before you leave. Please move the data to Box folders, and make sure annotated codes are included and will run data. 
@@ -325,11 +325,11 @@ Then you will sign into the CITI Program and follow the enclosed IRB course inst
 
 Once you have completed the IRB training, you will need to add the GCP training and follow the GCP instructions next to “IRB course instructions”. The page of IRB course instructions and GCP instructions are shown in the figure below.
 
-When you complete these trainings, save your completion certificates as pdf files and email to Ms. Vicki Jones (jonesvicki@health.missouri.edu) and cc Dr. Leary.
+When you complete these trainings, save your completion certificates as .pdf files and email to Ms. Vicki Jones (jonesvicki@health.missouri.edu) and cc Dr. Leary.
 
 2. DUA for NIS/HCUP:
 
-NIS/HCUP training is located here: [website](https://www.hcup-us.ahrq.gov/tech_assist/dua.jsp). There are two versions of HCUP training courses, one is a current version, alternative is a text version. You can choose one of them. Stats volunteers will need to fill out and sign data use agreement. Training certificates and data use agreements should be sent or given to Dr. Leary or Ms. Kyeong.
+NIS/HCUP training is located [here](https://www.hcup-us.ahrq.gov/tech_assist/dua.jsp). There are two versions of HCUP training courses, one is a current version, alternative is a text version. You can choose one of them. Stats volunteers will need to fill out and sign data use agreement and sent it to Dr. Leary.
 
 ## File Formatting
 
@@ -340,7 +340,10 @@ NIS/HCUP training is located here: [website](https://www.hcup-us.ahrq.gov/tech_a
 
 ## REDCap Instruction
 
-We use REDCap to track hours and record what you have done weekly. Go to [here](https://medicine.missouri.edu/research/investigator-resources/show-me-portal/show-me-portal-resources)
+We use REDCap to track hours and record what you have done weekly. Go to [Show Me Portal](https://medicine.missouri.edu/research/investigator-resources/show-me-portal/show-me-portal-resources), click the yellow button "LAUNCH REDCAP" and login with your pawprint and password.
+
+Here is the procedure for making your weekly record:
+
 
 The process is: Weekly Time Summary<< Add/Edit records<< Create a new report which contains all the records on the past week.
 
@@ -358,7 +361,7 @@ The process is: Weekly Time Summary<< Add/Edit records<< Create a new report whi
 
 7. Save Report.
 
-8. View report, and take a screenshot to email to Ms. Kyeong and Dr. Leary.
+8. View report, and take a screenshot to email to Ms. Kyeong and Dr. Leary. This must be done before Monday 8 a.m. each week . In addition, in this email you need to provide a detailed description of your progress for each project during the week. 
 
 
 ## Basic Data Management
