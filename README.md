@@ -1,7 +1,7 @@
 # Introduction
 Welcome to the Leary – Ortho Biostats Lab manual. This manual was inspired by other similar works, and borrows heavily from them (e.g., [this one](https://github.com/alylab/labmanual) and [this one](https://github.com/memobc/memolab-manual)). It is intended to represent my vision for how the lab should function and to complement existing University of Missouri policies (which take precedence). We hope you will learn a lot about clinical statistics, developing new skills (coding, analyzing data, writing and giving talks), making new friends and having a great deal of fun throughout the whole process.
 
-This work is licensed under a CC Attribution 4.0 license. We expect that more information will be added and some sections will be revised as the lab grows and develops. If you have any comments or suggestions regarding the contents of this manual, please tell Dr. Leary (leary@health.missouri.edu).
+This work is licensed under a CC Attribution 4.0 license. We expect that more information will be added and some sections will be revised as the lab grows and develops. If you have any comments or suggestions regarding the contents of this manual, please tell Dr. Leary (learye@health.missouri.edu).
 
 # Lab member expectations and responsibilities
 ## Everyone
@@ -25,12 +25,11 @@ This work is licensed under a CC Attribution 4.0 license. We expect that more in
 - Lock the doors if no one else is around, even if you're stepping out for a minute.
 - Keep your area tidy. Eating at your desk is fine, but clean up food waste, crumbs, spills. Put equipment back where you found it. Keep common areas uncluttered.
 - MOI has a specific dress code, you can check the details at [MOI dress code](#MOI-dress-code). 
-- Two trainings (HCUP and IRB) are necessity to be conducted before working. Find detail [here](#Training).
-
+- Two trainings (HCUP and IRB) are necessary to be completed before working in the lab. Find details [here](#Training).
 - Be on time. Be on time for your meetings: respect that others have packed days and everyone’s time is valuable.
 
 ## Dr. Leary – Principal Investigator
-All of the [above](#everyone), plus you can expect her to:
+All of the [Lab member expectations and responsibilities](#everyone), plus you can expect her to:
 - Maintain a vision of where the lab is going
 - Provide the funding necessary to keep the lab going
 - Be available in person and via e-mail on a regular basis, including regular meetings to discuss your research (and anything else you’d like to discuss)
@@ -39,7 +38,7 @@ All of the [above](#everyone), plus you can expect her to:
 - Care about you as a person and not just a scientist
 
 ## Postdocs
-All of the [above](#everyone), plus you will be expected to:
+All of the [Lab member expectations and responsibilities](#everyone), plus you will be expected to:
 - Develop your own independent line of research
 - Mentor undergraduate and graduate students on their research projects, when asked or when appropriate
 - Apply for external funding.
@@ -48,15 +47,15 @@ All of the [above](#everyone), plus you will be expected to:
 - Remind the PI that different scientific opinions can co-exist in the same lab!
 
 ## Graduate students (PhD)
-All of the [above](#everyone), plus you will be expected to:
+All of the [Lab member expectations and responsibilities](#everyone), plus you will be expected to:
 - Develop a line of dissertation research. Ideally, your dissertation research will consist of at least 3 experiments that can be packaged into one thesis document.
 - Apply for external funding. If nothing else, this is an extremely valuable experience.
-- Do some soul-searching as to what type of career you want to pursue, e.g., academic jobs that are research-focused or teaching-focused, non-academic jobs like data science or science writing. We can brainstorm ways of making sure you are getting the training that you need.
+- Do some soul-searching as to what type of career you want to pursue, e.g., academic jobs that are research-focused or teaching-focused, non-academic jobs like data science or science writing. We can brainstorm ways of making sure you are getting the training that you need. Your dissertation research can support and strengthen your career goals, even if not academic.
 - Work with a team of undergraduate students or graduate students more junior than you. This will speed up data collection and give you some experience with managing and mentoring a team.
 - Stay up-to-date (and keep up-to-date) on any deadlines that you need to meet to fulfill departmental requirements. This is your responsibility not the PI’s.
 
 ## Lab managers
-All of the [above](#everyone), plus you will be expected to:
+All of the [Lab member expectations and responsibilities](#everyone), plus you will be expected to:
 - Maintain the lab IRB protocols and paperwork (e.g., archiving consent forms).
 - Oversee the hiring, scheduling, and training of undergraduate and master graduate level research assistants.
 - Maintain the lab website.
@@ -66,17 +65,17 @@ All of the [above](#everyone), plus you will be expected to:
 - Work on your own research project.
 
 ## Other full-time staff
-All of the [above](#everyone), plus you will be expected to:
+All of the [Lab member expectations and responsibilities](#everyone), plus you will be expected to:
 - Work on your own research project.
 - Assist other lab members with data collection or analysis (typically you will be assigned to particular projects).
 - Help to maintain an atmosphere of professionalism within the lab.
 - Provide extra support to the lab manager and PI.
 
 ## Undergraduate students
-All of the [above](#everyone), plus you will be expected to:
+All of the [Lab member expectations and responsibilities](#everyone), plus you will be expected to:
 - Assist other lab members with data collection or analysis (typically you will be assigned to particular projects).
 - Work with the lab manager and/or your research mentor to determine your weekly schedule. If you are not able to come in during your normal scheduled time, you must let the lab manager or research mentor know.
-- Provide extra support to the lab manager (this may include filing paperwork). If you are in lab and do not have a task to do, you should ask the lab manager or your supervisor whether there is anything you can help out with.
+- Provide extra support to the lab manager (this may include filing paperwork). If you are in lab and do not have a task to do, you should ask the lab manager or your supervisor whether there is anything you can help out with. You should not be idle.
 - For more information about undergraduate research positions, refer to the [Undergraduate Research](#Undergraduate-research ) section below.
 
 # Code of conduct
@@ -107,7 +106,7 @@ Protecting confidential information is a priority within our health care system:
 *	Do NOT give information about patients or staff to anyone over the phone.
 *	Shred or place confidential information in receptacles specifically used for confidential waste disposal. Never put confidential waste in recycle bins or the regular trash. 
 *	The Access and Confidentiality Agreement must be read and signed by all instructors and all lab members. 
-Some more information about MU health confidentiality can be found here.
+Some more information about MU health confidentiality can be found [here](https://medicine.missouri.edu/centers-institutes-labs/health-ethics/faq/confidentiality).
 
 
 ## Lab Notebook Policy
@@ -121,14 +120,15 @@ This notebook:
 *	should contain notes from meetings and a detailed account of the statistical analyses you perform,
 *	should be organized and detailed enough for someone else to read and understand what you did,
 *	should not contain notes for other courses or projects outside of the Department of Orthopaedic Surgery.
+* should be in English letter languages only about English terms for notes to yourself.
 
 ### Security
 All notebook holders should consider the sensitivity of the information that might be contained within the notebook in order to minimize dissemination of unauthorized information. Due to the sensitive nature of the data that you will be working with, the Department of Orthopaedic Surgery retains the right to confiscate this notebook anytime during or after your involvement with any affiliated research projects. 
 
 
 ## Schedule Notification
-For all lab members, your particular work of last week and work schedule for the following week will be discussed and assigned on weekly meeting. 
-The lab meeting is obligatory for each member. If you will be absent for some particular reason for the lab meeting, earlier notification needs to be made to Dr. Leary and Ms. Kyeong. For students, the schoolwork is priority, however you need to communicate with your supervisors when your schoolwork conflicts with Lab work and it is necessary to reduce work hours. Any event for personal reason needs to be notified in advance to avoid dispensable planning and scheduling. 
+For all lab members, your particular work of the previous week and work schedule for the following week will be discussed and assigned during the weekly meeting. 
+The lab meeting is obligatory for each member. If you will be absent for some particular reason for the lab meeting, earlier notification needs to be made to Dr. Leary and Ms. Kyeong. For students, schoolwork is priority, however you need to communicate with your supervisors when your schoolwork conflicts with Lab work and it is necessary to reduce work hours. Any event for personal reason needs to be notified in advance to avoid rescheduling. 
 
 
 **In addition:**
@@ -139,7 +139,7 @@ The lab is dedicated to providing a harassment-free experience for everyone, reg
 
 Members asked to stop any harassing behavior are expected to comply immediately.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact Dr. Leary immediately. If Dr. Leary is the cause of your concern, then please reach out to Ms. Stacee Clawson, Dr. James Cook or another trusted departmental member who can assist.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact Dr. Leary immediately. If Dr. Leary is the cause of your concern, then please reach out to Ms. Stacee Clawson, Dr. James Cook or another trusted department member who can assist.
 
 We expect members to follow these guidelines at any lab-related event or activity.
 
@@ -161,37 +161,40 @@ We will follow NIH guidelines with respect to authorship
 Authorship will be discussed prior to the beginning of a new project, so that expectations are clearly defined. However, changes to authorship may occur over the course of a project if a new person becomes involved or if someone is not fulfilling their planned role. In general, graduate students and postdocs will be first authors on publications on which they are the primary lead, and Dr. Leary will be the last author.
 
 #### Old projects
-If a student or post-doc collects a dataset but does not completely analyze it or write it up within 3 years after the end of data collection, Dr. Leary will re-assign the project (if appropriate) to another person to expedite publication. If a student or post-doc voluntarily relinquishes their rights to the project prior to the 3-year window, Dr. Leary will also re-assign the project to another individual. This policy is here to prevent data (especially expensive data, e.g., fMRI) from remaining unpublished, but is meant to give priority to the person who collected the data initially.
+If a student or post-doc collects a dataset but does not completely analyze it or write it up within 2 years after the end of data collection, Dr. Leary will re-assign the project (if appropriate) to another person to expedite publication. If a student or post-doc voluntarily relinquishes their rights to the project prior to the 2-year window, Dr. Leary will also re-assign the project to another individual. This policy is here to prevent data (especially expensive data, e.g., fMRI) from remaining unpublished, but is meant to give priority to the person who collected the data initially.
 ## Human subjects research
-Adherence to approved IRB protocols is *essential*, and non-adherence can lead to severe consequences for the entire lab. **All lab members must read and comply with the IRB consent form and research summary for any project that they are working on.** If you are not on the IRB, you cannot look at the data, analyze the data, or be in any way involved with the project. Check [here](#training) to see details about the training for IRB.
+Adherence to approved IRB protocols is *essential*, and non-adherence can lead to severe consequences for the entire lab. **All lab members must read and comply with the IRB consent form and research summary for any project that they are working on.** If you are not on the IRB, you cannot look at identifiable data, analyze the data, or be in any way involved with the project. Check [here](#training) to see details about the training for IRB.
 
-Lab members must also complete the CITI training and save their certificate. To be added to an existing IRB, talk to the lab manager and present them with your CITI certificate before you can work with human subjects. If there are any questions about the protocols, or if you're not sure whether we have IRB approval to run your study, please ask the lab manager or Dr. Leary for clarification. If necessary, the lab manager can file an amendment to an existing protocol or create a new protocol.
+Lab members must also complete the CITI training and save their certificate. To be added to an existing IRB, talk to the lab manager and present them with your CITI certificate before you can work with human subjects. If there are any questions about the protocols, or if you're not sure whether we have IRB approval to run your study, please ask the lab manager or Dr. Leary for clarification. If necessary, the lab manager or Mr. Eric Zelasko can file an amendment to an existing protocol or create a new protocol.
 
 If you encounter any problems in the course of doing research that results in a negative outcome for the participant (e.g., if a participant becomes ill or upset, if there is an accident with the equipment, if there is a breach of confidentiality, etc), you should immediately seek assistance from Dr. Leary or the lab manager. If Dr. Leary is not around, you must notify Dr. Leary and the lab manager *within 24 hours*, preferably as soon as possible. In some cases, we may need to report this information to the IRB and/or our funding agencies.
 
 # Lab Resources
 ## GitHub
-Github is a hosting serveice. Projects on GitHub can be accessed and manipulated using the standard Git command-line interface and all of the standard Git commands work with it. GitHub also allows registered and non-registered users to browse public repositories on the site. All members must register an account in order to contribute to discussion and manage repository. we also have a lab wiki on Github. Please check the [lab manual](https://github.com/LearyE/Ortho-Biostats) and [lab wiki](https://github.com/LearyE/Ortho-Biostats/wiki) if you have any lab related questions. 
+Github is a hosting serveice. Projects on GitHub can be accessed and manipulated using the standard Git command-line interface and all of the standard Git commands work with it. GitHub also allows registered and non-registered users to browse public repositories on the site. All members must register an account in order to contribute to discussion and manage repository. This lab manual is on Github and the corresponding lab wiki is also on Github. Please check the [lab manual](https://github.com/LearyE/Ortho-Biostats) and [lab wiki](https://github.com/LearyE/Ortho-Biostats/wiki) first,  if you have any lab related questions. 
 
 ## Outlook
-Outlook is primarily an email application, it also includes a calendar, task manager, contact manager, note taking, journal, and web browsing.
+Outlook is primarily an email application, it also includes a calendar, task manager, contact manager, note taking, journal, and web browsing. Using Outlook is required for the lab.
 
-Tasks can be assigned via Outlook (email), so all members are expected to check emails every day and to response throughout the week as soon as possible.
+Tasks can be assigned via Outlook (email) through OneNote, so all members are expected to check emails every day and to response throughout the week as soon as possible.
 
 ## Outlook Calendar
-Outlook Calendar is within Outlook. It can help to arrange and manage meetings and events. Dr. Leary will send notifications about meeting location and time via Outlook Calendar.
+Outlook Calendar is within Outlook. It can help to arrange and manage meetings and events. Dr. Leary will send notifications about meeting location and time via Outlook Calendar. PLease keep your Outlook Calendar connected.
 
-## Box  
-Each member will have a BOX folder named by your name. This folder contains all the materials of your projects. 
+## OneNote
+
+
+## Box and Project Management 
+Each member will have a BOX folder with your name. This folder must contain all the materials of your projects. Do not save any project materials on a computer or in another cloud service.
 
 The projects will have the following folders in each project folder for consistency. You must save each file with the date in the filename using the following format, “yyyymmdd”. For example, if I were saving a report for an ACL project on Aug 10, 2017 it would be saved as “Report_ACLproject_20170810.docx”. It is extremely important that the R code file matches the R workspace file – this is why putting dates in the file names are so important. Never delete old files – they should all have different names (because of the date at the end) and be placed in an “OLD” subfolder, within each project folder 
-*	Data – put all Data here, initial data, formatted data, data dictionaries etc. Put all datasets you created in an archive folder so that other members can check the data at anytime.
+*	Data – put all Data here, initial data, formatted data, data dictionaries etc. Put all datasets you created in an archive folder so that other members can check the data at anytime, without rerunning your code. Final version for all analyses must be exported to .csv format and have a corresponding data dictionary.
 *	Programs – put all R code here or any other code. You must save your R code each time you revise it. You must annotate all of your R code. It may be years until you need to re-visit a project (or I may need to later on). Annotate your code! 
 *	Output – put all calculated tables, figures, and other output here. You must save your R workspace here. 
 *	Reports – put all report drafts here as well as any other reporting documents or data. 
 
 ## Box Sync
-Box Sync is a tool that allows you to mirror data stored on Box to your desktop. You can navigate and modify content stored on the Box website through your computer’s native file browsing interface, without using a web browser. Content that syncs down to your computer is available for offline access, and if you make changes to the synced files locally, these changes automatically sync back up to your Box account. For installing Box Sync, please check [this](https://community.box.com/t5/Using-Box-Sync/tkb-p/UsingBoxSync) if you have problem about installing or setting sync folder.
+Box Sync is a tool that allows you to mirror data stored on Box to your desktop. It essentially allows Box to function as a cloud "drive" in your computer. You must set this up for every computer which you want Box Sync. You can navigate and modify content stored on the Box website through your computer’s native file browsing interface, without using a web browser. Content that syncs down to your computer is available for offline access, and if you make changes to the synced files locally, these changes automatically sync back up to your Box account. For installing Box Sync, please check [this](https://community.box.com/t5/Using-Box-Sync/tkb-p/UsingBoxSync) if you have problem about installing or setting sync folder.
 
 
 ## Others
@@ -205,18 +208,18 @@ Dr. Leary is generally in office from 8 a.m. to 5 p.m. on weekdays. You can send
 
 ## Meetings
 ### Weekly lab meetings
-Weekly lab meetings will be focused on project presentations and going over new data or methods. The weekly lab meeting will take place on Missouri Orthopaedic Institute in room 4204 on 3:45pm every Tuesday, and meetings usually last about 1 to 1.5 hours. If the location or time changes, Ms. Kyeong and Dr. Leary will email you in advance. If at the end of meeting, we need more time to discuss something, we will either take a break before continuing or schedule another meeting. Lab meeting agendas and notes will be maintained in the `lab meetings` folder on Box. All lab members are expected to attend the weekly lab meeting. 
+Weekly lab meetings will be focused on project presentations and going over new data or methods. The weekly lab meeting will take place on Missouri Orthopaedic Institute in room 4204 every Tuesday at about 3 p.m., meetings usually last about 1 to 1.5 hours. If the location or time changes, Ms. Kyeong and Dr. Leary will email you in advance. If at the end of meeting, we need more time to discuss something, we will either take a break before continuing or schedule another meeting. Lab meeting agendas and notes will be maintained in the `lab meetings` folder on Box. All lab members are expected to attend the weekly lab meeting. 
 
 ### Individual meetings
 
 ## Deadlines
 It is essential to keep works and deadlines organized. When it comes to deadlines, tell your collaborators **as soon as you know when a deadline is**, and make sure they are aware of it the closer it gets. Don’t be afraid to bug them about it.
 
-Dr. Leary will expect 2 notices for reading/ commenting on abstracts, papers, and manuscripts, 2 weeks for filling out paperwork, etc, and 2 notices for letters of recommendation. If you want feedback on research and teaching statements, or other work that requires multiple back-and-forth interactions between you and Dr. Leary before a hard deadline, give her as much time as you can.
+Dr. Leary will expect 2 weeks for reading/ commenting on abstracts, papers, and manuscripts, 2 weeks for filling out paperwork, etc, and 2 weeks for letters of recommendation. If you want feedback on research and teaching statements, or other work that requires multiple back-and-forth interactions between you and Dr. Leary before a hard deadline, give her as much time as you can.
 ## Presentations
 It is therefore highly encouraged that you seek out opportunities to present your research, whether it is at departmental talk series and events, to other labs at conferences, or to the general public. If you are going to give a presentation (a poster or a talk), be prepared to give a practice presentation to the lab at least one week ahead of time (two weeks or more are advisable for conference presentations, and many weeks ahead of time are advisable for job talks, which require much refining).  Practice talks will help you feel comfortable with your presentation, and will also allow you to get feedback from the lab and implement those changes well in advance of your real presentation.
 
-Templates for posters are available, and those are highly recommended, particularly for orthopaedic focused conference. Some general rules for posters should be followed: minimize text as much as possible (if you wrote a paragraph, you’re doing it wrong), make figures and text large and easy to see at a distance, label your axes, and make sure different colors are easily discriminable. 
+Templates for posters are available, and those are highly recommended, particularly for orthopaedic focused conferences. Some general rules for posters should be followed: minimize text as much as possible (if you wrote a paragraph, you’re doing it wrong), make figures and text large and easy to see at a distance, label your axes, and make sure different colors are easily discriminable. 
 ## Recommendation letters
 Letters of recommendation are one of the many benefits of working in a research lab. You can count on Dr. Leary to write a letter if you have spent at least 6 months in the lab. (It’s hard to really know someone if they have only been around for a few months.) Exceptions can be made for shorter-term lab members in special circumstances (e.g., new graduate students or postdocs applying for fellowships). 
 
@@ -232,45 +235,42 @@ In general, data will be stored in one of three places:
 ### Data organization
 Your project folders should typically look something like this:
 - `ProjectName/Data`
-  - contains a folder for raw data - always keep a copy of the raw (i.e., unprocessed) data & keep it separate from the copy that you're using in your pipeline
+  - contains a folder for raw data - always keep a copy of the raw (i.e., unprocessed/original) data & keep it separate from the copy that you're using in your pipeline
   - processed data used in following steps – should be labeled clearly
   - this folder also contains a file documenting demographic & other summary info
+  - final, clean data sets used for analysis, containing all created corresponding data dictionary.
 - `ProjectName/Results`
- - contains folders or files of each type of results, e.g. report, summary
+  - contains folders or files of each type of results, e.g. report, summary
 - `ProjectName/Program`
- - contains folders for code
+  - contains folders for code
 - `ProjectName/Output`
- - contains the outputs of program
+  - contains the outputs of program
+  
 You are encouraged to use an organization scheme like this one. When you archive the dataset, you will be required to format it like this (or something similarly transparent in its organization), so might as well start that way. 
 
 ### Archiving inactive datasets
-Before you leave the lab, you will be required to document and archive any dataset that you have collected. The dataset will be reviewed before you leave. Please move the data to Box folders, and make sure annotated codes are included and will run data. 
+Before you leave the lab, you will be required to document and archive all datasets that you have collected or analyzed. The dataset will be reviewed before you leave. Please move the data to Box folders, and make sure annotated codes are included and will run data. 
 ### Data sharing
-Not only is data-sharing the right thing to do, we are actually required to do so for any dataset that was funded by the NIH. We will make these datasets publicly available within a year of publishing the first paper from the dataset. The final datasets must be extended in .csv format with data dictionary. You should also be prepared to share any scripts that you used in your published processing & analysis pipeline. Currently, the best option for sharing smaller datasets seems to be the Open Science Framework, the best option for sharing MRI datasets is OpenFMRI. You should always ask Dr, Leary before posting or sharing any data.
-
+Not only is data-sharing the right thing to do, we are actually required to do so for any dataset that was funded by the NIH. We will make these datasets publicly available within a year of publishing the first paper from the dataset. The final datasets must be extended in .csv format with data dictionary. You should also be prepared to share any scripts that you used in your published processing & analysis pipeline. Dr. Leary will be responsible for sharing all final data; you arae responsible for formatting and organizing your data so she can do that.
 # Funding
 
 ## Allocation of expenses
-I will oversee all aspects of the financial management of our funding sources. However, it is important to
-me to be transparent about where research money comes from and how it's spent. I have included some notes below but please do not hesitate to ask if you want to know more details.
+Dr. Leary will oversee all aspects of the financial management of lab funding sources. However, it is important to be transparent about where research money comes from and how it's spent. Dr. Leary has included some notes below but please do not hesitate to ask if you want to know more details.
 * MOI/TLRO: These funds are flexible in that they can be used for any justifiable purpose.
-* NIH: NIH funds are more restricted than start-up funds and because they expire more quickly, we should use them whenever allowable and save start-up funds for other purposes.
+* NIH: NIH funds are restricted to these projects only.
 * DoD: Department of Defense (DoD) funds are restricted to these projects only. 
 * RDC-US Census Bureau: These funds are available for the NHIS and MEPS projects (and associated costs) only.
 * Richard Wallace Faculty Incentive Grant: These funds are for undergraduate research and for the OCA ankle & hip projects only. 
 * Other funds: Sometimes the lab receives small amounts of unrestricted funds from the
-university; these can be spent in the same way as start-up.
+university; these can be spent in the same way as MOI/TLRO funds.
 
-## NIH funding notes
- All research funded by the NIH *must* acknowledge the grant number upon publication. This is essential for documenting that we are turning their money into research findings. We must also submit a yearly progress report describing what we have accomplished. Lab members involved in the research will be asked to contribute to the progress report.
- 
-## Other funding notes
+## Funding notes
 All research funded by the NIH and DoD must acknowledge the grant number upon publication. This is essential for documenting that we are turning their money into research findings. We must also submit a yearly progress report describing what we have accomplished. Lab members involved in the research will be asked to contribute to the progress report.
 Research funded by other grants (e.g., RDC-US Census Bureau) must also acknowledge the source of funding and provide a statement which the RDC or whatever other funding source provides.
 
 
 # Undergraduate research 
-Undergraduate research assistants play an important role in our lab, and we have a few opportunities for them to earn money or credit for their contributions. Because these opportunities require a certain degree of commitment from both the student and the lab, we generally reserve them for students who have already spent at least one semester volunteering in lab. If this policy would prevent you from being able to work in lab, please talk to Dr. Leary or the lab manager because we want all students to be able to pursue their research interests. In addition to volunteering in lab, other research opportunities includes data collection.
+Undergraduate research assistants play an important role in our lab, and we have a few opportunities for them to earn money or credit for their contributions. Because these opportunities require a certain degree of commitment from both the student and the lab, we generally reserve them for students who have already spent at least one semester volunteering in lab. If this policy would prevent you from being able to work in lab, please talk to Dr. Leary or the lab manager because we want all students to be able to pursue their research interests. In addition to volunteering in lab, other research opportunities include data collection.
  
 
 # Appendix
@@ -288,15 +288,15 @@ Scope:
 
 Definitions:
 
-Policy: Staff are required to follow the hospital-wide dress code outlined here, as well as departmental standards for correct uniform/scrubs or business attire. The standards of this policy, as well as departmental standards, are to be complied with by staff during their regular scheduled work times, as well as during any returns to the hospital (“call”, extra work hours).
+Policy: Staff are required to follow the hospital-wide dress code outlined here, as well as departmental standards for correct uniform/scrubs or business attire. The standards of this policy, as well as departmental standards, are to be complied with by staff or student during their regular scheduled work times, as well as during any returns to the hospital (“call”, extra work hours).
 
 Procedure: STANDARDS
 1.	General Appearance
 *	Staff appearance should convey an image of competence and seriousness of purpose that inspires confidence in our patients, visitors and fellow staff members.
 *	Personal hygiene should be maintained and body free of unpleasant odor.
-*	Fingernails should be kept clean and trimmed. Artificial nails are prohibited fir anyone providing direct patient care.
+*	Fingernails should be kept clean and trimmed. Artificial nails are prohibited for anyone providing direct patient care.
 *	Mustaches/beards and sideburns should be neatly trimmed.
-*	Hair shall be cleaned, neatly combed, and if longer than should length, worn in such a way as to not interfere with required job duties.
+*	Hair shall be cleaned, neatly combed, and if longer than shoulder length, worn in such a way as to not interfere with required job duties.
 *	The use of jewelry should not be excessive and should not unreasonably draw attention to the wearer. Jewelry that would pose a safety issue to the wearer or others is not permitted.
 *	All tattoos shall be free of emblems, slogans, or symbols that depict alcohol, illicit substances or paraphernalia, gang-related, intolerant beliefs, nudity, sex, obscene language, gambling, or antisocial comments/graphics, or must be covered on duty.
 2.	Clothing
@@ -319,15 +319,15 @@ Conflicts with the Hospital dress code or departmental standards arising from st
 
 1. Training for IRB Approval:
 
-Go to [website](http://ecompliance.missouri.edu/login) to set up an eIRB account. Sign in and complete it. After setting up your eIRB account, you will enter the Institutional Review Board Compliance Module in eIRB and under “Prerequisites” you will choose “Take IRB Training” as shown in the figure below. 
+Go to this [website](http://ecompliance.missouri.edu/login) to set up an eIRB account. Sign in using your MU pawprint and password and complete it. After setting up your eIRB account, you will enter the Institutional Review Board Compliance Module in eIRB and under “Prerequisites” you will choose “Take IRB Training” as shown in the figure below. 
 
 Then you will sign into the CITI Program and follow the enclosed IRB course instructions (Make sure you are affiliated with the University of Missouri- Columbia).
 
 Once you have completed the IRB training, you will need to add the GCP training and follow the GCP instructions next to “IRB course instructions”. The page of IRB course instructions and GCP instructions are shown in the figure below.
 
-When you complete it, you need to email the certificate to Vicki/Director. 
+When you complete these trainings, save your completion certificates as pdf files and email to Ms. Vicki Jones (jonesvicki@health.missouri.edu) and cc Dr. Leary.
 
-2. Training for NIS/HCUP:
+2. DUA for NIS/HCUP:
 
 NIS/HCUP training is located here: [website](https://www.hcup-us.ahrq.gov/tech_assist/dua.jsp). There are two versions of HCUP training courses, one is a current version, alternative is a text version. You can choose one of them. Stats volunteers will need to fill out and sign data use agreement. Training certificates and data use agreements should be sent or given to Dr. Leary or Ms. Kyeong.
 
@@ -388,7 +388,7 @@ Then please make sure all the work you did have been uploaded to your BOX folder
 
 * Background on Data
 
-The National Inpatient Sample (NIS) is part of the family of databases and software tools developed for the Healthcare Cost and Utilization Project (HCUP). The NIS is the largest all-payer inpatient care database in the United States, containing data on more than seven million hospital stays. Its large sample size is ideal for developing national and regional estimates, and it enables analyses of rare conditions, uncommon treatments, and special populations. Some more information can be found here. 
+The National Inpatient Sample (NIS) is part of the family of databases and software tools developed for the Healthcare Cost and Utilization Project (HCUP). The NIS is the largest all-payer inpatient care database in the United States, containing data on more than seven million hospital stays. Its large sample size is ideal for developing national and regional estimates, and it enables analyses of rare conditions, uncommon treatments, and special populations. Some more information can be found [here](https://www.hcup-us.ahrq.gov/news/exhibit_booth/nis_brochure.jsp). 
 
 * Typical Analyses Run
 
@@ -399,7 +399,7 @@ Typically, we aim to determine the risk factors that would related to operative 
 
 * Background on Data
 
-The National Health Interview Survey (NHIS) has monitored the health of the nation since 1957. NHIS data on a broad range of health topics are collected through personal household interviews. For over 50 years, the U.S. Census Bureau has been the data collection agent for the National Health Interview Survey. Survey results have been instrumental in providing data to track health status, health care access, and progress toward achieving national health objectives. Some more information can be found here.
+The National Health Interview Survey (NHIS) has monitored the health of the nation since 1957. NHIS data on a broad range of health topics are collected through personal household interviews. For over 50 years, the U.S. Census Bureau has been the data collection agent for the National Health Interview Survey. Survey results have been instrumental in providing data to track health status, health care access, and progress toward achieving national health objectives. Some more information can be found [here](https://www.cdc.gov/nchs/nhis/index.htm).
 
 * Typical Analyses Run
 
@@ -410,5 +410,5 @@ Analysis of NHIS data are similar with NIS data. The example report shown on the
 
 * Background on Data
 
-The Medical Expenditure Panel Survey (MEPS) is a set of large-scale surveys of families and individuals, their medical providers, and employers across the United States. MEPS is the most complete source of data on the cost and use of health care and health insurance coverage.
+The Medical Expenditure Panel Survey (MEPS) is a set of large-scale surveys of families and individuals, their medical providers, and employers across the United States. MEPS is the most complete source of data on the cost and use of health care and health insurance coverage. Some more information can be found [here](https://meps.ahrq.gov/mepsweb/)
 
