@@ -340,7 +340,7 @@ NIS/HCUP training is located [here](https://www.hcup-us.ahrq.gov/tech_assist/dua
 
 ## REDCap Instruction
 
-We use REDCap to track hours and record what you have done weekly. Go to [Show Me Portal](https://medicine.missouri.edu/research/investigator-resources/show-me-portal/show-me-portal-resources), click the yellow button "LAUNCH REDCAP" and login with your pawprint and password.
+We use REDCap to track hours and record what you have done weekly, it can help us to manage your work and make a long-term plan for both of you and our projects. Go to [Show Me Portal](https://medicine.missouri.edu/research/investigator-resources/show-me-portal/show-me-portal-resources), click the yellow button "LAUNCH REDCAP" and login with your pawprint and password.
 
 Here is the procedure of making your weekly record:
 
@@ -354,45 +354,41 @@ Here is the procedure of making your weekly record:
 
 * Step 3. Type your name and project start date and end date in the "Name of Report" blank. A period of a regular week starts from Sunday and ends on Saturday.
 
+<p align="center">
 <img src="REDCap_Procedure/Step3.PNG" width="500">
+</p>
 
 * Step 4. Add the fields include in the report. The following fields are recommended to be inlcuded in your report.
 
-<img src="REDCap_Procedure/Step4.PNG" width="500">
+<p align="center">
+<img src="REDCap_Procedure/Step4.png" width="500">
+</p>
 
 * Step 5. The "filters" settings can let REDCap only show the records for specific person and for specific time period. Click "Use Advanced Logic" to set up.
 
+<p align="center">
 <img src="REDCap_Procedure/Step5.PNG" width="500">
+</p>
 
 * Step 6. In the "Advanced filter logic" box, type the following. You can get the ID number in Step 2. After this, click "Save Report", an empty report will be generated and appear in the "Reports" section in the left.
 
-<img src="REDCap_Procedure/Step6.PNG" width="500">
+<p align="center">
+<img src="REDCap_Procedure/Step6.png" width="500">
+</p>
 
 * Step 7. Now you need to add records to your report. Click "Add/Edit records", then click "add new record" to start a new record. 
 
-<img src="REDCap_Procedure/Step7.PNG" width="500">
+<p align="center">
+<img src="REDCap_Procedure/Step7.png" width="500">
+</p>
 
-* Step 8. Fill out all details for your record. 
+* Step 8. Fill out all details for your record. The "dateWorked" should be in the format "yyyymmdd". Select your name for "Name" and choose the name which describes your project for "Project". Enter your hours and type of the project. In the memo section, you need to provide details about the work you have done for this project. Here is an example.
+
+<p align="center">
+<img src="REDCap_Procedure/Step10.PNG" width="500">
+</p>
 
 * Step 9. After finishing all the above, click "Save & Exit Form". Go to the "Reports" section in the left and click your report. You will see all the records you have added for this week. Make a screenshot of the report and send it to Ms. Kyeong and Dr. Leary. This must be done before Monday 8 a.m. each week . In addition, in this email you need to provide a detailed description of your progress for each project during the week. 
-
-The process is: Weekly Time Summary<< Add/Edit records<< Create a new report which contains all the records on the past week.
-
-1. Starting with a project “Weekly Time Summary”.
-
-2. Add/Edit records. You can add as many records as you need for the past week.
-
-3. Create a new report.
- 
-4. Fill all the [areas](#Time-Tracking-Procedures)
-
-5. Name the report: (your name and the dates for the week). For example, Linlin Zhang: Oct 21- Oct 27.
-
-6. Use advanced logic, change the date range and name. For example, “[date]>=20180611 and [date]<=20180617 and [name]=12” will filter all the records for the number 12 person on the name list (Linlin Zhang) from 20180611 to 20180617.
-
-7. Save Report.
-
-8. View report, and take a screenshot to email to Ms. Kyeong and Dr. Leary. This must be done before Monday 8 a.m. each week . In addition, in this email you need to provide a detailed description of your progress for each project during the week. 
 
 
 ## Basic Data Management
@@ -400,21 +396,6 @@ The process is: Weekly Time Summary<< Add/Edit records<< Create a new report whi
 All data must be checked for validity, reasonability, and formatting. Sometimes missing data are denoted by “.”, “_”, “NA”, “NaN”, “-99” or “9999”. Or sometimes values are incorrect, for example, if you have a negative weight or weigh 9999lbs. If you do not check, these can be included in calculated means and other analyses. These may need to be re-coded – this is fine as long as this is documented in the report. 
 
 All statistical assumptions must be met prior to analysis. If assumptions are not met, investigate other approaches (e.g. non-parametric) or by combining categories for small cell counts. 
-
-## Time Tracking Procedures
-
-Time tracking is required for each member since it can help us to manage your work and make a long-term plan for both of you and our projects. Also, time tracking helps us to assign you work effectively. REDCap is used to track your work hours every week. Through REDCap system, you need to submit some specific information:
-*	The record ID
-*	Data worked
-*	Your name
-*	The project you worked
-*	Number of hours you worked for each project
-*	Type of your work
-*	Details of your work
-
-The time sheet you reported should be from Sunday to Saturday of last week. When finishing with time tracking, please email the screenshot of your time sheet to Ms. Kyeong and Dr. Leary.
-Then please make sure all the work you did have been uploaded to your BOX folder in order, and the time tracking procedures should be done by the end of Sunday.
-
 
 ## Dataset Guidelines
 
