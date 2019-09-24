@@ -342,8 +342,39 @@ NIS/HCUP training is located [here](https://www.hcup-us.ahrq.gov/tech_assist/dua
 
 We use REDCap to track hours and record what you have done weekly. Go to [Show Me Portal](https://medicine.missouri.edu/research/investigator-resources/show-me-portal/show-me-portal-resources), click the yellow button "LAUNCH REDCAP" and login with your pawprint and password.
 
-Here is the procedure for making your weekly record:
+Here is the procedure of making your weekly record:
 
+* Step 1. After loggin into REDCap home page, click "My Projects" on the top menu, then click "Weekly Time Summary". 
+
+* Step 2. Click "Project Home", click "Create a Report" under the "Quick Tasks", then we go to a new page to create new report. You will need your ID number in this project, click "Codebook" under the "Quick Tasks", you will find a list of names for the "Name" vairable. Keep the number in front of your name, We will use it in Step 6.
+
+<p align="center">
+<img src="REDCap_Procedure/Step2.PNG" width="500">
+</p>
+
+* Step 3. Type your name and project start date and end date in the "Name of Report" blank. A period of a regular week starts from Sunday and ends on Saturday.
+
+<img src="REDCap_Procedure/Step3.PNG" width="500">
+
+* Step 4. Add the fields include in the report. The following fields are recommended to be inlcuded in your report.
+
+<img src="REDCap_Procedure/Step4.PNG" width="500">
+
+* Step 5. The "filters" settings can let REDCap only show the records for specific person and for specific time period. Click "Use Advanced Logic" to set up.
+
+<img src="REDCap_Procedure/Step5.PNG" width="500">
+
+* Step 6. In the "Advanced filter logic" box, type the following. You can get the ID number in Step 2. After this, click "Save Report", an empty report will be generated and appear in the "Reports" section in the left.
+
+<img src="REDCap_Procedure/Step6.PNG" width="500">
+
+* Step 7. Now you need to add records to your report. Click "Add/Edit records", then click "add new record" to start a new record. 
+
+<img src="REDCap_Procedure/Step7.PNG" width="500">
+
+* Step 8. Fill out all details for your record. 
+
+* Step 9. After finishing all the above, click "Save & Exit Form". Go to the "Reports" section in the left and click your report. You will see all the records you have added for this week. Make a screenshot of the report and send it to Ms. Kyeong and Dr. Leary. This must be done before Monday 8 a.m. each week . In addition, in this email you need to provide a detailed description of your progress for each project during the week. 
 
 The process is: Weekly Time Summary<< Add/Edit records<< Create a new report which contains all the records on the past week.
 
