@@ -320,8 +320,18 @@ Conflicts with the Hospital dress code or departmental standards arising from st
 1. Training for IRB Approval:
 
 Go to this [website](http://ecompliance.missouri.edu/login) to set up an eIRB account. Sign in using your MU pawprint and password and complete it. After setting up your eIRB account, you will enter the Institutional Review Board Compliance Module in eIRB and under “Prerequisites” you will choose “Take IRB Training” as shown in the figure below. 
+<p align="center">
+<img src="REDCap_Procedure/irb.png" width="600">
+</p>
+<p align="center">
+<img src="REDCap_Procedure/irb2.png" width="600">
+</p>
 
 Then you will sign into the CITI Program and follow the enclosed IRB course instructions (Make sure you are affiliated with the University of Missouri- Columbia).
+
+<p align="center">
+<img src="REDCap_Procedure/irb3.png" width="600">
+</p>
 
 Once you have completed the IRB training, you will need to add the GCP training and follow the GCP instructions next to “IRB course instructions”. The page of IRB course instructions and GCP instructions are shown in the figure below.
 
