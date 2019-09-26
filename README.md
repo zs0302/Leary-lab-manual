@@ -415,20 +415,12 @@ All statistical assumptions must be met prior to analysis. If assumptions are no
 
 The National Inpatient Sample (NIS) is part of the family of databases and software tools developed for the Healthcare Cost and Utilization Project (HCUP). The NIS is the largest all-payer inpatient care database in the United States, containing data on more than seven million hospital stays. Its large sample size is ideal for developing national and regional estimates, and it enables analyses of rare conditions, uncommon treatments, and special populations. Some more information can be found [here](https://www.hcup-us.ahrq.gov/news/exhibit_booth/nis_brochure.jsp). 
 
-* Typical Analyses Run
-
-Typically, we aim to determine the risk factors that would related to operative features (e.g., major complication) after some specific operations (e.g., central cord syndrome operations). A preliminary study of effect of variable RACE (non-white, white) was conducted by calculating the descriptive statistics and odds ratios for operative features and patient characteristics. Continuous variables were compared between white and non-white races using two-sample t-tests. Discrete variables were studied thought chi-square tests to determine their association. After the preliminary study, the effect of specific operative features (e.g., major complication) was conducted as the same way. Then a step-wise multivariate logistic regression model was used to determine multivariate relationships with the specific operative feature (e.g., major complication). Then, ROC curve and confusion matrix were applied to analyze the cut-off points of the logistic model. Therefore, the risk factors were determined by comparing the difference of univariate and multivariate analysis.
-
 
 ### NHIS
 
 * Background on Data
 
 The National Health Interview Survey (NHIS) has monitored the health of the nation since 1957. NHIS data on a broad range of health topics are collected through personal household interviews. For over 50 years, the U.S. Census Bureau has been the data collection agent for the National Health Interview Survey. Survey results have been instrumental in providing data to track health status, health care access, and progress toward achieving national health objectives. Some more information can be found [here](https://www.cdc.gov/nchs/nhis/index.htm).
-
-* Typical Analyses Run
-
-Analysis of NHIS data are similar with NIS data. The example report shown on the following section indicates the analyzing process. The purpose is to determine the risk factors that would related to operative features (e.g., readmission) after some specific operations (e.g., cervical spine fusion surgery). Two sample t-test and chi-square test were used to analysis continuous and discrete variables to determine their association with operative features of interest. Then a step-wise multivariate logistic regression model was used to determine multivariate relationship with operative features of interest. As same with NIS data analysis, ROC curve and confusion matrix were used to decide the cut-off points. Consequently, the risk factors were determined by comparing result of univariate and multivariate analysis.
 
 
 ### MEPS
