@@ -92,6 +92,20 @@ MU Health operates under the requirements of the Health Insurance Portability an
 
 We do not access, obtain, disclose or discuss PHI without written authorization from patients or their legal representatives, unless necessary for treatment, payment or health care operations, or required by law. We also follow the “Minimum Necessary Rule” which means employees, faculty and staff have the right to access only the patient information necessary to perform our respective jobs. If you have questions regarding access to PHI, please contact the System Privacy Officer at (573) 882-3293. 
 
+### HIPAA 
+The Health Insurance Portability and Accountability Act (HIPAA), which became law in 1996, was intended to improve health insurance information portability and to simplify the administration of health care information.  The Administrative Simplification provisions of HIPAA dictated that national standards for electronic health care transactions and code sets; and national identifiers for providers, health plans, and employers were established which were intended to ensure security and privacy of health information.  This resulted in the improvement of the efficiency and effectiveness of the health care system through the establishment of standards for electronic data interchange. 
+
+The HIPAA Privacy Rule protects all "individually identifiable health information" held or transmitted by a covered entity or its business associate, in any form or media, whether electronic, paper, or oral. The Privacy Rule calls this information "protected health information (PHI)."
+
+“Individually identifiable health information” is information, including demographic data, that relates to:
+
+* the individual’s past, present or future physical or mental health or condition,
+* the provision of health care to the individual, or
+* the past, present, or future payment for the provision of health care to the individual,
+and that identifies the individual or for which there is a reasonable basis to believe it can be used to identify the individual. Individually identifiable health information includes many common identifiers (e.g., name, address, birth date, Social Security Number). 
+
+Dr. Leary will send you the data without identifiable health information. The HIPAA data should be stored on Box since Box is compliant with HIPAA and HITECH. Box accounts can be configured to be complied with HIPAA requirements. The HIPAA related data information posted on OneNote should have a password for access. Any identifiable data cannot be studied or looked at unless you are on the IRB.
+
 ## Data Security
 We must exercise reasonable care in the disclosure, transmission, access, use and management of confidential information about patients, patient care, personnel, students and proprietary business affairs of University of Missouri Health. 
 As stated in the University of Missouri Acceptable Use Policy, electronic information on MU Health networks or equipment, including, but not limited to, electronic mail and personal information, is subject to examination when: 
@@ -337,9 +351,13 @@ Once you have completed the IRB training, you will need to add the GCP training 
 
 When you complete these trainings, save your completion certificates as .pdf files and email to Ms. Vicki Jones (jonesvicki@health.missouri.edu) and cc Dr. Leary.
 
-2. DUA for NIS/HCUP:
+2. Data Use Agreement (DUA)
 
-NIS/HCUP training is located [here](https://www.hcup-us.ahrq.gov/tech_assist/dua.jsp). There are two versions of HCUP training courses, one is a current version, alternative is a text version. You can choose one of them. Stats volunteers will need to fill out and sign data use agreement and sent it to Dr. Leary.
+* DUA for NIS/HCUP:
+    * NIS/HCUP training is located [here](https://www.hcup-us.ahrq.gov/tech_assist/dua.jsp). There are two versions of HCUP training courses, one is a current version, alternative is a text version. You can choose one of them. Stats volunteers will need to fill out and sign data use agreement and sent it to Dr. Leary.
+
+* DUA for NSQIP:
+    * The DUA for NSQIP is [here](https://www.facs.org/quality-programs/acs-nsqip/participant-use/puf-form). 
 
 ## File Formatting
 
@@ -411,21 +429,23 @@ All statistical assumptions must be met prior to analysis. If assumptions are no
 
 ### NIS
 
-* Background on Data
 
 The National Inpatient Sample (NIS) is part of the family of databases and software tools developed for the Healthcare Cost and Utilization Project (HCUP). The NIS is the largest all-payer inpatient care database in the United States, containing data on more than seven million hospital stays. Its large sample size is ideal for developing national and regional estimates, and it enables analyses of rare conditions, uncommon treatments, and special populations. Some more information can be found [here](https://www.hcup-us.ahrq.gov/news/exhibit_booth/nis_brochure.jsp). 
 
 
 ### NHIS
 
-* Background on Data
 
 The National Health Interview Survey (NHIS) has monitored the health of the nation since 1957. NHIS data on a broad range of health topics are collected through personal household interviews. For over 50 years, the U.S. Census Bureau has been the data collection agent for the National Health Interview Survey. Survey results have been instrumental in providing data to track health status, health care access, and progress toward achieving national health objectives. Some more information can be found [here](https://www.cdc.gov/nchs/nhis/index.htm).
 
 
 ### MEPS
 
-* Background on Data
 
 The Medical Expenditure Panel Survey (MEPS) is a set of large-scale surveys of families and individuals, their medical providers, and employers across the United States. MEPS is the most complete source of data on the cost and use of health care and health insurance coverage. Some more information can be found [here](https://meps.ahrq.gov/mepsweb/)
+
+
+### NSQIP
+
+The ACS National Surgical Quality Improvement Program (ACS NSQIP®) is a nationally validated, risk-adjusted, outcomes-based program to measure and improve the quality of surgical care. Built by surgeons for surgeons, ACS NSQIP provides participating hospitals with tools, analyses, and reports to make informed decisions about improving quality of care. Further, peer-reviewed studies have shown that ACS NSQIP is effective in improving the quality of surgical care while also reducing complications and costs. Some more information can be found [here](https://www.facs.org/quality-programs/acs-nsqip)
 
