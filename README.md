@@ -46,21 +46,22 @@ All of the [Lab member expectations and responsibilities](#everyone), plus you w
 - If you are planning to pursue a non-academic career, treat your postdoctoral research as seriously as you might if you were pursuing an academic career. We can discuss ways of making sure that you are getting the training you need, while still doing excellent research.
 - Remind the PI that different scientific opinions can co-exist in the same lab!
 
-## Graduate students (PhD)
+## Graduate students (PhD/Master)
 All of the [Lab member expectations and responsibilities](#everyone), plus you will be expected to:
-- Develop a line of dissertation research. Ideally, your dissertation research will consist of at least 3 experiments that can be packaged into one thesis document.
+- (PhD) Develop a line of dissertation research. Ideally, your dissertation research will consist of at least 3 experiments that can be packaged into one thesis document.
+- (Master) Plan your master project with advisor and ideally, this can be submitted at at least one paper for peer-reviewed publication.
 - Apply for external funding. If nothing else, this is an extremely valuable experience.
-- Do some soul-searching as to what type of career you want to pursue, e.g., academic jobs that are research-focused or teaching-focused, non-academic jobs like data science or science writing. We can brainstorm ways of making sure you are getting the training that you need. Your dissertation research can support and strengthen your career goals, even if not academic.
+- Do some soul-searching as to what type of career you want to pursue, e.g., academic jobs that are research-focused or teaching-focused, non-academic jobs like data science or science writing. We can brainstorm ways of making sure you are getting the training that you need. Your dissertation/thesis research can support and strengthen your career goals, even if not academic.
 - Work with a team of undergraduate students or graduate students more junior than you. This will speed up data collection and give you some experience with managing and mentoring a team.
 - Stay up-to-date (and keep up-to-date) on any deadlines that you need to meet to fulfill departmental requirements. This is your responsibility not the PI’s.
 
 ## Lab managers
 All of the [Lab member expectations and responsibilities](#everyone), plus you will be expected to:
-- Maintain the lab IRB protocols and paperwork (e.g., archiving consent forms).
+- Maintain and monitor the lab IRB protocols and paperwork (e.g., archiving consent forms).
 - Oversee the hiring, scheduling, and training of undergraduate and master graduate level research assistants.
-- Maintain the lab website.
+- Maintain the lab manual.
 - Assist other lab members with data collection or analysis (typically you will be assigned to particular projects).
--Maintain databases and grant data requests.
+- Maintain databases and grant data requests.
 - Help to maintain an atmosphere of professionalism within the lab.
 - Work on your own research project.
 
@@ -76,7 +77,6 @@ All of the [Lab member expectations and responsibilities](#everyone), plus you w
 - Assist other lab members with data collection or analysis (typically you will be assigned to particular projects).
 - Work with the lab manager and/or your research mentor to determine your weekly schedule. If you are not able to come in during your normal scheduled time, you must let the lab manager or research mentor know.
 - Provide extra support to the lab manager (this may include filing paperwork). If you are in lab and do not have a task to do, you should ask the lab manager or your supervisor whether there is anything you can help out with. You should not be idle.
-- For more information about undergraduate research positions, refer to the [Undergraduate Research](#Undergraduate-research ) section below.
 
 # Code of conduct
 ## General
@@ -85,12 +85,11 @@ Many topics were covered already in the [Lab member expectations & responsibilit
 ## Confidentiality Policy
 We expect all the lab members to exercise reasonable care in the disclosure, use and management of restricted information about patients, patient care, personnel, students and the fiscal affairs of University of Missouri Health. 
 
-Protected Health Information (PHI)
-Patient information is confidential. This includes all patient information, whether in electronic, audio, photo, video or paper form. We expect all lab members to protect and preserve this confidentiality. 
+Protected Health Information (PHI) is confidential. This includes all patient information, whether in electronic, audio, photo, video or paper form. We expect all lab members to protect and preserve this confidentiality. 
 
 MU Health operates under the requirements of the Health Insurance Portability and Accountability Act (HIPAA) Privacy and Security Rules and the Health Information Technology for Economic and Clinical Health (HITECH) Act. The HIPAA Security Rules require MU Health and our business associates to use administrative, physical and technical safeguards to ensure the confidentiality, integrity and availability of electronic protected health information (PHI). 
 
-We do not access, obtain, disclose or discuss PHI without written authorization from patients or their legal representatives, unless necessary for treatment, payment or health care operations, or required by law. We also follow the “Minimum Necessary Rule” which means employees, faculty and staff have the right to access only the patient information necessary to perform our respective jobs. If you have questions regarding access to PHI, please contact the System Privacy Officer at (573) 882-3293. 
+We do not access, obtain, disclose or discuss PHI without written authorization from patients or their legal representatives, unless necessary for treatment, payment or health care operations, or required by law. We also follow the “Minimum Necessary Rule” which means employees, faculty and staff have the right to access only the patient information necessary to perform our respective jobs. If you have questions regarding access to PHI, please contact Dr. Leary first. The System Privacy Office is available at (573) 882-3293.
 
 ### HIPAA 
 The Health Insurance Portability and Accountability Act (HIPAA), which became law in 1996, was intended to improve health insurance information portability and to simplify the administration of health care information.  The Administrative Simplification provisions of HIPAA dictated that national standards for electronic health care transactions and code sets; and national identifiers for providers, health plans, and employers were established which were intended to ensure security and privacy of health information.  This resulted in the improvement of the efficiency and effectiveness of the health care system through the establishment of standards for electronic data interchange. 
@@ -104,7 +103,7 @@ The HIPAA Privacy Rule protects all "individually identifiable health informatio
 * the past, present, or future payment for the provision of health care to the individual,
 and that identifies the individual or for which there is a reasonable basis to believe it can be used to identify the individual. Individually identifiable health information includes many common identifiers (e.g., name, address, birth date, Social Security Number). 
 
-Dr. Leary will send you the data without identifiable health information. The HIPAA data should be stored on Box since Box is compliant with HIPAA and HITECH. Box accounts can be configured to be complied with HIPAA requirements. The HIPAA related data information posted on OneNote should have a password for access. Any identifiable data cannot be studied or looked at unless you are on the IRB.
+Dr. Leary will generally send you the data without identifiable health information. All work and particularly data should be stored on Box as it is compliant with DSL 4, HIPAA,  and HITECH. Box accounts must be configured to complie with HIPAA requirements. Any identifiable data posted on the lab OneNote should be password protected. Any identifiable data cannot be viewed or studied unless you are listed as study personnel on that study IRB.
 
 ## Data Security
 We must exercise reasonable care in the disclosure, transmission, access, use and management of confidential information about patients, patient care, personnel, students and proprietary business affairs of University of Missouri Health. 
@@ -114,13 +113,13 @@ As stated in the University of Missouri Acceptable Use Policy, electronic inform
 *	It is necessary to comply with or verify compliance with federal or state law. 
 
 Protecting confidential information is a priority within our health care system: 
-*	Do NOT access patient information unless you need the information to do your job. Inappropriate access to patient information will lead to disciplinary action. 
+*	Do NOT access patient information unless you need the information to do your job. Inappropriate access to patient information will lead to disciplinary action and possible dismissal from the lab. 
 *	You are to access only the minimum information necessary to accomplish your assigned job duties. This includes all information in paper and electronic form. 
 *	Only discuss patient information with authorized personnel and in a private location where unauthorized persons cannot overhear even if you are not using patient names. 
 *	Do NOT give information about patients or staff to anyone over the phone.
 *	Shred or place confidential information in receptacles specifically used for confidential waste disposal. Never put confidential waste in recycle bins or the regular trash. 
-*	The Access and Confidentiality Agreement must be read and signed by all instructors and all lab members. 
-Some more information about MU health confidentiality can be found [here](https://medicine.missouri.edu/centers-institutes-labs/health-ethics/faq/confidentiality).
+*	[The Access and Confidentiality Agreement](https://www.umsystem.edu/media/is/infosec/confidentiality-agreement.pdf) must be read and signed by all instructors and all lab members. 
+* Some more information about MU health confidentiality can be found [here](https://medicine.missouri.edu/centers-institutes-labs/health-ethics/faq/confidentiality).
 
 
 ## Lab Notebook Policy
@@ -134,20 +133,21 @@ This notebook:
 *	should contain notes from meetings and a detailed account of the statistical analyses you perform,
 *	should be organized and detailed enough for someone else to read and understand what you did,
 *	should not contain notes for other courses or projects outside of the Department of Orthopaedic Surgery.
-* should be in English letter languages only about English terms for notes to yourself.
+* should be in English, other languages should only be used for notes to yourself regarding English terms.
 
 ### Security
-All notebook holders should consider the sensitivity of the information that might be contained within the notebook in order to minimize dissemination of unauthorized information. Due to the sensitive nature of the data that you will be working with, the Department of Orthopaedic Surgery retains the right to confiscate this notebook anytime during or after your involvement with any affiliated research projects. 
+All notebook holders should consider the sensitivity of the information that might be contained within the notebook in order to minimize dissemination of unauthorized information. Due to the sensitive nature of the data that you will be working with, the Department of Orthopaedic Surgery retains the right to confiscate this notebook anytime during or after your involvement with any affiliated research projects. At the end of your time with the lab, please turn in your lab notebook.
 
 
 ## Schedule Notification
 For all lab members, your particular work of the previous week and work schedule for the following week will be discussed and assigned during the weekly meeting. 
-The lab meeting is obligatory for each member. If you will be absent for some particular reason for the lab meeting, earlier notification needs to be made to Dr. Leary and Ms. Kyeong. For students, schoolwork is priority, however you need to communicate with your supervisors when your schoolwork conflicts with Lab work and it is necessary to reduce work hours. Any event for personal reason needs to be notified in advance to avoid rescheduling. 
+
+The lab meeting is obligatory for each member. If you will be absent for some particular reason for the lab meeting, reasonable notification needs to be made to Dr. Leary and Ms. Kyeong. For students, schoolwork is priority, however you need to communicate with your supervisors when your schoolwork conflicts with Lab work and it is necessary to reduce work hours.
 
 
 **In addition:**
 
-All members of the lab, along with visitors, are expected to agree with the following code of conduct. We will enforce this code as needed. We expect cooperation from all members to help ensuring a safe environment for everybody. Please also see the University of Missouri NONDISCRIMINATION POLICY.
+All members of the lab, along with visitors, are expected to agree with the following code of conduct. We will enforce this code as needed. We expect cooperation from all members to help ensuring a safe environment for everybody. Please also see the University of Missouri [NONDISCRIMINATION POLICY](https://www.umsystem.edu/ums/rules/collected_rules/equal_employment_educational_opportunity/ch600/600.010_equal_employment_educational_opportunity_policy).
 
 The lab is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, or religion (or lack thereof). We do not tolerate harassment of lab members in any form. Sexual language and imagery are generally not appropriate for any lab venue, including lab meetings, presentations, or discussions. Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
@@ -164,7 +164,7 @@ We expect members to follow these guidelines at any lab-related event or activit
 Reproducible research is research that can be exactly reproduced given the *same* raw data. It is an *essential* part of science, and an expectation for all projects in the lab. Reproducibility is related to replicability, which refers to whether your results can be obtained again with a *different* data set. We expect that all of our research will be replicable, or, at least reproducible.
 
 For results to be reproducible, it requires that you are organized and possess sufficient foresight to document each step of your research process. There are two main things you can do to improve the reproducibility of your research:
-- Extensive note-taking. You will need extensive notes on each step of your analysis pipeline, explaining how you did things every step of the way (and the order that you did things), from any pre-processing of the data, to running models, to statistical tests. Your code should also be commented, and commented clearly. Comment your code so that every step is understandable by an outsider. 
+- Extensive note-taking. You will need extensive notes on each step of your analysis pipeline, explaining how you did things every step of the way (and the order that you did things), from any pre-processing of the data, to running models, to statistical tests. Your code should also be commented clearly so that every step is understandable by an outsider. 
 - Programming workflows with version control. It is highly encouraged that you use some form of version control (e.g., Git in combination with GitHub) to keep track of what code changes you made and when you made them, as well as sharing code with others.
 
 ### Authorship
@@ -175,11 +175,11 @@ We will follow NIH guidelines with respect to authorship
 Authorship will be discussed prior to the beginning of a new project, so that expectations are clearly defined. However, changes to authorship may occur over the course of a project if a new person becomes involved or if someone is not fulfilling their planned role. In general, graduate students and postdocs will be first authors on publications on which they are the primary lead, and Dr. Leary will be the last author.
 
 #### Old projects
-If a student or post-doc collects a dataset but does not completely analyze it or write it up within 2 years after the end of data collection, Dr. Leary will re-assign the project (if appropriate) to another person to expedite publication. If a student or post-doc voluntarily relinquishes their rights to the project prior to the 2-year window, Dr. Leary will also re-assign the project to another individual. This policy is here to prevent data (especially expensive data, e.g., fMRI) from remaining unpublished, but is meant to give priority to the person who collected the data initially.
+If a student or post-doc collects a dataset but does not completely analyze it or write it up within 2 years after the end of data collection, Dr. Leary will re-assign the project (if appropriate) to another person to expedite publication. If a student or post-doc voluntarily relinquishes their rights to the project prior to the 2-year window, Dr. Leary will also re-assign the project to another individual. This policy is here to prevent data (especially expensive data) from remaining unpublished, but is meant to give priority to the person who collected the data initially.
 ## Human subjects research
 Adherence to approved IRB protocols is *essential*, and non-adherence can lead to severe consequences for the entire lab. **All lab members must read and comply with the IRB consent form and research summary for any project that they are working on.** If you are not on the IRB, you cannot look at identifiable data, analyze the data, or be in any way involved with the project. Check [here](#training) to see details about the training for IRB.
 
-Lab members must also complete the CITI training and save their certificate. To be added to an existing IRB, talk to the lab manager and present them with your CITI certificate before you can work with human subjects. If there are any questions about the protocols, or if you're not sure whether we have IRB approval to run your study, please ask the lab manager or Dr. Leary for clarification. If necessary, the lab manager or Mr. Eric Zelasko can file an amendment to an existing protocol or create a new protocol.
+Lab members must also complete the CITI training and save their certificate. To be added to an existing IRB, talk to the lab manager and present them with your CITI certificate before you can work with human subjects. If there are any questions about the protocols, or if you're not sure whether we have IRB approval to run your study, please ask the lab manager or Dr. Leary for clarification. If necessary, the lab manager or Mr. Eric Zelasko (zelaskoe@health.missouri.edu) can file an amendment to an existing protocol or create a new protocol.
 
 If you encounter any problems in the course of doing research that results in a negative outcome for the participant (e.g., if a participant becomes ill or upset, if there is an accident with the equipment, if there is a breach of confidentiality, etc), you should immediately seek assistance from Dr. Leary or the lab manager. If Dr. Leary is not around, you must notify Dr. Leary and the lab manager *within 24 hours*, preferably as soon as possible. In some cases, we may need to report this information to the IRB and/or our funding agencies.
 
@@ -190,10 +190,10 @@ Github is a hosting serveice. Projects on GitHub can be accessed and manipulated
 ## Outlook
 Outlook is primarily an email application, it also includes a calendar, task manager, contact manager, note taking, journal, and web browsing. Using Outlook is required for the lab.
 
-Tasks can be assigned via Outlook (email) through OneNote, so all members are expected to check emails every day and to response throughout the week as soon as possible.
+Tasks can be assigned via Outlook (email) through OneNote, so all members are expected to check emails every day and to respond to emails throughout the week (weekends excluded).
 
 ## Outlook Calendar
-Outlook Calendar is within Outlook. It can help to arrange and manage meetings and events. Dr. Leary will send notifications about meeting location and time via Outlook Calendar. PLease keep your Outlook Calendar connected.
+Outlook Calendar is within Outlook. It can help to arrange and manage meetings and events. Dr. Leary will send notifications about meeting location and time via Outlook Calendar. Please keep your Outlook Calendar connected and up to date.
 
 ## OneNote
 OneNote is a digital notebook for taking notes and managing information. Notes can be shared with other OneNote users over the internet or network. The lab meeting notes will be posted on OneNote. Lab members can also check their tasks and project progress on OneNote.
@@ -230,8 +230,8 @@ Weekly lab meetings will be focused on project presentations and going over new 
 It is essential to keep works and deadlines organized. When it comes to deadlines, tell your collaborators **as soon as you know when a deadline is**, and make sure they are aware of it the closer it gets. Don’t be afraid to bug them about it.
 
 Dr. Leary will expect 2 weeks for reading/ commenting on abstracts, papers, and manuscripts, 2 weeks for filling out paperwork, etc, and 2 weeks for letters of recommendation. If you want feedback on research and teaching statements, or other work that requires multiple back-and-forth interactions between you and Dr. Leary before a hard deadline, give her as much time as you can.
-## Presentations
-It is therefore highly encouraged that you seek out opportunities to present your research, whether it is at departmental talk series and events, to other labs at conferences, or to the general public. If you are going to give a presentation (a poster or a talk), be prepared to give a practice presentation to the lab at least one week ahead of time (two weeks or more are advisable for conference presentations, and many weeks ahead of time are advisable for job talks, which require much refining).  Practice talks will help you feel comfortable with your presentation, and will also allow you to get feedback from the lab and implement those changes well in advance of your real presentation.
+## Presentations/Abstracts
+It is highly encouraged that you seek out opportunities to present your research, whether it is at departmental talk series and events, to other labs at conferences, or to the general public. Abstracts from work done in the lab must be approved by all aythors (and Dr. Leary) to submission. If you are going to give a presentation (a poster or a talk), be prepared to give a practice presentation to the lab at least one week ahead of time (two weeks or more are advisable for conference presentations, and many weeks ahead of time are advisable for job talks, which require a lot of refining).  Practice talks will help you feel comfortable with your presentation, and will also allow you to get feedback from the lab and implement those changes well in advance of your real presentation.
 
 Templates for posters are available, and those are highly recommended, particularly for orthopaedic focused conferences. Some general rules for posters should be followed: minimize text as much as possible (if you wrote a paragraph, you’re doing it wrong), make figures and text large and easy to see at a distance, label your axes, and make sure different colors are easily discriminable. 
 ## Recommendation letters
@@ -354,10 +354,10 @@ When you complete these trainings, save your completion certificates as .pdf fil
 2. Data Use Agreement (DUA)
 
 * DUA for NIS/HCUP:
-    * NIS/HCUP training is located [here](https://www.hcup-us.ahrq.gov/tech_assist/dua.jsp). There are two versions of HCUP training courses, one is a current version, alternative is a text version. You can choose one of them. Stats volunteers will need to fill out and sign data use agreement and sent it to Dr. Leary.
+    * NIS/HCUP training is located [here](https://www.hcup-us.ahrq.gov/tech_assist/dua.jsp). There are two versions of HCUP training courses, one is a current version, alternative is a text version. You can choose one of them. Stats volunteers will need to fill out and sign the data use agreement and **send it to Dr. Leary**.
 
 * DUA for NSQIP:
-    * The DUA for NSQIP is [here](https://www.facs.org/quality-programs/acs-nsqip/participant-use/puf-form). 
+    * The DUA for NSQIP is [here](https://www.hcup-us.ahrq.gov/team/NationwideDUA.pdf). 
 
 ## File Formatting
 
@@ -370,7 +370,7 @@ When you complete these trainings, save your completion certificates as .pdf fil
 
 We use REDCap to track hours and record what you have done weekly, it can help us to manage your work and make a long-term plan for both of you and our projects. Go to [Show Me Portal](https://medicine.missouri.edu/research/investigator-resources/show-me-portal/show-me-portal-resources), click the yellow button "LAUNCH REDCAP" and login with your pawprint and password.
 
-Here is the procedure of making your weekly record:
+Here is the procedure of for reporting your weekly hours:
 
 * Step 1. After loggin into REDCap home page, click "My Projects" on the top menu, then click "Weekly Time Summary". 
 
