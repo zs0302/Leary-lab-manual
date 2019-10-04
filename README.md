@@ -1,3 +1,27 @@
+#  Table of Contents
+
+## [Introduction](#introduction)
+
+## [Lab member expectations and responsibilities](#lab-member-expectations-and-responsibilities)
+   
+  * ### [Everyone](#everyone)
+  * ### [Dr. Leary – Principal Investigator](dr.-Leary-–-Principal-Investigator)
+  * ### [Postdocs](#postdocs)
+  * ### [Graduate students (PhD/Master)](#graduate-students-(phD/master))
+  * ### [Lab managers](#lab-managers)
+  * ### [Other full-time staff](#other-full-time-staff)
+  * ### [Undergraduate students](#undergraduate-students)
+
+## [Code of conduct](#code-of-conduct)
+
+## [Lab Resources](#lab-resources)
+
+## [General policies](#general-policies)
+
+## [Funding](#funding)
+
+## [Appendix](#appendix)
+
 # Introduction
 Welcome to the Leary – Ortho Biostats Lab manual. This manual was inspired by other similar works, and borrows heavily from them (e.g., [this one](https://github.com/alylab/labmanual) and [this one](https://github.com/memobc/memolab-manual)). It is intended to represent my vision for how the lab should function and to complement existing University of Missouri policies ([this](https://hrs.missouri.edu/policies-and-procedures) and [this](https://accountability.missouri.edu/accountability/university-policies/), which take precedence). We hope you will learn a lot about clinical statistics, developing new skills (coding, analyzing data, writing and giving talks), making new friends and having a great deal of fun throughout the whole process.
 
