@@ -6,11 +6,11 @@
    
 * [Everyone](#everyone)
  
-* [Dr. Leary – Principal Investigator](Dr.-Leary-–-Principal-Investigator)
+* [Dr. Leary – Principal Investigator](Dr-Leary-Principal-Investigator)
  
 * [Postdocs](#Postdocs)
  
-* [Graduate students (PhD/Master)](#Graduate-students-(PhD/Master))
+* [Graduate students (PhD/Master)](#Graduate-students-(phD/master))
  
 * [Lab managers](#Lab-managers)
  
@@ -50,11 +50,11 @@
 
 * [Hours](#Hours)
 
-* [Meetings](#eetings)
+* [Meetings](#Meetings)
 
 * [Deadlines](#Deadlines)
 
-* [Presentations/Abstracts](#Presentations/Abstracts)
+* [Presentations/Abstracts](#Presentations-Abstracts)
 
 * [Recommendation letters](#Recommendation-letters)
 
