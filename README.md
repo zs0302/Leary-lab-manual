@@ -1,8 +1,8 @@
-### Table of Contents
+## Table of Contents
 
-## [Introduction](#introduction)
+### [Introduction](#introduction)
 
-## [Lab member expectations and responsibilities](#lab-member-expectations-and-responsibilities)
+### [Lab member expectations and responsibilities](#lab-member-expectations-and-responsibilities)
    
  [Everyone](#everyone)
  
@@ -18,15 +18,30 @@
  
  [Undergraduate students](#undergraduate-students)
 
-## [Code of conduct](#code-of-conduct)
+### [Code of conduct](#code-of-conduct)
 
-## [Lab Resources](#lab-resources)
 
-## [General policies](#general-policies)
 
-## [Funding](#funding)
+### [Lab Resources](#lab-resources)
 
-## [Appendix](#appendix)
+### [General policies](#general-policies)
+
+### [Funding](#funding)
+[Allocation of expenses](#Allocation-of-expenses)
+
+[Funding notes](#Funding-notes)
+
+### [Appendix](#appendix)
+[MOI dress code](#MOI-dress-code)
+
+[Training](#Training)
+
+[File Formatting](#File-Formatting)
+
+[REDCap Instruction](#REDCap-Instruction)
+
+[Dataset available in lab](#Dataset-available-in-lab)
+
 
 # Introduction
 Welcome to the Leary – Ortho Biostats Lab manual. This manual was inspired by other similar works, and borrows heavily from them (e.g., [this one](https://github.com/alylab/labmanual) and [this one](https://github.com/memobc/memolab-manual)). It is intended to represent my vision for how the lab should function and to complement existing University of Missouri policies ([this](https://hrs.missouri.edu/policies-and-procedures) and [this](https://accountability.missouri.edu/accountability/university-policies/), which take precedence). We hope you will learn a lot about clinical statistics, developing new skills (coding, analyzing data, writing and giving talks), making new friends and having a great deal of fun throughout the whole process.
@@ -450,7 +465,7 @@ Here is the procedure for reporting your weekly hours:
 * Step 9. After finishing all the above, go to the "Reports" section in the left and click your report. You will see all the records you have added for this week. Make a screenshot of the report and send it to Ms. Kyeong and Dr. Leary. This must be done before Monday 8 a.m. each week . In addition, in this email you need to provide a detailed description of your progress for each project during the week. 
 
 
-## Dataset Guidelines
+## Dataset available in lab
 
 ### NHIS
 
