@@ -365,10 +365,10 @@ When you complete these trainings, save your completion certificates as .pdf fil
 We use REDCap to track hours and record what you have done weekly, it can help us to manage your work and make a long-term plan for both of you and our projects. Go to [Show Me Portal](https://medicine.missouri.edu/research/investigator-resources/show-me-portal/show-me-portal-resources), scroll down and find "REDCap", click the yellow button "LAUNCH REDCAP" and login with your pawprint and password.
 
 <p align="center">
-<img src="REDCap_Procedure/Step6.png" width="600">
+<img src="REDCap_Procedure/redc.PNG" width="600">
 </p>
 
-Here is the procedure of for reporting your weekly hours:
+Here is the procedure for reporting your weekly hours:
 
 * Step 1. After loggin into REDCap home page, click "My Projects" on the top menu, then click "Weekly Time Summary". 
 
