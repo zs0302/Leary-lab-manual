@@ -6,25 +6,59 @@
    
  [Everyone](#everyone)
  
- [Dr. Leary – Principal Investigator](dr.-Leary-–-Principal-Investigator)
+ [Dr. Leary – Principal Investigator](Dr.-Leary-–-Principal-Investigator)
  
- [Postdocs](#postdocs)
+ [Postdocs](#Postdocs)
  
- [Graduate students (PhD/Master)](#graduate-students-(phD/master))
+ [Graduate students (PhD/Master)](#Graduate-students-(PhD/Master))
  
- [Lab managers](#lab-managers)
+ [Lab managers](#Lab-managers)
  
- [Other full-time staff](#other-full-time-staff)
+ [Other full-time staff](#Other-full-time-staff)
  
- [Undergraduate students](#undergraduate-students)
+ [Undergraduate students](#Undergraduate-students)
 
-### [Code of conduct](#code-of-conduct)
+### [Code of conduct](#Code-of-conduct)
+[General](#General)
 
+[Confidentiality Policy](#Confidentiality-Policy)
+
+[Data Security](#Data-Security)
+
+[Lab Notebook Policy](#Lab-Notebook-Policy)
+
+[Schedule Notification](#Schedule-Notification)
+
+[Scientific integrity](#Scientific-integrity)
+
+[Human subjects research](#Human-subjects-research)
 
 
 ### [Lab Resources](#lab-resources)
 
+[Github](#Github)
+
+[Outlook](#Outlook)
+
+[Outlook Calendar](#Outlook-Calendar)
+
+[OneNote](#OneNote)
+
+[Project Management using Box and Box Sync](#Project-Management-using-Box-and-Box-Sync)
+
 ### [General policies](#general-policies)
+
+[Hours](#Hours)
+
+[Meetings](#eetings)
+
+[Deadlines](#Deadlines)
+
+[Presentations/Abstracts](#Presentations/Abstracts)
+
+[Recommendation letters](#Recommendation letters)
+
+[Data management](#Data-management)
 
 ### [Funding](#funding)
 [Allocation of expenses](#Allocation-of-expenses)
