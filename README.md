@@ -60,12 +60,12 @@
 
 [Data management](#Data-management)
 
-### [Funding](#funding)
+### [Funding](#Funding)
 [Allocation of expenses](#Allocation-of-expenses)
 
 [Funding notes](#Funding-notes)
 
-### [Appendix](#appendix)
+### [Appendix](#Appendix)
 [MOI dress code](#MOI-dress-code)
 
 [Training](#Training)
@@ -74,7 +74,7 @@
 
 [REDCap Instruction](#REDCap-Instruction)
 
-[Dataset available in lab](#Dataset-available-in-lab)
+[Datasets available in lab](#Dataset-available-in-lab)
 
 
 # Introduction
@@ -499,7 +499,7 @@ Here is the procedure for reporting your weekly hours:
 * Step 9. After finishing all the above, go to the "Reports" section in the left and click your report. You will see all the records you have added for this week. Make a screenshot of the report and send it to Ms. Kyeong and Dr. Leary. This must be done before Monday 8 a.m. each week . In addition, in this email you need to provide a detailed description of your progress for each project during the week. 
 
 
-## Dataset available in lab
+## Datasets available in lab
 
 ### NHIS
 
