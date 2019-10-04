@@ -1,5 +1,5 @@
 # Introduction
-Welcome to the Leary – Ortho Biostats Lab manual. This manual was inspired by other similar works, and borrows heavily from them (e.g., [this one](https://github.com/alylab/labmanual) and [this one](https://github.com/memobc/memolab-manual)). It is intended to represent my vision for how the lab should function and to complement existing University of Missouri policies (which take precedence). We hope you will learn a lot about clinical statistics, developing new skills (coding, analyzing data, writing and giving talks), making new friends and having a great deal of fun throughout the whole process.
+Welcome to the Leary – Ortho Biostats Lab manual. This manual was inspired by other similar works, and borrows heavily from them (e.g., [this one](https://github.com/alylab/labmanual) and [this one](https://github.com/memobc/memolab-manual)). It is intended to represent my vision for how the lab should function and to complement existing University of Missouri policies ([this](https://hrs.missouri.edu/policies-and-procedures) and [this](https://accountability.missouri.edu/accountability/university-policies/), which take precedence). We hope you will learn a lot about clinical statistics, developing new skills (coding, analyzing data, writing and giving talks), making new friends and having a great deal of fun throughout the whole process.
 
 This work is licensed under a CC Attribution 4.0 license. We expect that more information will be added and some sections will be revised as the lab grows and develops. If you have any comments or suggestions regarding the contents of this manual, please tell Dr. Leary (learye@health.missouri.edu).
 
@@ -19,13 +19,14 @@ This work is licensed under a CC Attribution 4.0 license. We expect that more in
 
 ### Small picture
 - Do not come into the lab if you are sick. Stay home and get healthy, and don't risk getting others sick.
-- Notify Ms. Kyeong or Dr. Leary if you will be out, either due to illness or vacation. You need to send an email to Dr. Leary and cc Stacee Clawson and Gigi Harrison. If you are sick and you had experiments or meetings scheduled that day, notify your participants or collaborators and reschedule.
+- Notify Ms. Kyeong or Dr. Leary if you will be out, either due to illness or vacation. You need to send an email to Dr. Leary and cc Stacee Clawson(clawsons@health.missouri.edu) and Gigi Harrison(harrisongs@health.missouri.edu). If you are sick and you had experiments or meetings scheduled that day, notify your participants or collaborators and reschedule.
 - You aren’t expected to come into lab on weekends and holidays, and you aren’t expected to stay late at night. You are expected to get your work done (whatever time of day you like to do it).
 - Show up to your meetings, classes, and exams – just show up for your commitments, and work the hours you need to work to get stuff done.
 - Lock the doors if no one else is around, even if you're stepping out for a minute.
 - Keep your area tidy. Eating at your desk is fine, but clean up food waste, crumbs, spills. Put equipment back where you found it. Keep common areas uncluttered.
 - MOI has a specific dress code, you can check the details at [MOI dress code](#MOI-dress-code). 
 - Two trainings (HCUP and IRB) are necessary to be completed before working in the lab. Find details [here](#Training).
+- You also need to sign the [Ortho Notebook Policy]() and [DOS National Database Policy]() for the MOI and lab.
 - Be on time. Be on time for your meetings: respect that others have packed days and everyone’s time is valuable.
 
 ## Dr. Leary – Principal Investigator
