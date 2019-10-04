@@ -78,6 +78,8 @@ All of the [Lab member expectations and responsibilities](#everyone), plus you w
 - Work with the lab manager and/or your research mentor to determine your weekly schedule. If you are not able to come in during your normal scheduled time, you must let the lab manager or research mentor know.
 - Provide extra support to the lab manager (this may include filing paperwork). If you are in lab and do not have a task to do, you should ask the lab manager or your supervisor whether there is anything you can help out with. You should not be idle.
 
+Undergraduate research assistants play an important role in our lab, and we have a few opportunities for them to earn money or credit for their contributions. Because these opportunities require a certain degree of commitment from both the student and the lab, we generally reserve them for students who have already spent at least one semester volunteering in lab. If this policy would prevent you from being able to work in lab, please talk to Dr. Leary or the lab manager because we want all students to be able to pursue their research interests. In addition to volunteering in lab, other research opportunities include data collection.
+
 # Code of conduct
 ## General
 Many topics were covered already in the [Lab member expectations & responsibilities section](#Lab-member-expectations-and-responsibilities).
@@ -103,7 +105,7 @@ The HIPAA Privacy Rule protects all "individually identifiable health informatio
 * the past, present, or future payment for the provision of health care to the individual,
 and that identifies the individual or for which there is a reasonable basis to believe it can be used to identify the individual. Individually identifiable health information includes many common identifiers (e.g., name, address, birth date, Social Security Number). 
 
-Dr. Leary will generally send you the data without identifiable health information. All work and particularly data should be stored on Box as it is compliant with DSL 4, HIPAA,  and HITECH. Box accounts must be configured to complie with HIPAA requirements. Any identifiable data posted on the lab OneNote should be password protected. Any identifiable data cannot be viewed or studied unless you are listed as study personnel on that study IRB.
+Dr. Leary will generally send you the data without identifiable health information. All work and particularly data should be stored on Box as it is compliant with DSL 4, HIPAA,  and HITECH. Box accounts must be configured to complie with HIPAA requirements. Any identifiable data posted on the lab OneNote should be password protected. Any identifiable data cannot be viewed or studied unless you are listed as study personnel on that studys IRB.
 
 ## Data Security
 We must exercise reasonable care in the disclosure, transmission, access, use and management of confidential information about patients, patient care, personnel, students and proprietary business affairs of University of Missouri Health. 
@@ -196,42 +198,35 @@ Tasks can be assigned via Outlook (email) through OneNote, so all members are ex
 Outlook Calendar is within Outlook. It can help to arrange and manage meetings and events. Dr. Leary will send notifications about meeting location and time via Outlook Calendar. Please keep your Outlook Calendar connected and up to date.
 
 ## OneNote
-OneNote is a digital notebook for taking notes and managing information. Notes can be shared with other OneNote users over the internet or network. The lab meeting notes will be posted on OneNote. Lab members can also check their tasks and project progress on OneNote.
+OneNote is a digital notebook for taking notes and managing information. Notes can be shared with other OneNote users over the internet or network. The lab meeting notes will be posted on OneNote. OneNote will be used as our project management tool, to communicate/share project progress (through tasks etc.).
 
-## Box and Project Management 
-Each member will have a BOX folder with your name. This folder must contain all the materials of your projects. Do not save any project materials on a computer or in another cloud service.
+## Project Management using Box and Box Sync
+Dr. Leary will assign each lab member a BOX folder with your name. This folder must contain all the materials of your projects. Do not save any project materials on a computer or in another cloud service.
 
-The projects will have the following folders in each project folder for consistency. You must save each file with the date in the filename using the following format, “yyyymmdd”. For example, if I were saving a report for an ACL project on Aug 10, 2017 it would be saved as “Report_ACLproject_20170810.docx”. It is extremely important that the R code file matches the R workspace file – this is why putting dates in the file names are so important. Never delete old files – they should all have different names (because of the date at the end) and be placed in an “OLD” subfolder, within each project folder 
-*	Data – put all Data here, initial data, formatted data, data dictionaries etc. Put all datasets you created in an archive folder so that other members can check the data at anytime, without rerunning your code. Final version for all analyses must be exported to .csv format and have a corresponding data dictionary.
-*	Programs – put all R code here or any other code. You must save your R code each time you revise it. You must annotate all of your R code. It may be years until you need to re-visit a project (or I may need to later on). Annotate your code! 
-*	Output – put all calculated tables, figures, and other output here. You must save your R workspace here. 
-*	Reports – put all report drafts here as well as any other reporting documents or data. 
+### Box Sync
+Box Sync is a tool that allows you to mirror data stored on Box to your desktop. It essentially allows Box to function as a cloud "drive" on your computer. You can navigate and modify content stored on the Box website through your computer’s native file browsing interface, without using a web browser. You must set this up for every computer for which you want to use Box Sync. Content that syncs down to your computer is available for offline access, and if you make changes to the synced files locally, these changes automatically sync back up to your Box account when you are connected to the internet. To install Box Sync, please check [this](https://community.box.com/t5/Using-Box-Sync/tkb-p/UsingBoxSync) if you have problem about installing or setting sync folder.
 
-## Box Sync
-Box Sync is a tool that allows you to mirror data stored on Box to your desktop. It essentially allows Box to function as a cloud "drive" in your computer. You must set this up for every computer which you want Box Sync. You can navigate and modify content stored on the Box website through your computer’s native file browsing interface, without using a web browser. Content that syncs down to your computer is available for offline access, and if you make changes to the synced files locally, these changes automatically sync back up to your Box account. For installing Box Sync, please check [this](https://community.box.com/t5/Using-Box-Sync/tkb-p/UsingBoxSync) if you have problem about installing or setting sync folder.
-
-
-## Others
 
 # General policies
 ## Hours
-One of the benefits of a career in academic research is that it is typically more flexible than other kinds of jobs. However, you should still treat it like a job. If you are employed for 40 hours a week, you should be working 40 hours a week. This applies to lab staff members (the lab manager and other research assistants) and postdocs. You are not required to work over-time. For graduate students, you are recognized with other demands on your time like classes and TA-ing but still expect to see you in lab, doing research, often. Lab staff members are expected to keep regular office hours (e.g., somewhere in the ballpark of 8-5). Graduate students and postdocs have more flexibility. 
+One of the benefits of a career in academic research is that it is typically more flexible than other kinds of jobs. However, you should still treat it like a job. If you are employed for 40 hours a week, you should be working 40 hours a week. This applies to lab staff members (the lab manager and other research assistants) and postdocs. You are not required to work over-time. For graduate students, you are recognized to have other demands on your time like classes and TA-ing but we still expect to see you in lab, doing research, often. Lab staff members are expected to keep regular office hours (e.g., somewhere in the ballpark of 8-5). Graduate students and postdocs have more flexibility. 
 
 ### Office hours
 Dr. Leary is generally in office from 8 a.m. to 5 p.m. on weekdays. You can send her an email if you cannot find her.
 
 ## Meetings
 ### Weekly lab meetings
-Weekly lab meetings will be focused on project presentations and going over new data or methods. The weekly lab meeting will take place on Missouri Orthopaedic Institute in room 4204 every Tuesday at about 3 p.m., meetings usually last about 1 to 1.5 hours. If the location or time changes, Ms. Kyeong and Dr. Leary will email you in advance. If at the end of meeting, we need more time to discuss something, we will either take a break before continuing or schedule another meeting. Lab meeting agendas and notes will be maintained in the `lab meetings` folder on Box. All lab members are expected to attend the weekly lab meeting. 
+Weekly lab meetings will be focused on project presentations and going over new data or methods. The weekly lab meeting will take place at the Missouri Orthopaedic Institute weekly in room 4204 every Tuesday at about 3 p.m., meetings usually last about 1 to 1.5 hours. If the location or time changes, Ms. Kyeong or Dr. Leary will email you in advance. If at the end of meeting, we need more time to discuss something, we will schedule another meeting. Lab meeting agendas and notes will be maintained in the `lab meetings` folder on Box. All lab members are expected to attend the weekly lab meeting. 
 
 ### Individual meetings
 
 ## Deadlines
-It is essential to keep works and deadlines organized. When it comes to deadlines, tell your collaborators **as soon as you know when a deadline is**, and make sure they are aware of it the closer it gets. Don’t be afraid to bug them about it.
+It is essential to stay ahead of deadlines and keep organized. When it comes to deadlines, tell your collaborators **as soon as you know when a deadline is**, and make sure they are aware of it the closer it gets. Don’t be afraid to bug them about it.
 
-Dr. Leary will expect 2 weeks for reading/ commenting on abstracts, papers, and manuscripts, 2 weeks for filling out paperwork, etc, and 2 weeks for letters of recommendation. If you want feedback on research and teaching statements, or other work that requires multiple back-and-forth interactions between you and Dr. Leary before a hard deadline, give her as much time as you can.
+Dr. Leary will expect advance notice of at least 2 weeks for reading/commenting on abstracts, papers, and manuscripts, 2 weeks for filling out paperwork, etc, and 2 weeks for letters of recommendation. If you want feedback on research and teaching statements, or other work that requires multiple back-and-forth interactions between you and Dr. Leary before a hard deadline, give her as much time as you can.
+
 ## Presentations/Abstracts
-It is highly encouraged that you seek out opportunities to present your research, whether it is at departmental talk series and events, to other labs at conferences, or to the general public. Abstracts from work done in the lab must be approved by all aythors (and Dr. Leary) to submission. If you are going to give a presentation (a poster or a talk), be prepared to give a practice presentation to the lab at least one week ahead of time (two weeks or more are advisable for conference presentations, and many weeks ahead of time are advisable for job talks, which require a lot of refining).  Practice talks will help you feel comfortable with your presentation, and will also allow you to get feedback from the lab and implement those changes well in advance of your real presentation.
+It is highly encouraged that you seek out opportunities to present your research, whether it is at departmental talk series and events, to other labs at conferences, or to the general public. Abstracts from work done in the lab must be approved by all authors (and Dr. Leary) prior to submission. If you are going to give a presentation (a poster or a talk), be prepared to give a practice presentation to the lab at least one week ahead of time (two weeks or more are advisable for conference presentations, and many weeks ahead of time are advisable for job talks, which require a lot of refining).  Practice talks will help you feel comfortable with your presentation, and will also allow you to get feedback from the lab and implement those changes well in advance of your real presentation.
 
 Templates for posters are available, and those are highly recommended, particularly for orthopaedic focused conferences. Some general rules for posters should be followed: minimize text as much as possible (if you wrote a paragraph, you’re doing it wrong), make figures and text large and easy to see at a distance, label your axes, and make sure different colors are easily discriminable. 
 ## Recommendation letters
@@ -245,27 +240,30 @@ In general, data will be stored in one of three places:
 - Your assigned box folder
 - consent forms, keys to subject IDs (identifiable data ok) 
 
-
 ### Data organization
-Your project folders should typically look something like this:
-- `ProjectName/Data`
-  - contains a folder for raw data - always keep a copy of the raw (i.e., unprocessed/original) data & keep it separate from the copy that you're using in your pipeline
-  - processed data used in following steps – should be labeled clearly
-  - this folder also contains a file documenting demographic & other summary info
-  - final, clean data sets used for analysis, containing all created variables and corresponding data dictionary.
-- `ProjectName/Results`
-  - contains folders or files of each type of results, e.g. report, summary
-- `ProjectName/Program`
-  - contains folders for code
-- `ProjectName/Output`
-  - contains the outputs of program
-  
-You are encouraged to use an organization scheme like the above one. When you archive the dataset, you will be required to format it like the above (or something similarly transparent in its organization), so might as well start that way. 
+The projects will have the following folders in each project folder for consistent project management (Data, Program, Output, Reports). 
+
+*	Data – put all Data here, initial data, formatted data, data dictionaries etc. You should keep the original data in a folder labeled "Original". Put all datasets you created in an archive folder so that other members can check the data at anytime, without rerunning your code. Final version for all analyses must be exported to .csv format and have a corresponding data dictionary.
+*	Programs – put all R code here or any other code. You must save your R code each time you revise it. You must annotate all of your R code. It may be years until you need to re-visit a project (or I may need to later on). Annotate your code! 
+*	Output – put all calculated tables, figures, and other output here. You must save your R workspace here. 
+*	Reports – put all report drafts here as well as any other reporting documents or data. 
+
+You should use an organization scheme like the above one. When you archive the dataset, you will be required to format it like the above (or something similarly transparent in its organization), so it might as well start that way. 
+
+### File management
+You must save each file with the date in the filename using the following format, “yyyymmdd”. For example, if I were saving a report for an ACL project on Aug 10, 2017 it would be saved as “Report_ACLproject_20170810.docx”. It is extremely important that the R code file matches the R workspace file – this is why putting dates in the file names are so important. Never delete old files – they should all have different names (because of the date at the end) and be placed in an “OLD” subfolder, within each project folder. 
+
+### Basic Data Management
+All data must be checked for validity, reasonability, and formatting. Sometimes missing data are denoted by “.”, “_”, “NA”, “NaN”, “-99” or “9999”. Or sometimes values are incorrect, for example, if you have a negative weight or weigh 9999lbs. If you do not check, these can be included in calculated means and other analyses. These may need to be re-coded – this is fine as long as this is documented in the report. 
+
+All statistical assumptions must be met prior to analysis. If assumptions are not met, investigate other approaches (e.g. non-parametric) or by combining categories for small cell counts. 
 
 ### Archiving inactive datasets
-Before you leave the lab, you will be required to document and archive all datasets that you have collected or analyzed. The dataset will be reviewed before you leave. Please move the data to Box folders, and make sure annotated codes are included and will run data. 
+Before you leave the lab, you will be required to document and archive all datasets that you have collected or analyzed. The dataset will be reviewed before you leave. Please move the data to your Box folders, and make sure annotated codes are included and will run data (e.g. produce the final data). 
+
 ### Data sharing
-Not only is data-sharing the right thing to do, we are actually required to do so for any dataset that was funded by the NIH. We will make these datasets publicly available within a year of publishing the first paper from the dataset. The final datasets must be extended in .csv format with data dictionary. You should also be prepared to share any scripts that you used in your published processing & analysis pipeline. Dr. Leary will be responsible for sharing all final data; you arae responsible for formatting and organizing your data so she can do that.
+Not only is data-sharing the right thing to do, we are actually required to do so for any dataset that was funded by the NIH. We will make these datasets publicly available within a year of publishing the first paper from the dataset. The final datasets must be extended in .csv format with data dictionary. You should also be prepared to share any scripts that you used in your published processing & analysis pipeline. Dr. Leary will be responsible for sharing all final data; you are responsible for formatting and organizing your data so she can do that.
+
 # Funding
 
 ## Allocation of expenses
@@ -283,12 +281,7 @@ All research funded by the NIH and DoD must acknowledge the grant number upon pu
 Research funded by other grants (e.g., RDC-US Census Bureau) must also acknowledge the source of funding and provide a statement which the RDC or whatever other funding source provides.
 
 
-# Undergraduate research 
-Undergraduate research assistants play an important role in our lab, and we have a few opportunities for them to earn money or credit for their contributions. Because these opportunities require a certain degree of commitment from both the student and the lab, we generally reserve them for students who have already spent at least one semester volunteering in lab. If this policy would prevent you from being able to work in lab, please talk to Dr. Leary or the lab manager because we want all students to be able to pursue their research interests. In addition to volunteering in lab, other research opportunities include data collection.
- 
-
 # Appendix
-
 
 ## MOI dress code
 
@@ -419,33 +412,20 @@ Here is the procedure of for reporting your weekly hours:
 * Step 9. After finishing all the above, click "Save & Exit Form". Go to the "Reports" section in the left and click your report. You will see all the records you have added for this week. Make a screenshot of the report and send it to Ms. Kyeong and Dr. Leary. This must be done before Monday 8 a.m. each week . In addition, in this email you need to provide a detailed description of your progress for each project during the week. 
 
 
-## Basic Data Management
-
-All data must be checked for validity, reasonability, and formatting. Sometimes missing data are denoted by “.”, “_”, “NA”, “NaN”, “-99” or “9999”. Or sometimes values are incorrect, for example, if you have a negative weight or weigh 9999lbs. If you do not check, these can be included in calculated means and other analyses. These may need to be re-coded – this is fine as long as this is documented in the report. 
-
-All statistical assumptions must be met prior to analysis. If assumptions are not met, investigate other approaches (e.g. non-parametric) or by combining categories for small cell counts. 
-
 ## Dataset Guidelines
-
-### NIS
-
-
-The National Inpatient Sample (NIS) is part of the family of databases and software tools developed for the Healthcare Cost and Utilization Project (HCUP). The NIS is the largest all-payer inpatient care database in the United States, containing data on more than seven million hospital stays. Its large sample size is ideal for developing national and regional estimates, and it enables analyses of rare conditions, uncommon treatments, and special populations. Some more information can be found [here](https://www.hcup-us.ahrq.gov/news/exhibit_booth/nis_brochure.jsp). 
-
 
 ### NHIS
 
-
 The National Health Interview Survey (NHIS) has monitored the health of the nation since 1957. NHIS data on a broad range of health topics are collected through personal household interviews. For over 50 years, the U.S. Census Bureau has been the data collection agent for the National Health Interview Survey. Survey results have been instrumental in providing data to track health status, health care access, and progress toward achieving national health objectives. Some more information can be found [here](https://www.cdc.gov/nchs/nhis/index.htm).
-
 
 ### MEPS
 
-
 The Medical Expenditure Panel Survey (MEPS) is a set of large-scale surveys of families and individuals, their medical providers, and employers across the United States. MEPS is the most complete source of data on the cost and use of health care and health insurance coverage. Some more information can be found [here](https://meps.ahrq.gov/mepsweb/)
 
+### NIS
+
+The National Inpatient Sample (NIS) is part of the family of databases and software tools developed for the Healthcare Cost and Utilization Project (HCUP). The NIS is the largest all-payer inpatient care database in the United States, containing data on more than seven million hospital stays. Its large sample size is ideal for developing national and regional estimates, and it enables analyses of rare conditions, uncommon treatments, and special populations. We paid for this dataset, please contact Dr. Leary if you need help. Some more information can be found [here](https://www.hcup-us.ahrq.gov/news/exhibit_booth/nis_brochure.jsp). 
 
 ### NSQIP
 
-The ACS National Surgical Quality Improvement Program (ACS NSQIP®) is a nationally validated, risk-adjusted, outcomes-based program to measure and improve the quality of surgical care. Built by surgeons for surgeons, ACS NSQIP provides participating hospitals with tools, analyses, and reports to make informed decisions about improving quality of care. Further, peer-reviewed studies have shown that ACS NSQIP is effective in improving the quality of surgical care while also reducing complications and costs. Some more information can be found [here](https://www.facs.org/quality-programs/acs-nsqip)
-
+The ACS National Surgical Quality Improvement Program (ACS NSQIP®) is a nationally validated, risk-adjusted, outcomes-based program to measure and improve the quality of surgical care. Built by surgeons for surgeons, ACS NSQIP provides participating hospitals with tools, analyses, and reports to make informed decisions about improving quality of care. Further, peer-reviewed studies have shown that ACS NSQIP is effective in improving the quality of surgical care while also reducing complications and costs. We paid for this dataset, please contact Dr. Leary if you need help. Some more information can be found [here](https://www.facs.org/quality-programs/acs-nsqip)
