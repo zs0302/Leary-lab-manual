@@ -4,13 +4,19 @@
 
 ## [Lab member expectations and responsibilities](#lab-member-expectations-and-responsibilities)
    
-  ### [Everyone](#everyone)
-  ### [Dr. Leary – Principal Investigator](dr.-Leary-–-Principal-Investigator)
-  ### [Postdocs](#postdocs)
-  ### [Graduate students (PhD/Master)](#graduate-students-(phD/master))
-  ### [Lab managers](#lab-managers)
-  ### [Other full-time staff](#other-full-time-staff)
-  ### [Undergraduate students](#undergraduate-students)
+ [Everyone](#everyone)
+ 
+ [Dr. Leary – Principal Investigator](dr.-Leary-–-Principal-Investigator)
+ 
+ [Postdocs](#postdocs)
+ 
+ [Graduate students (PhD/Master)](#graduate-students-(phD/master))
+ 
+ [Lab managers](#lab-managers)
+ 
+ [Other full-time staff](#other-full-time-staff)
+ 
+ [Undergraduate students](#undergraduate-students)
 
 ## [Code of conduct](#code-of-conduct)
 
