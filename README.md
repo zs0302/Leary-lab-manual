@@ -1,80 +1,80 @@
 ## Table of Contents
 
-### [Introduction](#introduction)
+[Introduction](#introduction)
 
-### [Lab member expectations and responsibilities](#lab-member-expectations-and-responsibilities)
+[Lab member expectations and responsibilities](#lab-member-expectations-and-responsibilities)
    
- [Everyone](#everyone)
+* [Everyone](#everyone)
  
- [Dr. Leary – Principal Investigator](Dr.-Leary-–-Principal-Investigator)
+* [Dr. Leary – Principal Investigator](Dr.-Leary-–-Principal-Investigator)
  
- [Postdocs](#Postdocs)
+* [Postdocs](#Postdocs)
  
- [Graduate students (PhD/Master)](#Graduate-students-(PhD/Master))
+* [Graduate students (PhD/Master)](#Graduate-students-(PhD/Master))
  
- [Lab managers](#Lab-managers)
+* [Lab managers](#Lab-managers)
  
- [Other full-time staff](#Other-full-time-staff)
+* [Other full-time staff](#Other-full-time-staff)
  
- [Undergraduate students](#Undergraduate-students)
+* [Undergraduate students](#Undergraduate-students)
 
-### [Code of conduct](#Code-of-conduct)
-[General](#General)
+[Code of conduct](#Code-of-conduct)
 
-[Confidentiality Policy](#Confidentiality-Policy)
+* [General](#General)
 
-[Data Security](#Data-Security)
+* [Confidentiality Policy](#Confidentiality-Policy)
 
-[Lab Notebook Policy](#Lab-Notebook-Policy)
+* [Data Security](#Data-Security)
 
-[Schedule Notification](#Schedule-Notification)
+* [Lab Notebook Policy](#Lab-Notebook-Policy)
 
-[Scientific integrity](#Scientific-integrity)
+* [Schedule Notification](#Schedule-Notification)
 
-[Human subjects research](#Human-subjects-research)
+* [Scientific integrity](#Scientific-integrity)
 
+* [Human subjects research](#Human-subjects-research)
 
-### [Lab Resources](#lab-resources)
+[Lab Resources](#lab-resources)
 
-[Github](#Github)
+* [Github](#Github)
 
-[Outlook](#Outlook)
+* [Outlook](#Outlook)
 
-[Outlook Calendar](#Outlook-Calendar)
+* [Outlook Calendar](#Outlook-Calendar)
 
-[OneNote](#OneNote)
+* [OneNote](#OneNote)
 
-[Project Management using Box and Box Sync](#Project-Management-using-Box-and-Box-Sync)
+* [Project Management using Box and Box Sync](#Project-Management-using-Box-and-Box-Sync)
 
-### [General policies](#general-policies)
+[General policies](#general-policies)
 
-[Hours](#Hours)
+* [Hours](#Hours)
 
-[Meetings](#eetings)
+* [Meetings](#eetings)
 
-[Deadlines](#Deadlines)
+* [Deadlines](#Deadlines)
 
-[Presentations/Abstracts](#Presentations/Abstracts)
+* [Presentations/Abstracts](#Presentations/Abstracts)
 
-[Recommendation letters](#Recommendation-letters)
+* [Recommendation letters](#Recommendation-letters)
 
-[Data management](#Data-management)
+* [Data management](#Data-management)
 
 [Funding](#Funding)
 
-[Allocation of expenses](#Allocation-of-expenses)
+* [Allocation of expenses](#Allocation-of-expenses)
 
-[Funding notes](#Funding-notes)
+* [Funding notes](#Funding-notes)
 
 [Appendix](#Appendix)
 
-[MOI dress code](#MOI-dress-code)
+* [MOI dress code](#MOI-dress-code)
 
-[Training](#Training)
+* [Training](#Training)
 
-[File Formatting](#File-Formatting)
+* [File Formatting](#File-Formatting)
 
-[REDCap Instruction](#REDCap-Instruction)
+* [REDCap Instruction](#REDCap-Instruction)
 
 * [Datasets available in lab](#Datasets-available-in-lab)
 
