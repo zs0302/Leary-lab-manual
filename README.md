@@ -56,16 +56,18 @@
 
 [Presentations/Abstracts](#Presentations/Abstracts)
 
-[Recommendation letters](#Recommendation letters)
+[Recommendation letters](#Recommendation-letters)
 
 [Data management](#Data-management)
 
-### [Funding](#Funding)
+[Funding](#Funding)
+
 [Allocation of expenses](#Allocation-of-expenses)
 
 [Funding notes](#Funding-notes)
 
-### [Appendix](#Appendix)
+[Appendix](#Appendix)
+
 [MOI dress code](#MOI-dress-code)
 
 [Training](#Training)
@@ -74,7 +76,7 @@
 
 [REDCap Instruction](#REDCap-Instruction)
 
-[Datasets available in lab](#Dataset-available-in-lab)
+* [Datasets available in lab](#Datasets-available-in-lab)
 
 
 # Introduction
