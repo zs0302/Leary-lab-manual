@@ -26,7 +26,7 @@ This work is licensed under a CC Attribution 4.0 license. We expect that more in
 - Keep your area tidy. Eating at your desk is fine, but clean up food waste, crumbs, spills. Put equipment back where you found it. Keep common areas uncluttered.
 - MOI has a specific dress code, you can check the details at [MOI dress code](#MOI-dress-code). 
 - Two trainings (HCUP and IRB) are necessary to be completed before working in the lab. Find details [here](#Training).
-- You also need to sign the [Ortho Notebook Policy]() and [DOS National Database Policy]() for the MOI and lab.
+- You also need to sign the [Ortho Notebook Policy](https://github.com/zhengyes/lab-manual/blob/master/Files/DOS%20National%20Database%20Policy.pdf) and [DOS National Database Policy](https://github.com/zhengyes/lab-manual/blob/master/Files/Ortho%20Notebook%20Policy.docx) for the MOI and lab.
 - Be on time. Be on time for your meetings: respect that others have packed days and everyone’s time is valuable.
 
 ## Dr. Leary – Principal Investigator
@@ -50,7 +50,7 @@ All of the [Lab member expectations and responsibilities](#everyone), plus you w
 ## Graduate students (PhD/Master)
 All of the [Lab member expectations and responsibilities](#everyone), plus you will be expected to:
 - (PhD) Develop a line of dissertation research. Ideally, your dissertation research will consist of at least 3 experiments that can be packaged into one thesis document.
-- (Master) Plan your master project with advisor and ideally, this can be submitted at at least one paper for peer-reviewed publication.
+- (Master) Plan your master project with advisor and ideally, this can be submitted as at least one paper for peer-reviewed publication.
 - Apply for external funding. If nothing else, this is an extremely valuable experience.
 - Do some soul-searching as to what type of career you want to pursue, e.g., academic jobs that are research-focused or teaching-focused, non-academic jobs like data science or science writing. We can brainstorm ways of making sure you are getting the training that you need. Your dissertation/thesis research can support and strengthen your career goals, even if not academic.
 - Work with a team of undergraduate students or graduate students more junior than you. This will speed up data collection and give you some experience with managing and mentoring a team.
@@ -229,7 +229,7 @@ Dr. Leary will expect advance notice of at least 2 weeks for reading/commenting 
 ## Presentations/Abstracts
 It is highly encouraged that you seek out opportunities to present your research, whether it is at departmental talk series and events, to other labs at conferences, or to the general public. Abstracts from work done in the lab must be approved by all authors (and Dr. Leary) prior to submission. If you are going to give a presentation (a poster or a talk), be prepared to give a practice presentation to the lab at least one week ahead of time (two weeks or more are advisable for conference presentations, and many weeks ahead of time are advisable for job talks, which require a lot of refining).  Practice talks will help you feel comfortable with your presentation, and will also allow you to get feedback from the lab and implement those changes well in advance of your real presentation.
 
-Templates for posters are available, and those are highly recommended, particularly for orthopaedic focused conferences. Some general rules for posters should be followed: minimize text as much as possible (if you wrote a paragraph, you’re doing it wrong), make figures and text large and easy to see at a distance, label your axes, and make sure different colors are easily discriminable. 
+Templates for posters are available at [here](), and those are highly recommended, particularly for orthopaedic focused conferences. Some general rules for posters should be followed: minimize text as much as possible (if you wrote a paragraph, you’re doing it wrong), make figures and text large and easy to see at a distance, label your axes, and make sure different colors are easily discriminable. 
 ## Recommendation letters
 Letters of recommendation are one of the many benefits of working in a research lab. You can count on Dr. Leary to write a letter if you have spent at least 6 months in the lab. (It’s hard to really know someone if they have only been around for a few months.) Exceptions can be made for shorter-term lab members in special circumstances (e.g., new graduate students or postdocs applying for fellowships). 
 
