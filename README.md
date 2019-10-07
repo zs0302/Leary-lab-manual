@@ -187,9 +187,9 @@ The HIPAA Privacy Rule protects all "individually identifiable health informatio
 * the individual’s past, present or future physical or mental health or condition,
 * the provision of health care to the individual, or
 * the past, present, or future payment for the provision of health care to the individual,
-and that identifies the individual or for which there is a reasonable basis to believe it can be used to identify the individual. Individually identifiable health information includes many common identifiers (e.g., name, address, birth date, Social Security Number). 
+and that identifies the individual or for which there is a reasonable basis to believe it can be used to identify the individual. Individually identifiable health information includes many common identifiers (e.g., name, address, birth date, zipcode, Social Security Number). 
 
-Dr. Leary will generally send you the data without identifiable health information. All work and particularly data should be stored on Box as it is compliant with DSL 4, HIPAA,  and HITECH. Box accounts must be configured to complie with HIPAA requirements. Any identifiable data posted on the lab OneNote should be password protected. Any identifiable data cannot be viewed or studied unless you are listed as study personnel on that studys IRB.
+Dr. Leary will generally send you the data without identifiable health information. All work, and particularly data, should be stored on Box as it is compliant with DSL 4, HIPAA, and HITECH guidelines. Box accounts must be configured to comply with HIPAA requirements. Any identifiable data posted on the lab OneNote should be password protected. Any identifiable data cannot be viewed or studied unless you are listed as study personnel on that studys' IRB.
 
 ## Data Security
 We must exercise reasonable care in the disclosure, transmission, access, use and management of confidential information about patients, patient care, personnel, students and proprietary business affairs of University of Missouri Health. 
@@ -214,7 +214,7 @@ Upon your involvement in research at the Department of Orthopaedic Surgery, you 
 ### Expectations
 This notebook:
 *	should be labeled with your name and contact information,
-*	should be brought to every meeting with Dr. Leary/Ms Kyeong,
+*	should be brought to every meeting with Dr. Leary/Ms. Kyeong,
 *	should be legible and kept in good condition,
 *	should contain notes from meetings and a detailed account of the statistical analyses you perform,
 *	should be organized and detailed enough for someone else to read and understand what you did,
@@ -261,7 +261,7 @@ We will follow NIH guidelines with respect to authorship
 Authorship will be discussed prior to the beginning of a new project, so that expectations are clearly defined. However, changes to authorship may occur over the course of a project if a new person becomes involved or if someone is not fulfilling their planned role. In general, graduate students and postdocs will be first authors on publications on which they are the primary lead, and Dr. Leary will be the last author.
 
 #### Old projects
-If a student or post-doc collects a dataset but does not completely analyze it or write it up within 2 years after the end of data collection, Dr. Leary will re-assign the project (if appropriate) to another person to expedite publication. If a student or post-doc voluntarily relinquishes their rights to the project prior to the 2-year window, Dr. Leary will also re-assign the project to another individual. This policy is here to prevent data (especially expensive data) from remaining unpublished, but is meant to give priority to the person who collected the data initially.
+If a student or post-doc collects a dataset but does not completely analyze it or write it up within 2 years after the end of data collection, Dr. Leary will re-assign the project (if appropriate) to another person to expedite publication. If a student or post-doc voluntarily relinquishes their rights to the project prior to the 2-year window, Dr. Leary will also re-assign the project to another individual. This policy is here to prevent data (especially expensive data) from remaining unpublished, but is meant to give priority to the person initially led the project.
 ## Human subjects research
 Adherence to approved IRB protocols is *essential*, and non-adherence can lead to severe consequences for the entire lab. **All lab members must read and comply with the IRB consent form and research summary for any project that they are working on.** If you are not on the IRB, you cannot look at identifiable data, analyze the data, or be in any way involved with the project. Check [here](#training) to see details about the training for IRB.
 
@@ -320,17 +320,19 @@ To request a letter of recommendation, please adhere to the deadline requirement
 
 ## Data management
 ### Storing active datasets (need to complete)
-In general, data will be stored in one of three places:
+In general, data will be stored in one of four places:
 - Your assigned box folder
-- consent forms, keys to subject IDs (identifiable data ok) 
+- Dr. Leary's Research folder
+- T drive (TLRO server)
+- H drive (Ortho server)
 
 ### Data organization
 The projects will have the following folders in each project folder for consistent project management (Data, Program, Output, Reports). 
 
 *	Data – put all Data here, initial data, formatted data, data dictionaries etc. You should keep the original data in a folder labeled "Original". Put all datasets you created in an archive folder so that other members can check the data at anytime, without rerunning your code. Final version for all analyses must be exported to .csv format and have a corresponding data dictionary.
-*	Programs – put all R code here or any other code. You must save your R code each time you revise it. You must annotate all of your R code. It may be years until you need to re-visit a project (or I may need to later on). Annotate your code! 
-*	Output – put all calculated tables, figures, and other output here. You must save your R workspace here. 
-*	Reports – put all report drafts here as well as any other reporting documents or data. 
+*	Programs – put all R code here or any other code. You must save your R code each time you revise it - please use a date in your file name (YYYYMMDD). You must annotate all of your R code. It may be years until you need to re-visit a project (or I may need to later on). Annotate your code! 
+*	Output – put all calculated tables, figures, and other output here. You must save your R workspace here. Date your files using the filename.
+*	Reports – put all report drafts here as well as any other reporting documents or data. Date your files in the filename.
 
 You should use an organization scheme like the above one. When you archive the dataset, you will be required to format it like the above (or something similarly transparent in its organization), so it might as well start that way. 
 
@@ -346,7 +348,7 @@ All statistical assumptions must be met prior to analysis. If assumptions are no
 Before you leave the lab, you will be required to document and archive all datasets that you have collected or analyzed. The dataset will be reviewed before you leave. Please move the data to your Box folders, and make sure annotated codes are included and will run data (e.g. produce the final data). 
 
 ### Data sharing
-Not only is data-sharing the right thing to do, we are actually required to do so for any dataset that was funded by the NIH. We will make these datasets publicly available within a year of publishing the first paper from the dataset. The final datasets must be extended in .csv format with data dictionary. You should also be prepared to share any scripts that you used in your published processing & analysis pipeline. Dr. Leary will be responsible for sharing all final data; you are responsible for formatting and organizing your data so she can do that.
+Not only is data-sharing the right thing to do, we are actually required to do so for any dataset that was funded by the NIH. The final datasets must be archived in .csv format with data dictionary. You should also be prepared to share any scripts or code that you used in your published processing & analysis pipeline. Dr. Leary will be responsible for sharing all final data; you are responsible for formatting and organizing your data so she can do that.
 
 # Funding
 
@@ -431,7 +433,7 @@ When you complete these trainings, save your completion certificates as .pdf fil
 2. Data Use Agreement (DUA)
 
 * DUA for NIS/HCUP:
-    * NIS/HCUP training is located [here](https://www.hcup-us.ahrq.gov/tech_assist/dua.jsp). There are two versions of HCUP training courses, one is a current version, alternative is a text version. You can choose one of them. Stats volunteers will need to fill out and sign the data use agreement and **send it to Dr. Leary**.
+    *All personnel will need to fill out and sign the data use agreement and **send it to Dr. Leary**. It is located [here](https://www.hcup-us.ahrq.gov/team/NationwideDUA.pdf).  
 
 * DUA for NSQIP:
     * The DUA for NSQIP is [here](https://www.hcup-us.ahrq.gov/team/NationwideDUA.pdf). 
