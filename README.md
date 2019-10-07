@@ -6,7 +6,7 @@
    
 * [Everyone](#everyone)
  
-* [Dr. Leary Principal Investigator](#Dr-leary-principal-investigator)
+* [Dr Leary Principal Investigator](#Dr-leary-principal-investigator)
  
 * [Postdocs](#Postdocs)
  
