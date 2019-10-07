@@ -97,12 +97,12 @@ This work is licensed under a CC Attribution 4.0 license. We expect that more in
 - Work independently when you can, ask for help when you need it.
 - Respect each other’s strengths, weaknesses, differences and beliefs.
 - Take personal time/ vacation when you need it and cultivate a life outside of the lab. Respect that other lab members also have a life outside of lab.
-- Communicate openly and respectfully with other members of the lab. Dr. Leary would rather know more that she needs to know than less. 
+- Communicate openly and respectfully with other members of the lab. Dr. Leary would rather know more than she needs to know than less. 
 - If there is any tension or hostility in the lab, something has to be done about it immediately. If you don’t feel comfortable confronting the person in question, tell Dr. Leary.
 
 ### Small picture
 - Do not come into the lab if you are sick. Stay home and get healthy, and don't risk getting others sick.
-- Notify Ms. Kyeong or Dr. Leary if you will be out, either due to illness or vacation. You need to send an email to Dr. Leary and cc Stacee Clawson(clawsons@health.missouri.edu) and Gigi Harrison(harrisongs@health.missouri.edu). If you are sick and you had experiments or meetings scheduled that day, notify your participants or collaborators and reschedule.
+- Notify Ms. Kyeong or Dr. Leary if you will be out, either due to illness or vacation. You need to send an email to Dr. Leary and cc Stacee Clawson (clawsons@health.missouri.edu) and Gigi Harrison (harrisongs@health.missouri.edu). If you are sick and you had experiments or meetings scheduled that day, notify your participants or collaborators and reschedule.
 - You aren’t expected to come into lab on weekends and holidays, and you aren’t expected to stay late at night. You are expected to get your work done (whatever time of day you like to do it).
 - Show up to your meetings, classes, and exams – just show up for your commitments, and work the hours you need to work to get stuff done.
 - Lock the doors if no one else is around, even if you're stepping out for a minute.
