@@ -10,7 +10,7 @@
  
 * [Postdocs](#Postdocs)
  
-* [Graduate students (PhD/Master)](#Graduate-students-%28PhD//Master%29)
+* [Graduate students (PhD/Master)](#Graduate-students-%28phd//master%29)
  
 * [Lab managers](#Lab-managers)
  
@@ -54,7 +54,7 @@
 
 * [Deadlines](#Deadlines)
 
-* [Presentations/Abstracts](#Presentations\\ abstracts)
+* [Presentations/Abstracts](#Presentations\\abstracts)
 
 * [Recommendation letters](#Recommendation-letters)
 
