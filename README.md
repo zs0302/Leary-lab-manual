@@ -86,6 +86,8 @@ Welcome to the Leary – Ortho Biostats Lab manual. This manual was inspired by 
 
 This work is licensed under a CC Attribution 4.0 license. We expect that more information will be added and some sections will be revised as the lab grows and develops. If you have any comments or suggestions regarding the contents of this manual, please tell Dr. Leary (learye@health.missouri.edu).
 
+###### [Top](#Table-of-contents)
+
 # Lab member expectations and responsibilities
 ## Everyone
 ### Big picture
