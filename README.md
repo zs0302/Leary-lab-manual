@@ -6,11 +6,11 @@
    
 * [Everyone](#everyone)
  
-* [Dr. Leary – Principal Investigator](Dr-Leary-Principal-Investigator)
+* [Principal Investigator](Principal-Investigator)
  
 * [Postdocs](#Postdocs)
  
-* [Graduate students (PhD/Master)](#Graduate-students-(PhD/Master))
+* [Graduate students (PhD/Master)](#Graduate-students-(-PhD-/-Master-))
  
 * [Lab managers](#Lab-managers)
  
@@ -110,8 +110,8 @@ This work is licensed under a CC Attribution 4.0 license. We expect that more in
 - You also need to sign the [Ortho Notebook Policy](https://github.com/zhengyes/lab-manual/blob/master/Files/DOS%20National%20Database%20Policy.pdf) and [DOS National Database Policy](https://github.com/zhengyes/lab-manual/blob/master/Files/Ortho%20Notebook%20Policy.docx) for the MOI and lab.
 - Be on time. Be on time for your meetings: respect that others have packed days and everyone’s time is valuable.
 
-## Dr Leary – Principal Investigator
-All of the [Lab member expectations and responsibilities](#everyone), plus you can expect her to:
+## Principal Investigator
+All of the [Lab member expectations and responsibilities](#everyone), plus you can expect Dr. Leary to:
 - Maintain a vision of where the lab is going
 - Provide the funding necessary to keep the lab going
 - Be available in person and via e-mail on a regular basis, including regular meetings to discuss your research (and anything else you’d like to discuss)
