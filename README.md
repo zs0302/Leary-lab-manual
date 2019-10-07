@@ -109,7 +109,7 @@ This work is licensed under a CC Attribution 4.0 license. We expect that more in
 - Keep your area tidy. Eating at your desk is fine, but clean up food waste, crumbs, spills. Put equipment back where you found it. Keep common areas uncluttered.
 - MOI has a specific dress code, you can check the details at [MOI dress code](#MOI-dress-code). 
 - Two trainings (HCUP and IRB) are necessary to be completed before working in the lab. Find details [here](#Training).
-- You also need to sign the [Ortho Notebook Policy](https://github.com/zhengyes/lab-manual/blob/master/Files/DOS%20National%20Database%20Policy.pdf) and [DOS National Database Policy](https://github.com/zhengyes/lab-manual/blob/master/Files/Ortho%20Notebook%20Policy.docx) for the MOI and lab.
+- You also need to sign the [Ortho Notebook Policy](https://github.com/zhengyes/lab-manual/blob/master/Files/Ortho%20Notebook%20Policy.pdf) and [DOS National Database Policy](https://github.com/zhengyes/lab-manual/blob/master/Files/DOS%20National%20Database%20Policy.pdf) for the MOI and lab.
 - Be on time. Be on time for your meetings: respect that others have packed days and everyone’s time is valuable.
 
 ## Dr. Leary-Principal Investigator
