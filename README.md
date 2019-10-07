@@ -6,7 +6,7 @@
    
 * [Everyone](#everyone)
  
-* [Principal Investigator](principal-investigator)
+* [Principal Investigator](#Principal-investigator)
  
 * [Postdocs](#Postdocs)
  
