@@ -54,7 +54,7 @@
 
 * [Deadlines](#Deadlines)
 
-* [Presentations/Abstracts](#Presentations-/Abstracts)
+* [Presentations/Abstracts](#Presentations-//Abstracts)
 
 * [Recommendation letters](#Recommendation-letters)
 
