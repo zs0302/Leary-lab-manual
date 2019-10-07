@@ -165,6 +165,7 @@ All of the [Lab member expectations and responsibilities](#everyone), plus you w
 - Provide extra support to the lab manager (this may include filing paperwork). If you are in lab and do not have a task to do, you should ask the lab manager or your supervisor whether there is anything you can help out with. You should not be idle.
 
 Undergraduate research assistants play an important role in our lab, and we have a few opportunities for them to earn money or credit for their contributions. Because these opportunities require a certain degree of commitment from both the student and the lab, we generally reserve them for students who have already spent at least one semester volunteering in lab. If this policy would prevent you from being able to work in lab, please talk to Dr. Leary or the lab manager because we want all students to be able to pursue their research interests. In addition to volunteering in lab, other research opportunities include data collection.
+###### [Top](#Table-of-contents)
 
 # Code of conduct
 ## General
@@ -270,6 +271,7 @@ Adherence to approved IRB protocols is *essential*, and non-adherence can lead t
 Lab members must also complete the CITI training and save their certificate. To be added to an existing IRB, talk to the lab manager and present them with your CITI certificate before you can work with human subjects. If there are any questions about the protocols, or if you're not sure whether we have IRB approval to run your study, please ask the lab manager or Dr. Leary for clarification. If necessary, the lab manager or Mr. Eric Zelasko (zelaskoe@health.missouri.edu) can file an amendment to an existing protocol or create a new protocol.
 
 If you encounter any problems in the course of doing research that results in a negative outcome for the participant (e.g., if a participant becomes ill or upset, if there is an accident with the equipment, if there is a breach of confidentiality, etc), you should immediately seek assistance from Dr. Leary or the lab manager. If Dr. Leary is not around, you must notify Dr. Leary and the lab manager *within 24 hours*, preferably as soon as possible. In some cases, we may need to report this information to the IRB and/or our funding agencies.
+###### [Top](#Table-of-contents)
 
 # Lab Resources
 ## GitHub
@@ -291,7 +293,7 @@ Dr. Leary will assign each lab member a BOX folder with your name. This folder m
 
 ### Box Sync
 Box Sync is a tool that allows you to mirror data stored on Box to your desktop. It essentially allows Box to function as a cloud "drive" on your computer. You can navigate and modify content stored on the Box website through your computer’s native file browsing interface, without using a web browser. You must set this up for every computer for which you want to use Box Sync. Content that syncs down to your computer is available for offline access, and if you make changes to the synced files locally, these changes automatically sync back up to your Box account when you are connected to the internet. To install Box Sync, please check [this](https://community.box.com/t5/Using-Box-Sync/tkb-p/UsingBoxSync) if you have problem about installing or setting sync folder.
-
+###### [Top](#Table-of-contents)
 
 # General policies
 ## Hours
@@ -351,6 +353,7 @@ Before you leave the lab, you will be required to document and archive all datas
 
 ### Data sharing
 Not only is data-sharing the right thing to do, we are actually required to do so for any dataset that was funded by the NIH. The final datasets must be archived in .csv format with data dictionary. You should also be prepared to share any scripts or code that you used in your published processing & analysis pipeline. Dr. Leary will be responsible for sharing all final data; you are responsible for formatting and organizing your data so she can do that.
+###### [Top](#Table-of-contents)
 
 # Funding
 
@@ -367,7 +370,7 @@ university; these can be spent in the same way as MOI/TLRO funds.
 ## Funding notes
 All research funded by the NIH and DoD must acknowledge the grant number upon publication. This is essential for documenting that we are turning their money into research findings. We must also submit a yearly progress report describing what we have accomplished. Lab members involved in the research will be asked to contribute to the progress report.
 Research funded by other grants (e.g., RDC-US Census Bureau) must also acknowledge the source of funding and provide a statement which the RDC or whatever other funding source provides.
-
+###### [Top](#Table-of-contents)
 
 # Appendix
 
