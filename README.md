@@ -10,7 +10,7 @@
  
 * [Postdocs](#Postdocs)
  
-* [Graduate students (PhD/Master)](#Graduate-students-%28PhD/Master%29)
+* [Graduate students (PhD/Master)](#Graduate-students-%28PhD//Master%29)
  
 * [Lab managers](#Lab-managers)
  
