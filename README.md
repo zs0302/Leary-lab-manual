@@ -435,8 +435,7 @@ When you complete these trainings, save your completion certificates as .pdf fil
 * DUA for NIS/HCUP:
     *All personnel will need to fill out and sign the data use agreement and **send it to Dr. Leary**. It is located [here](https://www.hcup-us.ahrq.gov/team/NationwideDUA.pdf).  
 
-* DUA for NSQIP:
-    * The DUA for NSQIP is [here](https://www.hcup-us.ahrq.gov/team/NationwideDUA.pdf). 
+* DUA for NSQIP: [here](https://www.hcup-us.ahrq.gov/team/NationwideDUA.pdf). 
 
 ## File Formatting
 
