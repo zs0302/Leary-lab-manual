@@ -1,3 +1,13 @@
+---
+title: "index"
+author: "LearyLab"
+date: "10/14/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
 Leary Ortho Biostats Lab Manual
 =============================
 ## Table of Contents
