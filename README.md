@@ -1,3 +1,64 @@
+Leary Ortho Biostats Lab Manual
+=============================
+## Table of Contents
+
+[Introduction](#introduction)
+
+[Lab member expectations and responsibilities](#lab-member-expectations-and-responsibilities)
+   
+* [Everyone](#everyone)
+ 
+* [Dr. Leary Principal Investigator](#Dr-leary-principal-investigator)
+ 
+* [Postdocs](#Postdocs)
+ 
+* [Graduate students (PhD/Master)](#Graduate-students-phdmaster)
+ 
+* [Lab managers](#Lab-managers)
+ 
+* [Other full-time staff](#Other-full-time-staff)
+ 
+* [Undergraduate students](#Undergraduate-students)
+
+[Code of conduct](#Code-of-conduct)
+
+* [General](#General)
+
+* [Confidentiality Policy](#Confidentiality-Policy)
+
+* [Data Security](#Data-Security)
+
+* [Lab Notebook Policy](#Lab-Notebook-Policy)
+
+* [Schedule Notification](#Schedule-Notification)
+
+* [Scientific integrity](#Scientific-integrity)
+
+* [Human subjects research](#Human-subjects-research)
+
+[Lab Resources](#lab-resources)
+
+* [Github](#Github)
+
+* [Outlook](#Outlook)
+
+* [Outlook Calendar](#Outlook-Calendar)
+
+* [OneNote](#OneNote)
+
+* [Project Management using Box and Box Sync](#Project-Management-using-Box-and-Box-Sync)
+
+[General policies](#general-policies)
+
+* [Hours](#Hours)
+
+* [Meetings](#Meetings)
+
+* [Deadlines](#Deadlines)
+
+* [Presentations/Abstracts](#Presentationsabstracts)
+
+* [Recommendation letters](#Recommendation-letters)
 
 * [Data management](#Data-management)
 
@@ -5,7 +66,19 @@
 
 * [Allocation of expenses](#Allocation-of-expenses)
 
-in-lab)
+* [Funding notes](#Funding-notes)
+
+[Appendix](#Appendix)
+
+* [MOI dress code](#MOI-dress-code)
+
+* [Training](#Training)
+
+* [File Formatting](#File-Formatting)
+
+* [REDCap Instruction](#REDCap-Instruction)
+
+* [Datasets available in lab](#Datasets-available-in-lab)
 
 ###### <p dir='rtl' align='right'>[Top](#Table-of-contents)</p>
 # Introduction
@@ -13,7 +86,13 @@ Welcome to the Leary – Ortho Biostats Lab manual. This manual was inspired by 
 
 This work is licensed under a CC Attribution 4.0 license. We expect that more information will be added and some sections will be revised as the lab grows and develops. If you have any comments or suggestions regarding the contents of this manual, please tell Dr. Leary (learye@health.missouri.edu).
 
-collaborators if you do make a mistake (if they have already seen the results). We admit our mistakes, and then we correct them and move on.
+###### <p dir='rtl' align='right'>[Top](#Table-of-contents)</p>
+# Lab member expectations and responsibilities
+## Everyone
+### Big picture
+- Do work that you are proud of. 
+- Don’t rush your work. Double-check your work and ask others to look at your code or data if you need help or something looks off. 
+- Tell your collaborators if you do make a mistake (if they have already seen the results). We admit our mistakes, and then we correct them and move on.
 - No academic misconduct. It is never ok to plagiarize, tamper with data, make up data, omit data, or fudge results in any way.
 - Be supportive of your lab mates. Share your knowledge and help them out if they need help.
 - Work independently when you can, ask for help when you need it.
@@ -22,7 +101,37 @@ collaborators if you do make a mistake (if they have already seen the results). 
 - Communicate openly and respectfully with other members of the lab. Dr. Leary would rather know more than she needs to know than less. 
 - If there is any tension or hostility in the lab, something has to be done about it immediately. If you don’t feel comfortable confronting the person in question, tell Dr. Leary.
 
-### Small picture(PhD/Master)
+### Small picture
+- Do not come into the lab if you are sick. Stay home and get healthy, and don't risk getting others sick.
+- Notify Ms. Kyeong or Dr. Leary if you will be out, either due to illness or vacation. You need to send an email to Dr. Leary and cc Stacee Clawson (clawsons@health.missouri.edu) and Gigi Harrison (harrisongs@health.missouri.edu). If you are sick and you had experiments or meetings scheduled that day, notify your participants or collaborators and reschedule.
+- You aren’t expected to come into lab on weekends and holidays, and you aren’t expected to stay late at night. You are expected to get your work done (whatever time of day you like to do it).
+- Show up to your meetings, classes, and exams – just show up for your commitments, and work the hours you need to work to get stuff done.
+- Lock the doors if no one else is around, even if you're stepping out for a minute.
+- Keep your area tidy. Eating at your desk is fine, but clean up food waste, crumbs, spills. Put equipment back where you found it. Keep common areas uncluttered.
+- MOI has a specific dress code, you can check the details at [MOI dress code](#MOI-dress-code). 
+- Two trainings (HCUP and IRB) are necessary to be completed before working in the lab. Find details [here](#Training).
+- You also need to sign the [Ortho Notebook Policy](https://github.com/zhengyes/lab-manual/blob/master/Files/Ortho%20Notebook%20Policy.pdf) and [DOS National Database Policy](https://github.com/zhengyes/lab-manual/blob/master/Files/DOS%20National%20Database%20Policy.pdf) for the MOI and lab.
+- Be on time. Be on time for your meetings: respect that others have packed days and everyone’s time is valuable.
+
+## Dr. Leary-Principal Investigator
+All of the [Lab member expectations and responsibilities](#everyone), plus you can expect Dr. Leary to:
+- Maintain a vision of where the lab is going
+- Provide the funding necessary to keep the lab going
+- Be available in person and via e-mail on a regular basis, including regular meetings to discuss your research (and anything else you’d like to discuss)
+- Give you my perspective on academia and issues related to professional development
+- Support your career development by introducing you to other researchers in the field, writing recommendation letters for you, providing you with opportunities to attend conferences when possible, and promoting your work in talks
+- Care about you as a person and not just a scientist
+
+## Postdocs
+All of the [Lab member expectations and responsibilities](#everyone), plus you will be expected to:
+- Develop your own independent line of research
+- Mentor undergraduate and graduate students on their research projects, when asked or when appropriate
+- Apply for external funding.
+- Apply for jobs (academic or industry) as soon as you are "ready" and/or by the end of beginning of your second year as a postdoc.
+- If you are planning to pursue a non-academic career, treat your postdoctoral research as seriously as you might if you were pursuing an academic career. We can discuss ways of making sure that you are getting the training you need, while still doing excellent research.
+- Remind the PI that different scientific opinions can co-exist in the same lab!
+
+## Graduate students (PhD/Master)
 All of the [Lab member expectations and responsibilities](#everyone), plus you will be expected to:
 - (PhD) Develop a line of dissertation research. Ideally, your dissertation research will consist of at least 3 experiments that can be packaged into one thesis document.
 - (Master) Plan your master project with advisor and ideally, this can be submitted as at least one paper for peer-reviewed publication.
