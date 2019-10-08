@@ -5,19 +5,7 @@
 
 * [Allocation of expenses](#Allocation-of-expenses)
 
-* [Funding notes](#Funding-notes)
-
-[Appendix](#Appendix)
-
-* [MOI dress code](#MOI-dress-code)
-
-* [Training](#Training)
-
-* [File Formatting](#File-Formatting)
-
-* [REDCap Instruction](#REDCap-Instruction)
-
-* [Datasets available in lab](#Datasets-available-in-lab)
+in-lab)
 
 ###### <p dir='rtl' align='right'>[Top](#Table-of-contents)</p>
 # Introduction
@@ -25,13 +13,7 @@ Welcome to the Leary – Ortho Biostats Lab manual. This manual was inspired by 
 
 This work is licensed under a CC Attribution 4.0 license. We expect that more information will be added and some sections will be revised as the lab grows and develops. If you have any comments or suggestions regarding the contents of this manual, please tell Dr. Leary (learye@health.missouri.edu).
 
-###### <p dir='rtl' align='right'>[Top](#Table-of-contents)</p>
-# Lab member expectations and responsibilities
-## Everyone
-### Big picture
-- Do work that you are proud of. 
-- Don’t rush your work. Double-check your work and ask others to look at your code or data if you need help or something looks off. 
-- Tell your collaborators if you do make a mistake (if they have already seen the results). We admit our mistakes, and then we correct them and move on.
+collaborators if you do make a mistake (if they have already seen the results). We admit our mistakes, and then we correct them and move on.
 - No academic misconduct. It is never ok to plagiarize, tamper with data, make up data, omit data, or fudge results in any way.
 - Be supportive of your lab mates. Share your knowledge and help them out if they need help.
 - Work independently when you can, ask for help when you need it.
