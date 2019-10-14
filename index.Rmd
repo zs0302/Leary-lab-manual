@@ -93,7 +93,7 @@ Welcome to the Leary – Ortho Biostats Lab manual. This manual was inspired by 
 
 This work is licensed under a CC Attribution 4.0 license. We expect that more information will be added and some sections will be revised as the lab grows and develops. If you have any comments or suggestions regarding the contents of this manual, please tell Dr. Leary (learye@health.missouri.edu).
 
-###### <p dir='rtl' align='right'>[Top](#table-of-contents)</p>
+<p dir='rtl' align='right'>[Top](#table-of-contents)</p>
 # Lab member expectations and responsibilities
 ## Everyone
 ### Big picture
@@ -178,7 +178,7 @@ All of the [Lab member expectations and responsibilities](#everyone), plus you w
 
 Undergraduate research assistants play an important role in our lab, and we have a few opportunities for them to earn money or credit for their contributions. Because these opportunities require a certain degree of commitment from both the student and the lab, we generally reserve them for students who have already spent at least one semester volunteering in lab. If this policy would prevent you from being able to work in lab, please talk to Dr. Leary or the lab manager because we want all students to be able to pursue their research interests. In addition to volunteering in lab, other research opportunities include data collection.
 
-###### <p dir='rtl' align='right'>[Top](#table-of-contents)</p>
+<p dir='rtl' align='right'>[Top](#table-of-contents)</p>
 # Code of conduct
 ## General
 Many topics were covered already in the [Lab member expectations & responsibilities section](#Lab-member-expectations-and-responsibilities).
@@ -284,7 +284,7 @@ Lab members must also complete the CITI training and save their certificate. To 
 
 If you encounter any problems in the course of doing research that results in a negative outcome for the participant (e.g., if a participant becomes ill or upset, if there is an accident with the equipment, if there is a breach of confidentiality, etc), you should immediately seek assistance from Dr. Leary or the lab manager. If Dr. Leary is not around, you must notify Dr. Leary and the lab manager *within 24 hours*, preferably as soon as possible. In some cases, we may need to report this information to the IRB and/or our funding agencies.
 
-###### <p dir='rtl' align='right'>[Top](#table-of-contents)</p>
+<p dir='rtl' align='right'>[Top](#table-of-contents)</p>
 # Lab Resources
 ## GitHub
 Github is a hosting serveice. Projects on GitHub can be accessed and manipulated using the standard Git command-line interface and all of the standard Git commands work with it. GitHub also allows registered and non-registered users to browse public repositories on the site. All members must register an account in order to contribute to discussion and manage repository. This lab manual is on Github and the corresponding lab wiki is also on Github. Please check the [lab manual](https://github.com/LearyE/Ortho-Biostats) and [lab wiki](https://github.com/LearyE/Ortho-Biostats/wiki) first,  if you have any lab related questions. 
@@ -306,7 +306,7 @@ Dr. Leary will assign each lab member a BOX folder with your name. This folder m
 ### Box Sync
 Box Sync is a tool that allows you to mirror data stored on Box to your desktop. It essentially allows Box to function as a cloud "drive" on your computer. You can navigate and modify content stored on the Box website through your computer’s native file browsing interface, without using a web browser. You must set this up for every computer for which you want to use Box Sync. Content that syncs down to your computer is available for offline access, and if you make changes to the synced files locally, these changes automatically sync back up to your Box account when you are connected to the internet. To install Box Sync, please check [this](https://community.box.com/t5/Using-Box-Sync/tkb-p/UsingBoxSync) if you have problem about installing or setting sync folder.
 
-###### <p dir='rtl' align='right'>[Top](#table-of-contents)</p>
+<p dir='rtl' align='right'>[Top](#table-of-contents)</p>
 # General policies
 ## Hours
 One of the benefits of a career in academic research is that it is typically more flexible than other kinds of jobs. However, you should still treat it like a job. If you are employed for 40 hours a week, you should be working 40 hours a week. This applies to lab staff members (the lab manager and other research assistants) and postdocs. You are not required to work over-time. For graduate students, you are recognized to have other demands on your time like classes and TA-ing but we still expect to see you in lab, doing research, often. Lab staff members are expected to keep regular office hours (e.g., somewhere in the ballpark of 8-5). Graduate students and postdocs have more flexibility. 
@@ -366,7 +366,7 @@ Before you leave the lab, you will be required to document and archive all datas
 ### Data sharing
 Not only is data-sharing the right thing to do, we are actually required to do so for any dataset that was funded by the NIH. The final datasets must be archived in .csv format with data dictionary. You should also be prepared to share any scripts or code that you used in your published processing & analysis pipeline. Dr. Leary will be responsible for sharing all final data; you are responsible for formatting and organizing your data so she can do that.
 
-###### <p dir='rtl' align='right'>[Top](#table-of-contents)</p>
+<p dir='rtl' align='right'>[Top](#table-of-contents)</p>
 # Funding
 
 ## Allocation of expenses
@@ -383,7 +383,7 @@ university; these can be spent in the same way as MOI/TLRO funds.
 All research funded by the NIH and DoD must acknowledge the grant number upon publication. This is essential for documenting that we are turning their money into research findings. We must also submit a yearly progress report describing what we have accomplished. Lab members involved in the research will be asked to contribute to the progress report.
 Research funded by other grants (e.g., RDC-US Census Bureau) must also acknowledge the source of funding and provide a statement which the RDC or whatever other funding source provides.
 
-###### <p dir='rtl' align='right'>[Top](#table-of-contents)</p>
+<p dir='rtl' align='right'>[Top](#table-of-contents)</p>
 # Appendix
 
 ## MOI dress code
@@ -539,4 +539,4 @@ The National Inpatient Sample (NIS) is part of the family of databases and softw
 
 
 The ACS National Surgical Quality Improvement Program (ACS NSQIP®) is a nationally validated, risk-adjusted, outcomes-based program to measure and improve the quality of surgical care. Built by surgeons for surgeons, ACS NSQIP provides participating hospitals with tools, analyses, and reports to make informed decisions about improving quality of care. Further, peer-reviewed studies have shown that ACS NSQIP is effective in improving the quality of surgical care while also reducing complications and costs. We paid for this dataset, please contact Dr. Leary if you need help. Some more information can be found [here](https://www.facs.org/quality-programs/acs-nsqip)
-###### <p dir='rtl' align='right'>[Top](#table-of-contents)</p>
+<p dir='rtl' align='right'>[Top](#table-of-contents)</p>
