@@ -5,7 +5,7 @@ date: ""
 output: html_document
 ---
 
-<p dir='rtl' align='right'> Last update: 10/14/2019 </p>
+<p dir='rtl' align='right'> Last update: 10/15/2019 </p>
 
 ## Table of Contents
 
@@ -309,6 +309,9 @@ One of the benefits of a career in academic research is that it is typically mor
 ### Office hours
 Dr. Leary is generally in office from 8 a.m. to 5 p.m. on weekdays. You can send her an email if you cannot find her.
 
+### Work hour report
+Lab member should make a screenshot of the REDCap report and send an email to Ms. Kyeong and Dr. Leary. This must be done before 8 a.m. each Monday. If you missed it, do not hesitate and send a copy as soon as possible. It is highly recommended to send the screenshot on the last day of your work before Monday. In addition, you need to provide a detailed description of your progress for each project during the week (this is separate from that in RedCap).  A good guide is a paragraph on each project with an introduction to any issues or questions you may have in lab meeting.
+
 ## Meetings
 ### Weekly lab meetings
 Weekly lab meetings will be focused on project presentations and going over new data or methods. The weekly lab meeting will take place at the Missouri Orthopaedic Institute weekly in room 4204 every Tuesday at about 3 p.m., meetings usually last about 1 to 1.5 hours. If the location or time changes, Ms. Kyeong or Dr. Leary will email you in advance. If at the end of meeting, we need more time to discuss something, we will schedule another meeting. Lab meeting agendas and notes will be maintained in the `lab meetings` folder on Box. All lab members are expected to attend the weekly lab meeting. 
@@ -317,6 +320,14 @@ Weekly lab meetings will be focused on project presentations and going over new 
 
 ## Deadlines
 It is essential to stay ahead of deadlines and keep organized. When it comes to deadlines, tell your collaborators **as soon as you know when a deadline is**, and make sure they are aware of it the closer it gets. Don’t be afraid to bug them about it.
+
+If you miss a deadline, please notify Dr. Leary as soon as possible. We can work together to figure out the issue or problem. Here are some tips to keep in mind. 
+
+*	Plan your work: Understand the purpose of the work, and plan each step so that you will not waste a lot of time before noticing you are in the wrong direction. 
+
+*	Use the right resources: Yes, you should be challenged in your work but you shouldn’t be lost.  Getting help with tools and resources such as using the right algorithm, software or asking others can dramatically decrease the time spent on your work. 
+
+*	Plan for the unexpected: Think about potential problems and work to anticipate them.  **Do not do last minute work** because something always goes wrong!!  You need time to trouble shoot and triple check your work.  Plan for that. 
 
 Dr. Leary will expect advance notice of at least 2 weeks for reading/commenting on abstracts, papers, and manuscripts, 2 weeks for filling out paperwork, etc, and 2 weeks for letters of recommendation. If you want feedback on research and teaching statements, or other work that requires multiple back-and-forth interactions between you and Dr. Leary before a hard deadline, give her as much time as you can.
 

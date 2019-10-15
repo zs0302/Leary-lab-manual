@@ -7,6 +7,7 @@
 <meta charset="utf-8" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 <meta name="author" content />
@@ -255,9 +256,7 @@ h6 {
 </style>
 
 
-</head>
 
-<body>
 
 <style type="text/css">
 .main-container {
@@ -271,7 +270,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -282,22 +280,80 @@ img {
 button.code-folding-btn:focus {
   outline: none;
 }
+summary {
+  display: list-item;
+}
 </style>
 
 
 
-<div class="container-fluid main-container">
-
 <!-- tabsets -->
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-</script>
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
 
 <!-- code folding -->
 
 
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
 
 
 
@@ -312,7 +368,7 @@ $(document).ready(function () {
 
 
 <p dir="rtl" align="right">
-Last update: 10/14/2019
+Last update: 10/15/2019
 </p>
 <div id="table-of-contents" class="section level2">
 <h2>Table of Contents</h2>
@@ -560,6 +616,10 @@ Last update: 10/14/2019
 <h3>Office hours</h3>
 <p>Dr. Leary is generally in office from 8 a.m. to 5 p.m. on weekdays. You can send her an email if you cannot find her.</p>
 </div>
+<div id="work-hour-report" class="section level3">
+<h3>Work hour report</h3>
+<p>Lab member should make a screenshot of the REDCap report and send an email to Ms. Kyeong and Dr. Leary. This must be done before 8 a.m. each Monday. If you missed it, do not hesitate and send a copy as soon as possible. It is highly recommended to send the screenshot on the last day of your work before Monday. In addition, you need to provide a detailed description of your progress for each project during the week (this is separate from that in RedCap). A good guide is a paragraph on each project with an introduction to any issues or questions you may have in lab meeting.</p>
+</div>
 </div>
 <div id="meetings" class="section level2">
 <h2>Meetings</h2>
@@ -574,6 +634,12 @@ Last update: 10/14/2019
 <div id="deadlines" class="section level2">
 <h2>Deadlines</h2>
 <p>It is essential to stay ahead of deadlines and keep organized. When it comes to deadlines, tell your collaborators <strong>as soon as you know when a deadline is</strong>, and make sure they are aware of it the closer it gets. Don’t be afraid to bug them about it.</p>
+<p>If you miss a deadline, please notify Dr. Leary as soon as possible. We can work together to figure out the issue or problem. Here are some tips to keep in mind.</p>
+<ul>
+<li><p>Plan your work: Understand the purpose of the work, and plan each step so that you will not waste a lot of time before noticing you are in the wrong direction.</p></li>
+<li><p>Use the right resources: Yes, you should be challenged in your work but you shouldn’t be lost. Getting help with tools and resources such as using the right algorithm, software or asking others can dramatically decrease the time spent on your work.</p></li>
+<li><p>Plan for the unexpected: Think about potential problems and work to anticipate them. <strong>Do not do last minute work</strong> because something always goes wrong!! You need time to trouble shoot and triple check your work. Plan for that.</p></li>
+</ul>
 <p>Dr. Leary will expect advance notice of at least 2 weeks for reading/commenting on abstracts, papers, and manuscripts, 2 weeks for filling out paperwork, etc, and 2 weeks for letters of recommendation. If you want feedback on research and teaching statements, or other work that requires multiple back-and-forth interactions between you and Dr. Leary before a hard deadline, give her as much time as you can.</p>
 </div>
 <div id="presentationsabstracts" class="section level2">
@@ -768,6 +834,23 @@ $(document).ready(function () {
 
 </script>
 
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
   (function () {
@@ -777,14 +860,6 @@ $(document).ready(function () {
     document.getElementsByTagName("head")[0].appendChild(script);
   })();
 </script>
-
-<script src="https://unpkg.com/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js"></script>
-<script>addBackToTop({
-  diameter: 56,
-  backgroundColor: 'rgb(255, 82, 82)',
-  textColor: '#fff'
-})</script>
-
 
 </body>
 </html>
