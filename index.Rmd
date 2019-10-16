@@ -5,9 +5,11 @@ date: ""
 output: html_document
 ---
 
-<p dir='rtl' align='right'> Last update: 10/15/2019 </p>
+<p dir='rtl' align='right'> Last update: 10/21/2019 </p>
 
-## Table of Contents
+<IMG SRC="pic.jpg" ALIGN="right"  height= 400 width= 370 hspace=0 vspace=100/>
+
+## Table of Contents 
 
   - [Introduction](#introduction)
 
