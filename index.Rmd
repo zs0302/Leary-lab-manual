@@ -1,5 +1,5 @@
 ---
-title: "Leary Ortho Biostats Lab Manual modify mmm"
+title: "Leary Ortho Biostats Lab Manual modify mm"
 author: ""
 date: ""
 output: html_document
