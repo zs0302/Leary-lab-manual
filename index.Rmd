@@ -1,6 +1,11 @@
 
 Leary Ortho Biostats Lab Manual
 =============================
+
+<p dir='rtl' align='right'> Last update: 03/30/2021 </p>
+
+<IMG SRC="pic.jpg" ALIGN='right' height= 400 width =370 hspace=0 vspace=100/>
+
 ## Table of Contents
 
 [Introduction](#introduction)
@@ -49,7 +54,7 @@ Leary Ortho Biostats Lab Manual
 
 * [OneNote](#onenote)
 
-* [Project Management using OneDrive](#project-management-using-ortho-biostats-drive)
+* [Project Management using Ortho Biostats Drive](#project-management-using-ortho-biostats-drive)
 
 [General policies](#general-policies)
 
