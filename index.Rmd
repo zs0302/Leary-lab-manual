@@ -1,9 +1,3 @@
----
-title: "Leary Ortho Biostats Lab Manual"
-author: ""
-date: ""
-output: html_document
----
 
 Leary Ortho Biostats Lab Manual
 =============================
