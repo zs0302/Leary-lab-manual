@@ -47,9 +47,9 @@ Leary Ortho Biostats Lab Manual
 
 * [Outlook Calendar](#outlook-calendar)
 
-* [OneNote](#oneNote)
+* [OneNote](#onenote)
 
-* [Project Management using OneDrive](#project-management-using-onedrive)
+* [Project Management using OneDrive](#project-management-using-ortho-biostats-drive)
 
 [General policies](#general-policies)
 
@@ -271,6 +271,7 @@ Authorship will be discussed prior to the beginning of a new project, so that ex
 
 #### Old projects
 If a student or post-doc collects a dataset but does not completely analyze it or write it up within 2 years after the end of data collection, Dr. Leary will re-assign the project (if appropriate) to another person to expedite publication. If a student or post-doc voluntarily relinquishes their rights to the project prior to the 2-year window, Dr. Leary will also re-assign the project to another individual. This policy is here to prevent data (especially expensive data) from remaining unpublished but is meant to give priority to the person who initially led the project.
+
 ## Human subjects research
 Adherence to approved IRB protocols is *essential*, and non-adherence can lead to severe consequences for the entire lab. **All lab members must read and comply with the IRB consent form and research summary for any project that they are working on.** If you are not on the IRB, you cannot look at identifiable data, analyze the data, or be in any way involved with the project. Check [here](#training) to see details about the training for IRB.
 
@@ -296,6 +297,7 @@ OneNote is a digital notebook for taking notes and managing information. Notes c
 
 ## Project Management using Ortho Biostats Drive
 Dr. Leary will assign each lab member an Ortho Biostats drive (Z drive) folder with your name. This folder must contain all the materials of your projects. Do not save any project materials on a computer or in another cloud service. If system lags make this impossible, all material must be moved to the Ortho Biostats drive each week. Box can also be used instead. This issue should be temporary (as of Nov 2020) but it is important that best practices be followed as closely as possible, while also not hindering working abilities. 
+
 ### OneDrive
 OneDrive is a tool that allows you to sync data stored on Microsoft Office to your desktop. It essentially allows OneDrive to function as a cloud "drive" on your computer. You can navigate and modify content stored on the OneDrive website through your computer’s native file browsing interface, without using a web browser. You must log in to your Microsoft account every time you wish to use it. To install OneDrive, please check [this](https://support.microsoft.com/en-us/office/sync-files-with-onedrive-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49) if you have problem about installing or setting sync folder. Currently (Nov 2020), OneDrive is not approved for patient data. This tool will likely be approved in the future. However, it is currently available for non-PHI data and related storage needs.
 
