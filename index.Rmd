@@ -9,82 +9,81 @@ Leary Ortho Biostats Lab Manual
    
 * [Everyone](#everyone)
  
-* [Dr. Leary Principal Investigator](#Dr-leary-principal-investigator)
+* [Dr. Leary Principal Investigator](#dr.-leary-principal-investigator)
  
-* [Postdocs](#Postdocs)
+* [Postdocs](#postdocs)
  
-* [Graduate students (PhD/Master)](#Graduate-students-phdmaster)
+* [Graduate students (PhD/Master)](#graduate-students-phdmaster)
  
-* [Lab managers](#Lab-managers)
+* [Lab managers](#lab-managers)
  
-* [Other full-time staff](#Other-full-time-staff)
+* [Other full-time staff](#other-full-time-staff)
  
-* [Undergraduate students](#Undergraduate-students)
+* [Undergraduate students](#undergraduate-students)
 
-[Code of conduct](#Code-of-conduct)
+[Code of conduct](#code-of-conduct)
 
-* [General](#General)
+* [General](#general)
 
-* [COVID-19 Policy](#COVID-19-Policy)
+* [COVID-19 Policy](#covid-19-policy)
 
-* [Confidentiality Policy](#Confidentiality-Policy)
+* [Confidentiality Policy](#confidentiality-policy)
 
-* [Data Security](#Data-Security)
+* [Data Security](#data-security)
 
-* [Lab Notebook Policy](#Lab-Notebook-Policy)
+* [Lab Notebook Policy](#lab-notebook-policy)
 
-* [Schedule Notification](#Schedule-Notification)
+* [Schedule Notification](#schedule-notification)
 
-* [Scientific integrity](#Scientific-integrity)
+* [Scientific integrity](#scientific-integrity)
 
-* [Human subjects research](#Human-subjects-research)
+* [Human subjects research](#human-subjects-research)
 
 [Lab Resources](#lab-resources)
 
-* [Github](#Github)
+* [Github](#github)
 
-* [Outlook](#Outlook)
+* [Outlook](#outlook)
 
-* [Outlook Calendar](#Outlook-Calendar)
+* [Outlook Calendar](#outlook-calendar)
 
-* [OneNote](#OneNote)
+* [OneNote](#oneNote)
 
-* [Project Management using OneDrive](#Project-Management-using-OneDrive)
+* [Project Management using OneDrive](#project-management-using-onedrive)
 
 [General policies](#general-policies)
 
-* [Hours](#Hours)
+* [Hours](#hours)
 
-* [Meetings](#Meetings)
+* [Meetings](#meetings)
 
-* [Deadlines](#Deadlines)
+* [Deadlines](#deadlines)
 
-* [Presentations/Abstracts](#Presentationsabstracts)
+* [Presentations/Abstracts](#presentationsabstracts)
 
-* [Recommendation letters](#Recommendation-letters)
+* [Recommendation letters](#recommendation-letters)
 
-* [Data management](#Data-management)
+* [Data management](#data-management)
 
-[Funding](#Funding)
+[Funding](#funding)
 
-* [Allocation of expenses](#Allocation-of-expenses)
+* [Allocation of expenses](#allocation-of-expenses)
 
-* [Funding notes](#Funding-notes)
+* [Funding notes](#funding-notes)
 
-[Appendix](#Appendix)
+[Appendix](#appendix)
 
-* [MOI dress code](#MOI-dress-code)
+* [MOI dress code](#moi-dress-code)
 
-* [Zoom Etiquette](#Zoom-Etiquette)
+* [Zoom Etiquette](#zoom-etiquette)
 
-* [Training](#Training)
+* [Training](#training)
 
-* [File Formatting](#File-Formatting)
+* [File Formatting](#file-formatting)
 
-* [REDCap Instruction](#REDCap-Instruction)
+* [REDCap Instruction](#redcap-instruction)
 
-* [Datasets available in lab](#Datasets-available-in-lab)
-
+* [Datasets available in lab](#datasets-available-in-lab)
 
 # Introduction
 Welcome to the Leary – Ortho Biostats Lab manual. This manual was inspired by other similar works, and borrows heavily from them (e.g., [this one](https://github.com/alylab/labmanual) and [this one](https://github.com/memobc/memolab-manual)). It is intended to represent my vision for how the lab should function and to complement existing University of Missouri policies ([this](https://hrs.missouri.edu/policies-and-procedures) and [this](https://accountability.missouri.edu/accountability/university-policies/), which take precedence). We hope you will learn a lot about clinical statistics, developing new skills (coding, analyzing data, writing and giving talks), making new friends and having a great deal of fun throughout the whole process.
@@ -118,7 +117,7 @@ This work is licensed under a CC Attribution 4.0 license. We expect that more in
 - You also need to sign the [Ortho Notebook Policy](https://github.com/zhengyes/lab-manual/blob/master/Files/Ortho%20Notebook%20Policy.pdf) and [DOS National Database Policy](https://github.com/zhengyes/lab-manual/blob/master/Files/DOS%20National%20Database%20Policy.pdf) for the MOI and lab.
 - Be on time. Be on time for your meetings: respect that others have packed days and everyone’s time is valuable.
 
-## Dr. Leary-Principal Investigator
+## Dr. Leary Principal Investigator
 All of the [Lab member expectations and responsibilities](#everyone), plus you can expect Dr. Leary to:
 - Maintain a vision of where the lab is going
 - Provide the funding necessary to keep the lab going
