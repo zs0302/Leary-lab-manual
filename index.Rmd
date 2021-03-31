@@ -2,7 +2,7 @@
 Leary Ortho Biostats Lab Manual
 =============================
 
-<p dir='rtl' align='right'> Last update: 03/30/2021 </p>
+<p dir='rtl' align='right'> Last update: 03/31/2021 </p>
 
 <IMG SRC="pic.jpg" ALIGN='right' height= 400 width =370 hspace=0 vspace=100/>
 
@@ -117,8 +117,8 @@ This work is licensed under a CC Attribution 4.0 license. We expect that more in
 - Show up to your meetings, classes, and exams – just show up for your commitments, and work the hours you need to work to get stuff done.
 - Lock the doors if no one else is around, even if you're stepping out for a minute.
 - Keep your area tidy. Eating at your desk is fine, but clean up food waste, crumbs, spills. Put equipment back where you found it. Keep common areas uncluttered.
-- MOI has a specific dress code, you can check the details at [MOI dress code](#MOI-dress-code). 
-- Two trainings (HCUP and IRB) are necessary to be completed before working in the lab. Find details [here](#Training).
+- MOI has a specific dress code, you can check the details at [MOI dress code](#moi-dress-code). 
+- Two trainings (HCUP and IRB) are necessary to be completed before working in the lab. Find details [here](#training).
 - You also need to sign the [Ortho Notebook Policy](https://github.com/zhengyes/lab-manual/blob/master/Files/Ortho%20Notebook%20Policy.pdf) and [DOS National Database Policy](https://github.com/zhengyes/lab-manual/blob/master/Files/DOS%20National%20Database%20Policy.pdf) for the MOI and lab.
 - Be on time. Be on time for your meetings: respect that others have packed days and everyone’s time is valuable.
 
@@ -177,10 +177,10 @@ Undergraduate research assistants play an important role in our lab, and we have
 
 # Code of conduct
 ## General
-Many topics were covered already in the [Lab member expectations & responsibilities section](#Lab-member-expectations-and-responsibilities).
+Many topics were covered already in the [Lab member expectations & responsibilities section](#lab-member-expectations-and-responsibilities).
 
 ## COVID-19 Policy
-Many meetings will be moved online (see [Meetings](#Meetings)) but any in-person meetings need to follow COVID-19 policies. When meeting, please wear a mask and stay home if you are experiencing any flu-like symptoms. Contact Dr. Leary, your healthcare provider, and get proper treatment. Sanitize all equipment after use and remain courteous of personal space.
+Many meetings will be moved online (see [Meetings](#meetings)) but any in-person meetings need to follow COVID-19 policies. When meeting, please wear a mask and stay home if you are experiencing any flu-like symptoms. Contact Dr. Leary, your healthcare provider, and get proper treatment. Sanitize all equipment after use and remain courteous of personal space.
 
 ## Confidentiality Policy
 We expect all the lab members to exercise reasonable care in the disclosure, use and management of restricted information about patients, patient care, personnel, students and the fiscal affairs of University of Missouri Health. 
@@ -420,7 +420,7 @@ Department managers may establish departmental standards as appropriate and moni
 Conflicts with the Hospital dress code or departmental standards arising from staff who request special accommodation, should be referred to Human Resources.
 
 ## Zoom Etiquette
-Show up to Zoom meetings ready to speak and, if possible, with your camera on (required for lab meetings.) Act with the same protocol in person meetings have and follow MOI dress codes (more casual can be ok.) Prior to [weekly lab meetings](#Weekly-lab-meetings), please update your slide on Box with work done throughout the past week and come prepared with possible questions and comments. 
+Show up to Zoom meetings ready to speak and, if possible, with your camera on (required for lab meetings.) Act with the same protocol in person meetings have and follow MOI dress codes (more casual can be ok.) Prior to [weekly lab meetings](#weekly-lab-meetings), please update your slide on Box with work done throughout the past week and come prepared with possible questions and comments. 
  
 ## Training
 
