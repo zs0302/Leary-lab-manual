@@ -478,7 +478,7 @@ Summary_statistics(Input_Data = your data,
                    Output_Path = your output_path)
 ```
 
-We created a test data [here]() with random numbers for you to have a try.
+We created a test data [here](https://github.com/zhengyes/Leary-lab-manual/blob/master/Summary_Statistics_Test.R) with random numbers for you to have a try.
 
 ## File Formatting
 
