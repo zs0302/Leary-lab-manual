@@ -460,6 +460,26 @@ When you complete these trainings, save your completion certificates as .pdf fil
 <img src="Swirl R repository.jpg" width="600">
 </p>
 
+4. Useful R function for data checking and generating summary statistics
+
+[Here]() we developed a convenient and efficient R programming code template which can generate summary tables, linear regression and logistic regression results for your data. This code was developed and shared by our lab member, Jinpu Li. This code uses ‘data file’, ‘independent variable’, ‘dependent variable’ and ‘output path’ as the function inputs.  The result is  one excel file with three sheets (tabs). 
+
+ * The first sheet contains the summary statistics for all variables, separately for numerical and categorical variables. 
+ * The second sheet contains the simple linear regression results and linear regression assumption check plots. The goodness of fit measures, R square or adjusted R square, is also reported for each model.
+ * The third sheet contains the simple logistic regression result. Odds ratios for categorical variables, as well as numerical variables summary statistics and their comparison test result, are also reported by outcome group.
+
+Here are three things you need to pay attention when using this code: 1. All categorical variables should be saved as factors. 2. The reference level should be the first level. 3. There should be no missing data. After these data are preprocessed, run the code below and an excel file will be created using the provided output path. The plot cache is deleted to free up your local storage but everything is output to the excel file.
+
+```{r eval=FALSE}
+source("your path for Summary_Statistics.R")
+Summary_statistics(Input_Data = your data,
+                   Independent_Vars = your independent variable list,
+                   Dependent_Vars = your dependent variable list,
+                   Output_Path = your output_path)
+```
+
+We created a test data [here]() with random numbers for you to have a try.
+
 ## File Formatting
 
 *	All Word Files must be changed to the English language and all reports must be spell-checked (in English!). 
