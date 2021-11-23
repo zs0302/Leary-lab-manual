@@ -462,7 +462,7 @@ When you complete these trainings, save your completion certificates as .pdf fil
 
 4. Useful R function for data checking and generating summary statistics
 
-[Here]() we developed a convenient and efficient R programming code template which can generate summary tables, linear regression and logistic regression results for your data. This code was developed and shared by our lab member, Jinpu Li. This code uses ‘data file’, ‘independent variable’, ‘dependent variable’ and ‘output path’ as the function inputs.  The result is  one excel file with three sheets (tabs). 
+[Here](https://github.com/zhengyes/Leary-lab-manual/blob/master/Summary_Statistics.R) we developed a convenient and efficient R programming code template which can generate summary tables, linear regression and logistic regression results for your data. This code was developed and shared by our lab member, Jinpu Li. This code uses ‘data file’, ‘independent variable’, ‘dependent variable’ and ‘output path’ as the function inputs.  The result is  one excel file with three sheets (tabs). 
 
  * The first sheet contains the summary statistics for all variables, separately for numerical and categorical variables. 
  * The second sheet contains the simple linear regression results and linear regression assumption check plots. The goodness of fit measures, R square or adjusted R square, is also reported for each model.
