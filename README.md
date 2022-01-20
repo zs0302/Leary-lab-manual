@@ -340,9 +340,9 @@ In general, data will be stored in one of four places:
 The projects will have the following folders in each project folder for consistent project management (Data, Program, Output, Reports). 
 
 *	Data – put all Data here, initial data, formatted data, data dictionaries etc. You should keep the original data in a folder labeled "Original". Put all datasets you created in an archive folder so that other members can check the data at anytime, without rerunning your code. Final version for all analyses must be exported to .csv format and have a corresponding data dictionary. Aim to be consistent with the way data is organized between documents to allow for an easier transition into R.
-*	Programs – put all R code here or any other code. You must save your R code each time you revise it - please use a date in your file name (YYYYMMDD). You must annotate all of your R code. It may be years until you need to re-visit a project (or I may need to later on). Annotate your code! 
+*	Program – put all R code here or any other code. You must save your R code each time you revise it - please use a date in your file name (YYYYMMDD). You must annotate all of your R code. It may be years until you need to re-visit a project (or I may need to later on). Annotate your code! 
 *	Output – put all calculated tables, figures, and other output here. You must save your R workspace here. Date your files using the filename.
-*	Reports – put all report drafts here as well as any other reporting documents or data. Date your files in the filename.
+*	Report – put all report drafts here as well as any other reporting documents or data. Date your files in the filename.
 
 You should use an organization scheme like the above one. When you archive the dataset, you will be required to format it like the above (or something similarly transparent in its organization), so it might as well start that way. 
 
