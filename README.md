@@ -361,10 +361,12 @@ Before you leave the lab, you will be required to document and archive all datas
 Not only is data-sharing the right thing to do, we are actually required to do so for any dataset that was funded by the NIH. The final datasets must be archived in .csv format with a complete data dictionary. You should also be prepared to share any scripts or code that you used in your published processing & analysis pipeline. Dr. Leary will be responsible for sharing all final data; you are responsible for formatting and organizing your data so she can do that.
 
 ### Project management
-A .txt readme file is required to be located in the project folder.  This readme file should include the information below for each time you update this project.
+A .txt readme file is required to be located in the project folder. 
 <p align="center">
 <img src="proj_managemt.png" width="600">
 </p>
+
+This readme file should include the information below for each time you update this project.
 
 Line 1: Time (yyyy/mm/dd)
 
