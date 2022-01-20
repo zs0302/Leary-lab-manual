@@ -360,6 +360,26 @@ Before you leave the lab, you will be required to document and archive all datas
 ### Data sharing
 Not only is data-sharing the right thing to do, we are actually required to do so for any dataset that was funded by the NIH. The final datasets must be archived in .csv format with a complete data dictionary. You should also be prepared to share any scripts or code that you used in your published processing & analysis pipeline. Dr. Leary will be responsible for sharing all final data; you are responsible for formatting and organizing your data so she can do that.
 
+### Project management
+A .txt readme file is required to be located in the project folder.  This readme file should include the information below for each time you update this project.
+
+Line 1: Time (yyyy/mm/dd)
+Line 2: Author
+Line 3: What are the current tasks
+Line 4: The work you have done 
+
+### R code comments
+It is very IMPORTANT to make sure your code can be easily read and understood. Writing the code comment properly can be beneficial for code maintaining, updating, and correcting to both you and other people who may use it in the future. We recommend the guidelines below to write precise, legible code comments.
+0. Write codes in different sections by their purposes, and use a line to separate them.
+For example, we can have a preprocessing section and an analysis section in the code. Draw a line to determine the boundary of these two sections.
+1. Section headings
+Each section should have a brief description about the purpose. For each chunk of code which implement a specific task, write comments to describe what it is and the purpose of it.
+Avoid using redundant, misleading or funny/insulting comments.
+
+2. Naming convention
+Use clear variable and function names to reduce the effort needed to read and understand source code. Choose a naming style and be consistent, use camelCase or under_scores but not both.
+Name the variable or function by what it does. For example, if your variable stores the information of patient income as a categorical variable, you can call it Income_Levels.
+
 ###### <p dir='rtl' align='right'>[Top](#Table-of-contents)</p>
 # Funding
 
