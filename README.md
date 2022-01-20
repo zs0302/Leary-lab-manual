@@ -362,10 +362,16 @@ Not only is data-sharing the right thing to do, we are actually required to do s
 
 ### Project management
 A .txt readme file is required to be located in the project folder.  This readme file should include the information below for each time you update this project.
+<p align="center">
+<img src="proj_managemt.png" width="600">
+</p>
 
 Line 1: Time (yyyy/mm/dd)
+
 Line 2: Author
+
 Line 3: What are the current tasks
+
 Line 4: The work you have done 
 
 ### R code comments
