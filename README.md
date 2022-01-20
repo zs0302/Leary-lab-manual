@@ -370,8 +370,10 @@ Line 4: The work you have done
 
 ### R code comments
 It is very IMPORTANT to make sure your code can be easily read and understood. Writing the code comment properly can be beneficial for code maintaining, updating, and correcting to both you and other people who may use it in the future. We recommend the guidelines below to write precise, legible code comments.
+
 0. Write codes in different sections by their purposes, and use a line to separate them.
 For example, we can have a preprocessing section and an analysis section in the code. Draw a line to determine the boundary of these two sections.
+
 1. Section headings
 Each section should have a brief description about the purpose. For each chunk of code which implement a specific task, write comments to describe what it is and the purpose of it.
 Avoid using redundant, misleading or funny/insulting comments.
