@@ -1,6 +1,11 @@
 
 Leary Ortho Biostats Lab Manual
 =============================
+
+<p dir='rtl' align='right'> Last update: 02/07/2022 </p>
+
+<IMG SRC="Pictures/pic_to_use.png" ALIGN='right' height= 250 width =460 hspace=-100 vspace=0/>
+
 ## Table of Contents
 
 [Introduction](#introduction)
@@ -13,13 +18,15 @@ Leary Ortho Biostats Lab Manual
  
 * [Postdocs](#postdocs)
  
-* [Graduate students (PhD/Master)](#graduate-students-phdmaster)
+* [OPT trainees & Graduate students (Master/PhD)](#opt-trainees-graduate-students-masterphd)
  
 * [Lab managers](#lab-managers)
+
+* [Medical Students/Residents/Fellows](#medical-studentsresidentsfellows)
  
 * [Other full-time staff](#other-full-time-staff)
  
-* [Undergraduate students](#undergraduate-students)
+* [Undergraduate students/High School Students](#undergraduate-studentshigh-school-students)
 
 [Code of conduct](#code-of-conduct)
 
@@ -31,7 +38,7 @@ Leary Ortho Biostats Lab Manual
 
 * [Data Security](#data-security)
 
-* [Lab Notebook Policy](#lab-notebook-policy)
+* [Lab OneNote/project administration policy](#lab-onenoteproject-administration-policy)
 
 * [Schedule Notification](#schedule-notification)
 
@@ -49,7 +56,9 @@ Leary Ortho Biostats Lab Manual
 
 * [OneNote](#onenote)
 
-* [Project Management using OneDrive](#project-management-using-ortho-biostats-drive)
+* [OneDrive](#onedrive)
+
+* [Project Management using OrthoStats folder on H drive](#project-management-using-orthostats-folder-on-h-drive)
 
 [General policies](#general-policies)
 
@@ -97,6 +106,7 @@ This work is licensed under a CC Attribution 4.0 license. We expect that more in
 - Do work that you are proud of. 
 - Don’t rush your work. Double-check your work and ask others to look at your code or data if you need help or something looks off. 
 - Tell your collaborators if you do make a mistake (if they have already seen the results). We admit our mistakes, and then we correct them and move on.
+- Ask if you don’t know the answer or are unsure.  Do not waste time doing something that will need to be re-done later.  Make sure you understand what is needed.  Time is valuable and it is not helpful to waste it.
 - No academic misconduct. It is never ok to plagiarize, tamper with data, make up data, omit data, or fudge results in any way.
 - Be supportive of your lab mates. Share your knowledge and help them out if they need help.
 - Work independently when you can, ask for help when you need it.
@@ -107,14 +117,14 @@ This work is licensed under a CC Attribution 4.0 license. We expect that more in
 
 ### Small picture
 - Do not come into the lab if you are sick. Stay home and get healthy, and don't risk getting others sick.
-- Notify Dr. Leary if you will be out, either due to illness or vacation. You need to send an email to Dr. Leary and cc Stacee Clawson (clawsons@health.missouri.edu) and Gigi Harrison (harrisongs@health.missouri.edu). If you are sick and you had experiments or meetings scheduled that day, notify your participants or collaborators and reschedule.
+- If you are an hourly employee or volunteer, notify Dr. Leary if you will be out, either due to illness or vacation. If you are salaried, you need to send an email to : MU SOM Orthopaedics Absence Request (musomabsencerequest2@missouri.edu) and cc Dr. Leary and Stacee Baker (clawsons@health.missouri.edu). If you are sick and you had experiments or meetings scheduled that day, notify your participants or collaborators and reschedule.
 - You aren’t expected to come into lab on weekends and holidays, and you aren’t expected to stay late at night. You are expected to get your work done (whatever time of day you like to do it).
 - Show up to your meetings, classes, and exams – just show up for your commitments, and work the hours you need to work to get stuff done.
 - Lock the doors if no one else is around, even if you're stepping out for a minute.
 - Keep your area tidy. Eating at your desk is fine, but clean up food waste, crumbs, spills. Put equipment back where you found it. Keep common areas uncluttered.
-- MOI has a specific dress code, you can check the details at [MOI dress code](#MOI-dress-code). 
-- Two trainings (HCUP and IRB) are necessary to be completed before working in the lab. Find details [here](#Training).
-- You also need to sign the [Ortho Notebook Policy](https://github.com/zhengyes/lab-manual/blob/master/Files/Ortho%20Notebook%20Policy.pdf) and [DOS National Database Policy](https://github.com/zhengyes/lab-manual/blob/master/Files/DOS%20National%20Database%20Policy.pdf) for the MOI and lab.
+- MOI has a specific dress code, you can check the details at [MOI dress code](#moi-dress-code). 
+- Two trainings (HCUP and IRB) are necessary to be completed before working in the lab. Find details [here](#training).
+- You also need to sign the [Ortho OneNote Policy](https://github.com/zhengyes/lab-manual/blob/master/Files/Ortho%20OneNote%20Policy.pdf) and [DOS National Database Policy](https://github.com/zhengyes/lab-manual/blob/master/Files/DOS%20National%20Database%20Policy.pdf) for the MOI and lab.
 - Be on time. Be on time for your meetings: respect that others have packed days and everyone’s time is valuable.
 
 ## Dr. Leary Principal Investigator
@@ -135,7 +145,7 @@ All of the [Lab member expectations and responsibilities](#everyone), plus you w
 - If you are planning to pursue a non-academic career, treat your postdoctoral research as seriously as you might if you were pursuing an academic career. We can discuss ways of making sure that you are getting the training you need, while still doing excellent research.
 - Remind the PI that different scientific opinions can co-exist in the same lab!
 
-## Graduate students (PhD/Master)
+## OPT trainees & Graduate students (Master/PhD)
 All of the [Lab member expectations and responsibilities](#everyone), plus you will be expected to:
 - (PhD) Develop a line of dissertation research. Ideally, your dissertation research will consist of at least 3 experiments that can be packaged into one thesis document.
 - (Master) Plan your master project with advisor and ideally, this can be submitted as at least one paper for peer-reviewed publication.
@@ -154,6 +164,13 @@ All of the [Lab member expectations and responsibilities](#everyone), plus you w
 - Help to maintain an atmosphere of professionalism within the lab.
 - Work on your own research project.
 
+## Medical Students/Residents/Fellows
+All of the [Lab member expectations and responsibilities](#everyone), plus you will be expected to:
+- Assist other lab members with data collection or analysis (typically you will be assigned to particular projects).
+- Work to learn basic analyses related to your projects.  You likely won’t be required to do the statistics yourself, but you should have an understanding of the statistics, the process, and why it was used.  Be knowledgeable about every aspect of your project. 
+- Work on manuscripts related to projects and help others with manuscript writing, if needed.  Other lab personnel can learn a lot from your perspective and training. Let’s share knowledge. 
+
+
 ## Other full-time staff
 All of the [Lab member expectations and responsibilities](#everyone), plus you will be expected to:
 - Work on your own research project.
@@ -161,7 +178,7 @@ All of the [Lab member expectations and responsibilities](#everyone), plus you w
 - Help to maintain an atmosphere of professionalism within the lab.
 - Provide extra support to the lab manager and PI.
 
-## Undergraduate students
+## Undergraduate students/High School Students
 All of the [Lab member expectations and responsibilities](#everyone), plus you will be expected to:
 - Assist other lab members with data collection or analysis (typically you will be assigned to particular projects).
 - Work with the lab manager and/or your research mentor to determine your weekly schedule. If you are not able to come in during your normal scheduled time, you must let the lab manager or research mentor know.
@@ -172,10 +189,10 @@ Undergraduate research assistants play an important role in our lab, and we have
 
 # Code of conduct
 ## General
-Many topics were covered already in the [Lab member expectations & responsibilities section](#Lab-member-expectations-and-responsibilities).
+Many topics were covered already in the [Lab member expectations & responsibilities section](#lab-member-expectations-and-responsibilities).
 
 ## COVID-19 Policy
-Many meetings will be moved online (see [Meetings](#Meetings)) but any in-person meetings need to follow COVID-19 policies. When meeting, please wear a mask and stay home if you are experiencing any flu-like symptoms. Contact Dr. Leary, your healthcare provider, and get proper treatment. Sanitize all equipment after use and remain courteous of personal space.
+Many meetings will be moved online (see [Meetings](#meetings)) but any in-person meetings need to follow COVID-19 policies. When meeting, please wear a mask and stay home if you are experiencing any flu-like symptoms. Contact Dr. Leary, your healthcare provider, and get proper treatment. Sanitize all equipment after use and remain courteous of personal space.
 
 ## Confidentiality Policy
 We expect all the lab members to exercise reasonable care in the disclosure, use and management of restricted information about patients, patient care, personnel, students and the fiscal affairs of University of Missouri Health. 
@@ -198,40 +215,51 @@ The HIPAA Privacy Rule protects all "individually identifiable health informatio
 * the past, present, or future payment for the provision of health care to the individual,
 and that identifies the individual or for which there is a reasonable basis to believe it can be used to identify the individual. Individually identifiable health information includes many common identifiers (e.g., name, address, birth date, zipcode, Social Security Number). 
 
-Dr. Leary will generally send you the data without identifiable health information. All work, and particularly data, should be stored on Box or the Ortho Biostats server space (Z drive) as it is compliant with DSL 4, HIPAA, and HITECH guidelines. Box accounts must be configured to comply with HIPAA requirements. Any identifiable data posted on the lab OneNote should be password protected. Any identifiable data cannot be viewed or studied unless you are listed as study personnel on that studys' IRB.
+Dr. Leary will generally send you the data without identifiable health information. All work, and particularly data, should be stored on OneDrive or the OrthoStats folder on the H drive as it is compliant with DSL 4, HIPAA, and HITECH guidelines. OneDrive accounts must be configured to comply with HIPAA requirements. Any identifiable data posted on the lab OneNote should be password protected. Any identifiable data cannot be viewed or studied unless you are listed as study personnel on that studys' IRB.
 
 ## Data Security
 We must exercise reasonable care in the disclosure, transmission, access, use and management of confidential information about patients, patient care, personnel, students and proprietary business affairs of University of Missouri Health. 
 As stated in the University of Missouri Acceptable Use Policy, electronic information on MU Health networks or equipment, including, but not limited to, electronic mail and personal information, is subject to examination when: 
-*	It is necessary to maintain or improve the functioning of our computing resources. 
-*	There is suspicion of misconduct under MU Health policies or suspicion of violation of federal or state law. 
-*	It is necessary to comply with or verify compliance with federal or state law. 
+
+* It is necessary to maintain or improve the functioning of our computing resources. 
+* There is suspicion of misconduct under MU Health policies or suspicion of violation of federal or state law. 
+* It is necessary to comply with or verify compliance with federal or state law. 
+
 
 Protecting confidential information is a priority within our health care system: 
+
 *	Do NOT access patient information unless you need the information to do your job. Inappropriate access to patient information will lead to disciplinary action and possible dismissal from the lab. 
 *	You are to access only the minimum information necessary to accomplish your assigned job duties. This includes all information in paper and electronic form. 
 *	Only discuss patient information with authorized personnel and in a private location where unauthorized persons cannot overhear even if you are not using patient names. 
 *	Do NOT give information about patients or staff to anyone over the phone.
 *	Shred or place confidential information in receptacles specifically used for confidential waste disposal. Never put confidential waste in recycle bins or the regular trash. 
 *	[The Access and Confidentiality Agreement](https://www.umsystem.edu/media/is/infosec/confidentiality-agreement.pdf) must be read and signed by all instructors and all lab members. 
-* Some more information about MU health confidentiality can be found [here](https://medicine.missouri.edu/centers-institutes-labs/health-ethics/faq/confidentiality).
+*   Some more information about MU health confidentiality can be found [here](https://medicine.missouri.edu/centers-institutes-labs/health-ethics/faq/confidentiality).
+*	Do not email datasets, even if using encrypted email. Instead, add the recipient as a viewer to the file on OneDrive and then send the link to the intended recipient. 
+1. Select data, and click Share
+
+<p align="center">
+<img src="Pictures/shareData1.png" width="500">
+</p>
+2. Type recipient email address
+<p align="center">
+<img src="Pictures/shareData2.png" width="400">
+</p>
 
 
-## Lab Notebook Policy
-Upon your involvement in research at the Department of Orthopaedic Surgery, you will be provided a notebook to aid in your work. Research or "lab notebooks" are an essential part of doing scientific research. The purpose of this notebook is to have an organized location for you to record and store notes and protocols about the research projects you are involved in through the department. This will help you to keep track of your work and allow you and others to review the steps taken during your analyses.
+## Lab OneNote/project administration policy
+Upon your involvement in research at the Department of Orthopaedic Surgery, you will be assigned a OneNote folder to aid in your work. Research or lab notes are an essential part of doing scientific research. The purpose of this OneNote is to have an organized location for you to record and store notes and protocols about the research projects you are involved in through the department. This will help you to keep track of your work and allow you and others to review the steps taken during your analyses.
+
 
 ### Expectations
-This notebook:
-*	should be labeled with your name and contact information,
-*	should be brought to every meeting with Dr. Leary,
-*	should be legible and kept in good condition,
-*	should contain notes from meetings and a detailed account of the statistical analyses you perform,
+This OneNote:
+*	should contain a detailed account of the statistical analyses you perform,
 *	should be organized and detailed enough for someone else to read and understand what you did,
-*	should not contain notes for other courses or projects outside of the Department of Orthopaedic Surgery.
-* should be in English, other languages should only be used for notes to yourself regarding English terms.
+*   should be in English.
+*   should not contain notes for other courses or projects outside of the Department of Orthopaedic Surgery.
 
 ### Security
-All notebook holders should consider the sensitivity of the information that might be contained within the notebook in order to minimize dissemination of unauthorized information. Due to the sensitive nature of the data that you will be working with, the Department of Orthopaedic Surgery retains the right to confiscate this notebook anytime during or after your involvement with any affiliated research projects. At the end of your time with the lab, please turn in your lab notebook.
+In order to minimize dissemination of unauthorized information, all lab members should consider the sensitivity of the information that might be contained within the OneNote when working outside the office. Due to the sensitive nature of the data that you will be working with, the Department of Orthopaedic Surgery retains the right to confiscate the data anytime during or after your involvement with any affiliated research projects. 
 
 
 ## Schedule Notification
@@ -248,7 +276,7 @@ The lab is dedicated to providing a harassment-free experience for everyone, reg
 
 Members asked to stop any harassing behavior are expected to comply immediately.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact Dr. Leary immediately. If Dr. Leary is the cause of your concern, then please reach out to Ms. Stacee Clawson, Dr. James Cook or another trusted department member who can assist.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact Dr. Leary immediately. If Dr. Leary is the cause of your concern, then please reach out to Ms. Stacee Baker, Dr. James Cook or another trusted department member who can assist.
 
 We expect members to follow these guidelines at any lab-related event or activity.
 
@@ -260,7 +288,7 @@ Reproducible research is research that can be exactly reproduced given the *same
 
 For results to be reproducible, it requires that you are organized and possess sufficient foresight to document each step of your research process. There are two main things you can do to improve the reproducibility of your research:
 - Extensive notetaking. You will need extensive notes on each step of your analysis pipeline, explaining how you did things every step of the way (and the order that you did things), from any pre-processing of the data, to running models, to statistical tests. Your code should also be commented clearly so that every step is understandable by an outsider. 
-- Programming workflows with version control. It is highly encouraged that you use some form of version control (e.g., Git in combination with GitHub or file naming conventions for code saved to Box or other storage locations) to keep track of what code changes you made and when you made them, as well as sharing code with others.
+- Programming workflows with version control. It is highly encouraged that you use some form of version control (e.g., Git in combination with GitHub or file naming conventions for code saved to OneDrive or other storage locations) to keep track of what code changes you made and when you made them, as well as sharing code with others.
 
 ### Authorship
 We will follow NIH guidelines with respect to authorship
@@ -282,7 +310,7 @@ If you encounter any problems in the course of doing research that results in a 
 
 # Lab Resources
 ## GitHub
-GitHub is a hosting service. Projects on GitHub can be accessed and manipulated using the standard Git command-line interface and all of the standard Git commands work with it. GitHub also allows registered and non-registered users to browse public repositories on the site. All members must register an account in order to contribute to discussion and manage repository. This lab manual is on GitHub and the corresponding lab wiki is also on GitHub. Please check the [lab manual](https://github.com/LearyE/Ortho-Biostats) and [lab wiki](https://github.com/LearyE/Ortho-Biostats/wiki) first,  if you have any lab related questions. 
+GitHub is a hosting service. Projects on GitHub can be accessed and manipulated using the standard Git command-line interface and all of the standard Git commands work with it. GitHub also allows registered and non-registered users to browse public repositories on the site. All members must register an account in order to contribute to discussion and manage repository. This lab manual is on GitHub. Please check the [lab manual](https://github.com/LearyE/lab-manual) first,  if you have any lab related questions. 
 
 ## Outlook
 Outlook is primarily an email application, it also includes a calendar, task manager, contact manager, note taking, journal, and web browsing. Using Outlook is required for the lab.
@@ -295,11 +323,11 @@ Outlook Calendar is within Outlook. It can help to arrange and manage meetings a
 ## OneNote
 OneNote is a digital notebook for taking notes and managing information. Notes can be shared with other OneNote users over the internet or network. Relevant notes from the lab meeting or tasks will be posted on OneNote and sent through Outlook. OneNote will be used as our project management tool, to communicate/share project progress (through tasks etc.) and using email.
 
-## Project Management using Ortho Biostats Drive
-Dr. Leary will assign each lab member an Ortho Biostats drive (Z drive) folder with your name. This folder must contain all the materials of your projects. Do not save any project materials on a computer or in another cloud service. If system lags make this impossible, all material must be moved to the Ortho Biostats drive each week. Box can also be used instead. This issue should be temporary (as of Nov 2020) but it is important that best practices be followed as closely as possible, while also not hindering working abilities. 
+## OneDrive
+OneDrive is a tool that allows you to sync data stored on Microsoft Office to your desktop. It essentially allows OneDrive to function as a cloud "drive" on your computer. You can navigate and modify content stored on the OneDrive website through your computer’s native file browsing interface, without using a web browser. You must log in to your Microsoft account every time you wish to use it. To install OneDrive, please check [this](https://support.microsoft.com/en-us/office/sync-files-with-onedrive-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49) if you have problem about installing or setting sync folder. Currently, OneDrive is approved for all files and applications. 
 
-### OneDrive
-OneDrive is a tool that allows you to sync data stored on Microsoft Office to your desktop. It essentially allows OneDrive to function as a cloud "drive" on your computer. You can navigate and modify content stored on the OneDrive website through your computer’s native file browsing interface, without using a web browser. You must log in to your Microsoft account every time you wish to use it. To install OneDrive, please check [this](https://support.microsoft.com/en-us/office/sync-files-with-onedrive-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49) if you have problem about installing or setting sync folder. Currently (Nov 2020), OneDrive is not approved for patient data. This tool will likely be approved in the future. However, it is currently available for non-PHI data and related storage needs.
+## Project Management using OrthoStats folder on H drive
+Dr. Leary will assign each lab member an OneDrive folder with your name. This folder must contain all the materials of your projects. Do not save any project materials on a computer or in another cloud service. If system lags make this impossible, all material must be moved to the OrthoStats folder on the H drive each week. 
 
 
 # General policies
@@ -311,7 +339,7 @@ Dr. Leary is generally in her office (MOI room 4216) from 8 a.m. to 5 p.m. on we
 
 ## Meetings
 ### Weekly lab meetings
-Weekly lab meetings will be focused on project presentations and going over new data or methods. The weekly lab meeting is currently occurring remotely (via Zoom) every Tuesday at about 1 p.m., meetings usually last about 1 to 1.5 hours. If the location or time changes, Dr. Leary will email you in advance. If at the end of meeting, we need more time to discuss something, we will schedule another meeting. Lab meeting agendas and notes must be updated and maintained by each lab member. This is located in the `lab meetings` folder on Box. All lab members are expected to attend the weekly lab meeting. 
+Weekly lab meetings will be focused on project presentations and going over new data or methods. The weekly lab meeting is currently occurring remotely (via Zoom) every Tuesday sometime in the afternoon, meetings usually last about 1 to 1.5 hours. If the location or time changes, Dr. Leary will email you in advance. If at the end of meeting, we need more time to discuss something, we will schedule another meeting. Lab meeting agendas and notes must be updated and maintained by each lab member. This is located in the `lab meetings` folder on OneNote. All lab members are expected to attend the weekly lab meeting. 
 
 ### Individual meetings
 
@@ -323,7 +351,7 @@ Dr. Leary will expect advance notice of at least 2 weeks for reading/commenting 
 ## Presentations/Abstracts
 It is highly encouraged that you seek out opportunities to present your research, whether it is at departmental talk series and events, to other labs at conferences, or to the general public. Abstracts from work done in the lab must be approved by all authors (and Dr. Leary) prior to submission. If you are going to give a presentation (a poster or a talk), be prepared to give a practice presentation to the lab at least one week ahead of time (two weeks or more are advisable for conference presentations, and many weeks ahead of time are advisable for job talks, which require a lot of refining).  Practice talks will help you feel comfortable with your presentation, and will also allow you to get feedback from the lab and implement those changes well in advance of your real presentation.
 
-Templates for posters are available at [here](https://missouri.app.box.com/s/whqy3iw5hefqrdcxhw69f06e0gc9pww8), and those are highly recommended, particularly for orthopaedic focused conferences. Some general rules for posters should be followed: minimize text as much as possible (if you wrote a paragraph, you’re doing it wrong), make figures and text large and easy to see at a distance, label your axes, and make sure different colors are easily discriminable. 
+Templates for posters are available at [here](https://github.com/zhengyes/lab-manual/blob/master/Poster_Template), and those are highly recommended, particularly for orthopaedic focused conferences. Some general rules for posters should be followed: minimize text as much as possible (if you wrote a paragraph, you’re doing it wrong), make figures and text large and easy to see at a distance, label your axes, and make sure different colors are easily discriminable. 
 
 ## Recommendation letters
 Letters of recommendation are one of the many benefits of working in a research lab. You can count on Dr. Leary to write a letter if you have spent at least 6 months in the lab. (It’s hard to really know someone if they have only been around for a few months.) Exceptions can be made for shorter-term lab members in special circumstances (e.g., new graduate students or postdocs applying for fellowships). 
@@ -333,8 +361,7 @@ To request a letter of recommendation, please adhere to the deadline requirement
 ## Data management
 ### Storing active datasets (need to complete)
 In general, data will be stored in one of four places:
-- Your assigned box folder
-- Ortho Biostats Drive (Z drive)
+- Your assigned OneDrive folder
 - H drive (Ortho server)
 
 ### Data organization
@@ -353,13 +380,41 @@ You must save each file with the date in the filename using the following format
 ### Basic Data Management
 All data must be checked for validity, reasonability, and formatting. Sometimes missing data are denoted by “.”, “_”, “NA”, “NaN”, “-99” or “9999”. Or sometimes values are incorrect, for example, if you have a negative weight or weigh 9999lbs. If you do not check, these can be included in calculated means and other analyses. These may need to be re-coded – this is fine as long as this is documented in the report. 
 
-All statistical assumptions must be met prior to analysis. If assumptions are not met, investigate other approaches (e.g. non-parametric) or by combining categories for small cell counts. 
+All statistical assumptions must be met prior to analysis. If assumptions are not met, investigate other approaches (e.g. non-parametric) or by combining categories for small cell counts.  It is best to discuss briefly with Dr. Leary to ensure that extra time is not wasted. 
 
 ### Archiving inactive datasets
-Before you leave the lab, you will be required to document and archive all datasets that you have collected or analyzed. The dataset will be reviewed before you leave. Please move the data to your Box folder (or OneDrive or Ortho Biostats Drive), and make sure annotated codes are included and will run data (e.g. produce the final data). 
+Before you leave the lab, you will be required to document and archive all datasets that you have collected or analyzed. The dataset will be reviewed before you leave. Please move the data to your folder (OneDrive folder or Orthosstats folder), and make sure annotated codes are included and will run data (e.g. produce the final data). 
 
 ### Data sharing
-Not only is data-sharing the right thing to do, we are actually required to do so for any dataset that was funded by the NIH. The final datasets must be archived in .csv format with a complete data dictionary. You should also be prepared to share any scripts or code that you used in your published processing & analysis pipeline. Dr. Leary will be responsible for sharing all final data; you are responsible for formatting and organizing your data so she can do that.
+Not only is data-sharing the right thing to do, we are actually required to do so for any dataset that was funded by the NIH. NIH has issued new [policy](https://grants.nih.gov/grants/policy/data_sharing/data_sharing_guidance.htm) for data managemenr and sharing, things to note is the special formatting requirements. The final datasets must be archived in .csv format with a complete data dictionary. You should also be prepared to share any scripts or code that you used in your published processing & analysis pipeline. Dr. Leary will be responsible for sharing all final data; you are responsible for formatting and organizing your data so she can do that.
+
+### Project management
+
+A .txt readme file is required to be located in the project folder.
+
+This readme file should include the information below for each time you update this project.
+<p align="center">
+<img src="Pictures/proj_managemt.png" width="600">
+</p>
+
+Line 1: Time (yyyy/mm/dd)
+
+Line 2: Author
+
+Line 3: What are the current tasks
+
+Line 4: The work you have done
+
+### Code annotations
+
+It is very IMPORTANT to make sure your code can be easily read and understood. Writing the code comment properly can be beneficial for code maintaining, updating, and correcting to both you and other people who may use it in the future. We recommend the guidelines below to write precise, legible code comments.
+
+0. Write codes in different sections by their purposes, and use a line to separate them. For example, we can have a preprocessing section and an analysis section in the code. Draw a line to determine the boundary of these two sections.
+
+1. Section headings Each section should have a brief description about the purpose. For each chunk of code which implement a specific task, write comments to describe what it is and the purpose of it. Avoid using redundant, misleading or funny/insulting comments.
+
+2. Naming convention Use clear variable and function names to reduce the effort needed to read and understand source code. Choose a naming style and be consistent, use camelCase or under_scores but not both. Name the variable or function by what it does. For example, if your variable stores the information of patient income as a categorical variable, you can call it Income_Levels.
+
 
 
 # Funding
@@ -415,7 +470,7 @@ Department managers may establish departmental standards as appropriate and moni
 Conflicts with the Hospital dress code or departmental standards arising from staff who request special accommodation, should be referred to Human Resources.
 
 ## Zoom Etiquette
-Show up to Zoom meetings ready to speak and, if possible, with your camera on (required for lab meetings.) Act with the same protocol in person meetings have and follow MOI dress codes (more casual can be ok.) Prior to [weekly lab meetings](#Weekly-lab-meetings), please update your slide on Box with work done throughout the past week and come prepared with possible questions and comments. 
+Show up to Zoom meetings ready to speak and, if possible, with your camera on (required for lab meetings.) Act with the same protocol in person meetings have and follow MOI dress codes (more casual can be ok).
  
 ## Training
 
@@ -453,14 +508,36 @@ When you complete these trainings, save your completion certificates as .pdf fil
 * Link to Swirl: [here](https://swirlstats.com/students.html). If you need help installing and getting started, follow the steps listed on the website.
 
 <p align="center">
-<img src="Swirl R.jpg" width="600">
+<img src="Pictures/Swirl R.jpg" width="600">
 </p>
 
 * Link to Swirl Repository: [here](https://github.com/swirldev/swirl_courses#swirl-courses). This will give you the instructions to download the interactive courses that will teach you the fundamentals of R.
 
 <p align="center">
-<img src="Swirl R repository.jpg" width="600">
+<img src="Pictures/Swirl R repository.jpg" width="600">
 </p>
+
+
+4. Useful R function for data checking and generating summary statistics
+
+[Here](https://github.com/zhengyes/Leary-lab-manual/blob/master/Summary_Statistics.R) we developed a convenient and efficient R programming code template which can generate summary tables, linear regression and logistic regression results for your data. This code was developed and shared by our lab member, Jinpu Li. This code uses ‘data file’, ‘independent variable’, ‘dependent variable’ and ‘output path’ as the function inputs.  The result is  one excel file with three sheets (tabs). 
+
+ * The first sheet contains the summary statistics for all variables, separately for numerical and categorical variables. 
+ * The second sheet contains the simple linear regression results and linear regression assumption check plots. The goodness of fit measures, R square or adjusted R square, is also reported for each model.
+ * The third sheet contains the simple logistic regression result. Odds ratios for categorical variables, as well as numerical variables summary statistics and their comparison test result, are also reported by outcome group.
+
+Here are three things you need to pay attention when using this code: 1. All categorical variables should be saved as factors. 2. The reference level should be the first level. 3. There should be no missing data. After these data are preprocessed, run the code below and an excel file will be created using the provided output path. The plot cache is deleted to free up your local storage but everything is output to the excel file.
+
+```{r eval=FALSE}
+source("your path for Summary_Statistics.R")
+Summary_statistics(Input_Data = your data,
+                   Independent_Vars = your independent variable list,
+                   Dependent_Vars = your dependent variable list,
+                   Output_Path = your output_path)
+```
+
+We created a test data [here](https://github.com/zhengyes/Leary-lab-manual/blob/master/Summary_Statistics_Test.R) with random numbers for you to have a try.
+
 
 ## File Formatting
 
